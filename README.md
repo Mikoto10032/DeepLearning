@@ -23,6 +23,9 @@
   * [CapsNet入门系列之二：胶囊如何工作](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484165&idx=1&sn=0ca679e3a5f499f8d8addb405fe3df83&chksm=eb4ee7c6dc396ed0a330fcac12690110bcaf9a8a10794dbc5e1a326c69ecbb140140f55fd6ba&scene=21#wechat_redirect)   
   * [CapsNet入门系列之三：囊间动态路由算法](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484433&idx=1&sn=3afe4605bc2501eebbc41c6dd1af9572&chksm=eb4ee0d2dc3969c4619d6c1097d5c949c76c6c854e60d36eba4388da2c3855747818d062c90a&scene=21#wechat_redirect)   
   * [CapsNet入门系列之四：胶囊网络架构](https://mp.weixin.qq.com/s/6CRSen8P6zKaMGtX8IRfqw)     
+### 目标检测模型YOLO  
+* [目标检测模型YOLO v3问世](https://zhuanlan.zhihu.com/p/34995629)   
+
 ## 优化算法     
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)          
 * [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)         
