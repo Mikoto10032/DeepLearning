@@ -10,6 +10,8 @@
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)  
 ### CNN  
 * [1. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)     
+* [2. 从LeNet-5到DenseNet](https://zhuanlan.zhihu.com/p/31006686)        
+
 ### GAN  
 * [1. GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)   
 * [2. GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)  
@@ -32,7 +34,10 @@
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)          
 * [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)         
 * [3. 从梯度下降到拟牛顿法：盘点训练神经网络的五大学习算法](https://zhuanlan.zhihu.com/p/25703402)   
+## 深度学习算法     
+### SVD   
+* [关于奇异值分解SVD的总结（PCA、LDI）](https://zhuanlan.zhihu.com/p/30482640)          
 
-## 数据集  
+## 数据集   
 * [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
 
