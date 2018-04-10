@@ -11,7 +11,7 @@
 ### CNN  
 * [1. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)     
 ### GAN  
-* [GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)   
+* [1. GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)   
 
 ## 前沿神经网络     
 ### CapsNet     
