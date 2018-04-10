@@ -37,6 +37,7 @@
 ## 深度学习算法     
 ### SVD   
 * [1. 关于奇异值分解SVD的总结（PCA、LDI）](https://zhuanlan.zhihu.com/p/30482640)          
+* [2. 奇异值分解（SVD）](https://zhuanlan.zhihu.com/p/29846048)   
 
 ## 数据集   
 * [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
