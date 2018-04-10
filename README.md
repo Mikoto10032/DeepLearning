@@ -9,7 +9,8 @@
 ## 神经网络模型概览 
 [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)         
 ## 前沿神经网络     
-* CapsNet
+### CapsNet     
+* [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
 ## 优化算法     
 [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)          
 [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)         
