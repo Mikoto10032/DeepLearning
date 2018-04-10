@@ -26,8 +26,8 @@
 ## 优化算法     
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)          
 * [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)         
-* [从梯度下降到拟牛顿法：盘点训练神经网络的五大学习算法](https://zhuanlan.zhihu.com/p/25703402)   
+* [3. 从梯度下降到拟牛顿法：盘点训练神经网络的五大学习算法](https://zhuanlan.zhihu.com/p/25703402)   
 
 ## 数据集  
-* [25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
+* [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
 
