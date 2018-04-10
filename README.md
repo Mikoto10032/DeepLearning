@@ -44,6 +44,9 @@
 * [1. 关于奇异值分解SVD的总结（PCA、LDI）](https://zhuanlan.zhihu.com/p/30482640)          
 * [2. 奇异值分解（SVD）](https://zhuanlan.zhihu.com/p/29846048)   
 * [3. 奇异值分解(SVD)原理详解及推导](https://blog.csdn.net/zhongkejingwang/article/details/43053513)     
+## 工具平台使用   
+### Tensorflow    
+* [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
 
 ## 数据集   
 * [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
