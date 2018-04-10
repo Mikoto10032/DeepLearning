@@ -7,7 +7,9 @@
 * [5. 《模式识别与机器学习》 Christopher Bishop](https://github.com/Mikoto10032/DeepLearning/blob/master/books/模式识别与机器学习PRML_Chinese_vision.pdf)          
 * [6. 《Tensorflow实战Google深度学习框架》 郑泽宇 顾思宇](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Tensorflow%20实战Google深度学习框架.pdf)        
 ## 神经网络模型概览 
-* [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)         
+* [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)  
+### CNN  
+* [1. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)     
 ## 前沿神经网络     
 ### CapsNet     
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)      
@@ -19,7 +21,7 @@
 ## 优化算法     
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)          
 * [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)         
-* [3. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)               
+          
 ## 数据集  
 * [25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
 
