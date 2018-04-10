@@ -29,6 +29,7 @@
   * [CapsNet入门系列之四：胶囊网络架构](https://mp.weixin.qq.com/s/6CRSen8P6zKaMGtX8IRfqw)     
 ### 目标检测模型YOLO  
 * [目标检测模型YOLO v3问世](https://zhuanlan.zhihu.com/p/34995629)   
+* [目标检测|YOLOv2原理与实现(附YOLOv3)](https://zhuanlan.zhihu.com/p/35325884?group_id=966229905398362112)    
 
 ## 优化算法     
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)          
