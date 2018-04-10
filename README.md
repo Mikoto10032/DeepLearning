@@ -10,6 +10,9 @@
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)  
 ### CNN  
 * [1. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)     
+### GAN  
+* [GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)   
+
 ## 前沿神经网络     
 ### CapsNet     
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)      
