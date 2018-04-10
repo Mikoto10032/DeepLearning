@@ -12,6 +12,8 @@
 * [1. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)     
 ### GAN  
 * [1. GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)   
+* [2. GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)  
+* [3. 机器之心GitHub项目：GAN完整理论推导与实现](https://zhuanlan.zhihu.com/p/29837245)   
 
 ## 前沿神经网络     
 ### CapsNet     
