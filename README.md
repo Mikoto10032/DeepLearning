@@ -20,4 +20,6 @@
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)          
 * [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)         
 * [3. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)               
+## 数据集  
+* [25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
 
