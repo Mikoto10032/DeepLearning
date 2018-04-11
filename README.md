@@ -22,23 +22,31 @@
 ## 前沿神经网络     
 ### CapsNet     
 * [1. 先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)      
-* 2.CapsNet入门系列     
+* [2. CapsNet入门系列]()     
   * [CapsNet入门系列之一：胶囊网络背后的直觉](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484099&idx=1&sn=97e209f1a9860c8d8c51e81d98fc8a0a&chksm=eb4ee600dc396f16624a33cdfc0ead905e62ae9447b49b20146020e6cbd7d71f089101512a40&scene=21#wechat_redirect)      
   * [CapsNet入门系列之二：胶囊如何工作](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484165&idx=1&sn=0ca679e3a5f499f8d8addb405fe3df83&chksm=eb4ee7c6dc396ed0a330fcac12690110bcaf9a8a10794dbc5e1a326c69ecbb140140f55fd6ba&scene=21#wechat_redirect)   
   * [CapsNet入门系列之三：囊间动态路由算法](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484433&idx=1&sn=3afe4605bc2501eebbc41c6dd1af9572&chksm=eb4ee0d2dc3969c4619d6c1097d5c949c76c6c854e60d36eba4388da2c3855747818d062c90a&scene=21#wechat_redirect)   
   * [CapsNet入门系列之四：胶囊网络架构](https://mp.weixin.qq.com/s/6CRSen8P6zKaMGtX8IRfqw)     
 ### 目标检测模型YOLO  
 * [目标检测模型YOLO v3问世](https://zhuanlan.zhihu.com/p/34995629)   
+* [目标检测|YOLOv2原理与实现(附YOLOv3)](https://zhuanlan.zhihu.com/p/35325884?group_id=966229905398362112)    
 
 ## 优化算法     
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)          
 * [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)         
 * [3. 从梯度下降到拟牛顿法：盘点训练神经网络的五大学习算法](https://zhuanlan.zhihu.com/p/25703402)   
+* [4. 正则化技术总结]()   
+  * [1. \[视频讲解\]史上最全面的正则化技术总结与分析--part1](https://zhuanlan.zhihu.com/p/35429054?group_id=966442942538444800)   
+  * [2. \[视频讲解\]史上最全面的正则化技术总结与分析--part2](https://zhuanlan.zhihu.com/p/35432128?group_id=966443101011738624)      
+ 
 ## 深度学习算法     
 ### SVD   
 * [1. 关于奇异值分解SVD的总结（PCA、LDI）](https://zhuanlan.zhihu.com/p/30482640)          
 * [2. 奇异值分解（SVD）](https://zhuanlan.zhihu.com/p/29846048)   
 * [3. 奇异值分解(SVD)原理详解及推导](https://blog.csdn.net/zhongkejingwang/article/details/43053513)     
+## 工具平台使用   
+### Tensorflow    
+* [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
 
 ## 数据集   
 * [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
