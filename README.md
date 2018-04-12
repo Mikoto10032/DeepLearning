@@ -43,7 +43,7 @@
   * [1. \[视频讲解\]史上最全面的正则化技术总结与分析--part1](https://zhuanlan.zhihu.com/p/35429054?group_id=966442942538444800)   
   * [2. \[视频讲解\]史上最全面的正则化技术总结与分析--part2](https://zhuanlan.zhihu.com/p/35432128?group_id=966443101011738624)      
  
-## 深度学习算法     
+## 深度学习相关算法     
 ### SVD   
 * [1. 关于奇异值分解SVD的总结（PCA、LDI）](https://zhuanlan.zhihu.com/p/30482640)          
 * [2. 奇异值分解（SVD）](https://zhuanlan.zhihu.com/p/29846048)   
