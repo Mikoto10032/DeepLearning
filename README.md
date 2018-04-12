@@ -47,7 +47,11 @@
 ### SVD   
 * [1. 关于奇异值分解SVD的总结（PCA、LDI）](https://zhuanlan.zhihu.com/p/30482640)          
 * [2. 奇异值分解（SVD）](https://zhuanlan.zhihu.com/p/29846048)   
-* [3. 奇异值分解(SVD)原理详解及推导](https://blog.csdn.net/zhongkejingwang/article/details/43053513)     
+* [3. 奇异值分解(SVD)原理详解及推导](https://blog.csdn.net/zhongkejingwang/article/details/43053513)     
+### 迁移学习  
+* [1. 迁移学习：经典算法解析](https://blog.csdn.net/linolzhang/article/details/73358219)    
+* [2. 什么是迁移学习 (Transfer Learning)？这个领域历史发展前景如何？](https://www.zhihu.com/question/41979241)     
+
 ## 工具平台使用   
 ### Tensorflow    
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
