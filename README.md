@@ -51,10 +51,12 @@
 ### 迁移学习  
 * [1. 迁移学习：经典算法解析](https://blog.csdn.net/linolzhang/article/details/73358219)    
 * [2. 什么是迁移学习 (Transfer Learning)？这个领域历史发展前景如何？](https://www.zhihu.com/question/41979241)     
+* [3. 迁移学习个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/notes/日常阅读笔记/2018_4_12_迁移学习.pdf)   
 
 ## 工具平台使用   
 ### Tensorflow    
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
+* [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)   
 
 ## 数据集   
 * [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
