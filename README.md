@@ -9,7 +9,7 @@
 * [7. 《机器学习实战》 PelerHarrington](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习实战%20中文双页版.pdf)  
 * [8. 机器学习 吴恩达 cs229个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-CS229%5D%5B2011%5D%5BAndrew%20NG%5D/%5B2011%5D%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94.pdf)  
 * [9. 机器学习 吴恩达 Coursera个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-Coursera%5D%5B2014%5D%5BAndrew%20Ng%5D/%5B2014%5D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88v5.1.pdf)   
-* [10. 深度学习 吴恩达 个人笔记](https://github.com/fengdu78/deeplearning_ai_books/blob/master/Deeplearning%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0v5.35.pdf)   
+* [10. 深度学习 吴恩达 个人笔记](http://www.ai-start.com/dl2017/)   
 ## 神经网络模型概览 
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)  
 ### CNN  
