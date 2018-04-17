@@ -14,8 +14,8 @@
     * [视频（含官方笔记）](https://www.coursera.org/learn/machine-learning)       
 * [10. 深度学习 吴恩达 个人笔记](http://www.ai-start.com/dl2017/)      
     * [视频](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)         
-* [11. 深度学习 李飞飞 个人授权翻译笔记](https://zhuanlan.zhihu.com/p/21930884)    
-
+* [11. 深度学习 李飞飞 个人授权翻译笔记](https://zhuanlan.zhihu.com/p/21930884)          
+    * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 ## 神经网络模型概览 
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)  
 ### CNN  
