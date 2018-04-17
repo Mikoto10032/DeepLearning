@@ -63,5 +63,5 @@
 ## 数据集   
 * [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
 
-## To do lists:   
+## To do list:   
 * 将收藏过的文章转移到此项目
