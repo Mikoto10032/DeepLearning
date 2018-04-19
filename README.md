@@ -70,7 +70,11 @@
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
 * [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)   
 ### MXNet       
-* [Gluon](https://github.com/Mikoto10032/DeepLearning/blob/master/books/gluon_tutorials_zh（基于MXNet）.pdf)
+* [Gluon](https://github.com/Mikoto10032/DeepLearning/blob/master/books/gluon_tutorials_zh（基于MXNet）.pdf)            
+### Python3.x         
+* [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)                        
+* [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)                         
+
 ## 数据集   
 * [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
 
