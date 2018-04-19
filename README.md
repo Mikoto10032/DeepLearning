@@ -30,8 +30,8 @@
 * [4. 极端图像压缩的对抗生成网络](https://zhuanlan.zhihu.com/p/35783437?group_id=969598777652420608)             
 ### LSTM  
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)      
-
-## 前沿神经网络     
+* [2. 一文读懂LSTM和RNN]（https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472）
+## 前沿神经网络     
 ### CapsNet     
 * [1. 先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)      
 * [2. CapsNet入门系列]()     
