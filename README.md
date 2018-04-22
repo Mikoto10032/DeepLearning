@@ -33,11 +33,12 @@
 * [3. 机器之心GitHub项目：GAN完整理论推导与实现](https://zhuanlan.zhihu.com/p/29837245)       
 * [4. 极端图像压缩的对抗生成网络](https://zhuanlan.zhihu.com/p/35783437?group_id=969598777652420608)          
 * [5. 千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)                        
-
-### LSTM  
+### RNN       
+* [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)             
+### RNN之LSTM  
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)      
 * [2. 一文读懂LSTM和RNN](https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472)          
-* [3. 探索LSTM：基本概念到内部结构](https://zhuanlan.zhihu.com/p/27345523)                
+* [3. 探索LSTM：基本概念到内部结构](https://zhuanlan.zhihu.com/p/27345523)           
 ## 前沿神经网络     
 ### ResNet            
 * [一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680?group_id=971491939699388416)               
