@@ -25,6 +25,7 @@
 * [2. 从LeNet-5到DenseNet](https://zhuanlan.zhihu.com/p/31006686)        
 * [3. CNN变体：图像分类神经网络](https://zhuanlan.zhihu.com/p/35688103)     
 * [4. CNN图像分割简史：从R-CNN到Mask R-CNN（译）](https://zhuanlan.zhihu.com/p/26652657)        
+* [5. 变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)                   
 
 ### GAN  
 * [1. GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)   
@@ -79,7 +80,10 @@
 * [强化学习（Reinforcement Learning）知识整理](https://zhuanlan.zhihu.com/p/25498081)                   
 * [强化学习从入门到放弃的资料](https://zhuanlan.zhihu.com/p/34918639)                            
 * [强化学习入门](https://zhuanlan.zhihu.com/p/25498081)                     
-    * [强化学习入门 第一讲 MDP](https://zhuanlan.zhihu.com/p/25498081)
+    * [强化学习入门 第一讲 MDP](https://zhuanlan.zhihu.com/p/25498081)       
+### 决策树     
+* [说说决策树剪枝算法](https://zhuanlan.zhihu.com/p/31404571)              
+
 ## 工具平台使用   
 ### Tensorflow    
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
