@@ -76,7 +76,7 @@
 * [强化学习（Reinforcement Learning）知识整理](https://zhuanlan.zhihu.com/p/25498081)                   
 * [强化学习从入门到放弃的资料](https://zhuanlan.zhihu.com/p/34918639)                            
 * [强化学习入门](https://zhuanlan.zhihu.com/p/25498081)                     
-    * [强化学习入门 第一讲 MDP](https://zhuanlan.zhihu.com/p/25498081)
+    * [强化学习入门 第一讲 MDP](https://zhuanlan.zhihu.com/p/25498081)
 ## 工具平台使用   
 ### Tensorflow    
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
