@@ -83,6 +83,8 @@
     * [强化学习入门 第一讲 MDP](https://zhuanlan.zhihu.com/p/25498081)       
 ### 决策树     
 * [说说决策树剪枝算法](https://zhuanlan.zhihu.com/p/31404571)              
+### 推荐算法      
+* [推荐算法相关的文档整理](https://zhuanlan.zhihu.com/p/29969721)                  
 
 ## 工具平台使用   
 ### Tensorflow    
