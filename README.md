@@ -17,7 +17,9 @@
 * [11. 深度学习 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884)         
     * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 ## 神经网络模型概览 
-* [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)  
+* [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)        
+* [2. DNN概述论文：详解前馈、卷积和循环神经网络技术](https://zhuanlan.zhihu.com/p/29141828)    
+
 ### CNN  
 * [1. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)     
 * [2. 从LeNet-5到DenseNet](https://zhuanlan.zhihu.com/p/31006686)        
@@ -30,9 +32,12 @@
 * [4. 极端图像压缩的对抗生成网络](https://zhuanlan.zhihu.com/p/35783437?group_id=969598777652420608)             
 ### LSTM  
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)      
-* [2. 一文读懂LSTM和RNN](https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472)
+* [2. 一文读懂LSTM和RNN](https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472)          
+* [3. 探索LSTM：基本概念到内部结构](https://zhuanlan.zhihu.com/p/27345523)                
 ## 前沿神经网络     
-### CapsNet     
+### ResNet            
+* [一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680?group_id=971491939699388416)               
+### CapsNet     
 * [1. 先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)      
 * [2. CapsNet入门系列]()     
   * [CapsNet入门系列之一：胶囊网络背后的直觉](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484099&idx=1&sn=97e209f1a9860c8d8c51e81d98fc8a0a&chksm=eb4ee600dc396f16624a33cdfc0ead905e62ae9447b49b20146020e6cbd7d71f089101512a40&scene=21#wechat_redirect)      
@@ -66,7 +71,12 @@
 * [SVM通俗导论 July（本文章是我看过最好的SVM导论）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%E9%80%9A%E4%BF%97%E5%AF%BC%E8%AE%BA%EF%BC%88%E7%90%86%E8%A7%A3SVM%E7%9A%84%E4%B8%89%E5%B1%82%E5%A2%83%E7%95%8C%EF%BC%89LaTeX%E6%9C%80%E6%96%B0%E7%89%88_2015.1.9.pdf)   
 * [Python3《机器学习实战》学习笔记（八）：支持向量机原理篇之手撕线性SVM （SMO训练过程总结得清晰易懂）](https://blog.csdn.net/c406495762/article/details/78072313)             
 ### 元学习         
-* [OpenAI提出新型元学习方法EPG，调整损失函数实现新任务上的快速训练](https://zhuanlan.zhihu.com/p/35869158?group_id=970310501209645056)                         
+* [OpenAI提出新型元学习方法EPG，调整损失函数实现新任务上的快速训练](https://zhuanlan.zhihu.com/p/35869158?group_id=970310501209645056)      
+### 强化学习      
+* [强化学习（Reinforcement Learning）知识整理](https://zhuanlan.zhihu.com/p/25498081)                   
+* [强化学习从入门到放弃的资料](https://zhuanlan.zhihu.com/p/34918639)                            
+* [强化学习入门](https://zhuanlan.zhihu.com/p/25498081)                     
+    * [强化学习入门 第一讲 MDP](https://zhuanlan.zhihu.com/p/25498081)
 ## 工具平台使用   
 ### Tensorflow    
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
