@@ -32,7 +32,8 @@
 * [2. GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)  
 * [3. 机器之心GitHub项目：GAN完整理论推导与实现](https://zhuanlan.zhihu.com/p/29837245)       
 * [4. 极端图像压缩的对抗生成网络](https://zhuanlan.zhihu.com/p/35783437?group_id=969598777652420608)          
-* [5. 千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)                        
+* [5. 千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)                       
+* [6. 台湾大学李宏毅GAN教程](https://www.youtube.com/watch?v=0CKeqXl5IY0&feature=youtu.be)   
 ### RNN       
 * [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)             
 ### RNN之LSTM  
