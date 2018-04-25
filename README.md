@@ -86,15 +86,15 @@
 * [推荐算法相关的文档整理](https://zhuanlan.zhihu.com/p/29969721)                  
 ## 机器学习相关算法         
 ### 决策树     
-* [Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](https://blog.csdn.net/c406495762/article/details/75663451)     
+* [Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](https://blog.csdn.net/c406495762/article/details/75663451)
 * [Python3《机器学习实战》学习笔记（三）：决策树实战篇之为自己配个隐形眼镜](https://blog.csdn.net/c406495762/article/details/76262487)      
-* [《机器学习实战》基于信息论的三种决策树算法(ID3,C4.5,CART)](https://blog.csdn.net/gamer_gyt/article/details/51242815)
+* [《机器学习实战》基于信息论的三种决策树算法(ID3,C4.5,CART)](https://blog.csdn.net/gamer_gyt/article/details/51242815)      
 * [说说决策树剪枝算法](https://zhuanlan.zhihu.com/p/31404571)             
 * [机器学习实战 第九章 树回归](https://blog.csdn.net/namelessml/article/details/52595066)           
 ### SVM    
 * [SVM通俗导论 July（本文章是我看过最好的SVM导论）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%E9%80%9A%E4%BF%97%E5%AF%BC%E8%AE%BA%EF%BC%88%E7%90%86%E8%A7%A3SVM%E7%9A%84%E4%B8%89%E5%B1%82%E5%A2%83%E7%95%8C%EF%BC%89LaTeX%E6%9C%80%E6%96%B0%E7%89%88_2015.1.9.pdf)   
 * [Python3《机器学习实战》学习笔记（八）：支持向量机原理篇之手撕线性SVM （SMO训练过程总结得清晰易懂）] (https://blog.csdn.net/c406495762/article/details/78072313)        
-* [SVM核函数](https://blog.csdn.net/leonis_v/article/details/50688766)       
+* [svm核函数的理解和选择](https://blog.csdn.net/leonis_v/article/details/50688766)       
 * [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)                              
 ## 工具平台使用   
 ### Tensorflow    
