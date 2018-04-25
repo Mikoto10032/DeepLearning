@@ -65,7 +65,8 @@
   * [1. \[视频讲解\]史上最全面的正则化技术总结与分析--part1](https://zhuanlan.zhihu.com/p/35429054?group_id=966442942538444800)   
   * [2. \[视频讲解\]史上最全面的正则化技术总结与分析--part2](https://zhuanlan.zhihu.com/p/35432128?group_id=966443101011738624)      
 * [5. 最优化算法系列（math）](https://blog.csdn.net/chunyun0716/article/category/6188191/2)                  
-* [6. 神经网络训练中的梯度消失与梯度爆炸](https://zhuanlan.zhihu.com/p/25631496)          
+* [6. 神经网络训练中的梯度消失与梯度爆炸](https://zhuanlan.zhihu.com/p/25631496)        
+* [7. 神经网络的优化及训练](https://zhuanlan.zhihu.com/p/36050743)
 ## 机器学习基础理论     
 ### 信息论       
 * [1. 机器学习中的各种熵](https://zhuanlan.zhihu.com/p/35423404)    
