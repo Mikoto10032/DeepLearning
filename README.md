@@ -32,7 +32,8 @@
 * [3. 机器之心GitHub项目：GAN完整理论推导与实现](https://zhuanlan.zhihu.com/p/29837245)       
 * [4. 极端图像压缩的对抗生成网络](https://zhuanlan.zhihu.com/p/35783437?group_id=969598777652420608)          
 * [5. 千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)                       
-* [6. 台湾大学李宏毅GAN教程](https://www.youtube.com/watch?v=0CKeqXl5IY0&feature=youtu.be)   
+* [6. 台湾大学李宏毅GAN教程](https://www.youtube.com/watch?v=0CKeqXl5IY0&feature=youtu.be)       
+    * [PPT](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Tutorial_HYLee_GAN.ppt)
 ### RNN       
 * [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)             
 ### LSTM  
@@ -88,6 +89,7 @@
 ### 决策树     
 * [Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](https://blog.csdn.net/c406495762/article/details/75663451)
 * [Python3《机器学习实战》学习笔记（三）：决策树实战篇之为自己配个隐形眼镜](https://blog.csdn.net/c406495762/article/details/76262487)      
+* [机器学习实战教程（十三）：树回归基础篇之CART算法与树剪枝](http://cuijiahua.com/blog/2017/12/ml_13_regtree_1.html)            
 * [《机器学习实战》基于信息论的三种决策树算法(ID3,C4.5,CART)](https://blog.csdn.net/gamer_gyt/article/details/51242815)      
 * [说说决策树剪枝算法](https://zhuanlan.zhihu.com/p/31404571)             
 * [机器学习实战 第九章 树回归](https://blog.csdn.net/namelessml/article/details/52595066)           
