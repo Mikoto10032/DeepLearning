@@ -36,7 +36,7 @@
 * [6. 台湾大学李宏毅GAN教程](https://www.youtube.com/watch?v=0CKeqXl5IY0&feature=youtu.be)   
 ### RNN       
 * [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)             
-### RNN之LSTM  
+### LSTM  
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)      
 * [2. 一文读懂LSTM和RNN](https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472)          
 * [3. 探索LSTM：基本概念到内部结构](https://zhuanlan.zhihu.com/p/27345523)           
@@ -102,6 +102,6 @@
 * [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
 
 ## To do list:   
-* 继续学习
+* GAN、信息熵、2014机器学习个人笔记、2011机器学习个人笔记、深度学习
 * 将收藏过的文章转移到此项目
 * 将CS231n官方笔记授权翻译总集篇整合成pdf
