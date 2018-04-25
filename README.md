@@ -103,7 +103,8 @@
 * [svm核函数的理解和选择](https://blog.csdn.net/leonis_v/article/details/50688766)       
 * [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)         
 ### 标签传播算法(label propagation)     
-* [标签传播算法（Label Propagation）及Python实现](https://blog.csdn.net/zouxy09/article/details/49105265)      
+* [标签传播算法（Label Propagation）及Python实现](https://blog.csdn.net/zouxy09/article/details/49105265)   
+    * [参考资料](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Semi-Supervised%20Learning%20with%20Graphs.pdf)
 ## 工具平台使用   
 ### Tensorflow    
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
