@@ -61,11 +61,15 @@
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)          
 * [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)         
 * [3. 从梯度下降到拟牛顿法：盘点训练神经网络的五大学习算法](https://zhuanlan.zhihu.com/p/25703402)   
-* [4. 正则化技术总结]()   
+* [4. 正则化技术总结](https://zhuanlan.zhihu.com/p/35429054?group_id=966442942538444800)   
   * [1. \[视频讲解\]史上最全面的正则化技术总结与分析--part1](https://zhuanlan.zhihu.com/p/35429054?group_id=966442942538444800)   
   * [2. \[视频讲解\]史上最全面的正则化技术总结与分析--part2](https://zhuanlan.zhihu.com/p/35432128?group_id=966443101011738624)      
 * [5. 最优化算法系列（math）](https://blog.csdn.net/chunyun0716/article/category/6188191/2)                  
-* [6. 神经网络训练中的梯度消失与梯度爆炸](https://zhuanlan.zhihu.com/p/25631496)          
+* [6. 神经网络训练中的梯度消失与梯度爆炸](https://zhuanlan.zhihu.com/p/25631496)          
+## 机器学习基础理论     
+### 信息论       
+* [1. 机器学习中的各种熵](https://zhuanlan.zhihu.com/p/35423404)    
+* [2. 从香农熵到手推KL散度：纵览机器学习中的信息论](https://zhuanlan.zhihu.com/p/32985487)         
 ## 深度学习相关算法     
 ### SVD   
 * [1. 关于奇异值分解SVD的总结（PCA、LDI）](https://zhuanlan.zhihu.com/p/30482640)          
@@ -97,7 +101,9 @@
 * [SVM通俗导论 July（本文章是我看过最好的SVM导论）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%E9%80%9A%E4%BF%97%E5%AF%BC%E8%AE%BA%EF%BC%88%E7%90%86%E8%A7%A3SVM%E7%9A%84%E4%B8%89%E5%B1%82%E5%A2%83%E7%95%8C%EF%BC%89LaTeX%E6%9C%80%E6%96%B0%E7%89%88_2015.1.9.pdf)       
 * [Python3《机器学习实战》学习笔记（八）：支持向量机原理篇之手撕线性SVM （SMO训练过程总结得清晰易懂）](https://blog.csdn.net/c406495762/article/details/78072313)       
 * [svm核函数的理解和选择](https://blog.csdn.net/leonis_v/article/details/50688766)       
-* [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)                              
+* [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)         
+### 标签传播算法(label propagation)     
+* [标签传播算法（Label Propagation）及Python实现](https://blog.csdn.net/zouxy09/article/details/49105265)      
 ## 工具平台使用   
 ### Tensorflow    
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
