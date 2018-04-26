@@ -34,8 +34,9 @@
 * [4. 极端图像压缩的对抗生成网络](https://zhuanlan.zhihu.com/p/35783437?group_id=969598777652420608)          
 * [5. 千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)                       
 * [6. 台湾大学李宏毅GAN教程](https://www.youtube.com/watch?v=0CKeqXl5IY0&feature=youtu.be)       
-    * [PPT](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Tutorial_HYLee_GAN.ppt)
-### RNN       
+    * [Basic](https://github.com/Mikoto10032/DeepLearning/blob/master/books/GAN-Basic%20Idea%20(2017.04.21).pdf)            
+    * [Improving](https://github.com/Mikoto10032/DeepLearning/blob/master/books/GAN-Improving%20GAN%20(2017.05.05).pdf)
+### RNN       
 * [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)             
 ### LSTM  
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)      
