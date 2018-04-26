@@ -15,7 +15,8 @@
 * [10. 深度学习 吴恩达 个人笔记](http://www.ai-start.com/dl2017/)          
     * [视频](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)         
 * [11. 深度学习 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884)         
-    * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+    * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)            
+* [12. 台湾大学（NTU）李宏毅教授课程](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)      
 ## 神经网络模型概览 
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)        
 * [2. DNN概述论文：详解前馈、卷积和循环神经网络技术](https://zhuanlan.zhihu.com/p/29141828)    
