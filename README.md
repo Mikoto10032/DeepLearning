@@ -21,12 +21,13 @@
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)        
 * [2. DNN概述论文：详解前馈、卷积和循环神经网络技术](https://zhuanlan.zhihu.com/p/29141828)    
 * [3. colah's blog](http://colah.github.io/)       
-### CNN  
-* [1. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)     
-* [2. 从LeNet-5到DenseNet](https://zhuanlan.zhihu.com/p/31006686)        
-* [3. CNN变体：图像分类神经网络](https://zhuanlan.zhihu.com/p/35688103)     
-* [4. CNN图像分割简史：从R-CNN到Mask R-CNN（译）](https://zhuanlan.zhihu.com/p/26652657)        
-* [5. 变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)                   
+### CNN         
+* [1. 卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
+* [2. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)     
+* [3. 从LeNet-5到DenseNet](https://zhuanlan.zhihu.com/p/31006686)        
+* [4. CNN变体：图像分类神经网络](https://zhuanlan.zhihu.com/p/35688103)     
+* [5. CNN图像分割简史：从R-CNN到Mask R-CNN（译）](https://zhuanlan.zhihu.com/p/26652657)        
+* [6. 变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)        
 ### GAN  
 * [1. GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)   
 * [2. GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)  
