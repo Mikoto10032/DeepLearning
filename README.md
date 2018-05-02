@@ -90,7 +90,7 @@
 * [14. LSTM系列的梯度问题](https://zhuanlan.zhihu.com/p/36101196)             
 * [15. 损失函数整理](https://zhuanlan.zhihu.com/p/35027284)               
 * [16. 详解残差块为何有助于解决梯度弥散问题](https://zhuanlan.zhihu.com/p/28124810)        
-* [17. FAIR何恺明等人提出组归一化：替代批归一化，不受批量大小限制]（https://zhuanlan.zhihu.com/p/34858971）        
+* [17. FAIR何恺明等人提出组归一化：替代批归一化，不受批量大小限制](https://zhuanlan.zhihu.com/p/34858971)       
 ## 机器学习基础理论     
 ### 信息论       
 * [1. 机器学习中的各种熵](https://zhuanlan.zhihu.com/p/35423404)    
