@@ -60,7 +60,7 @@
 ### YOLO(You only look once,目标检测模型)  
 * [目标检测模型YOLO v3问世](https://zhuanlan.zhihu.com/p/34995629)   
 * [目标检测|YOLOv2原理与实现(附YOLOv3)](https://zhuanlan.zhihu.com/p/35325884?group_id=966229905398362112)    
-## 优化算法     
+## 优化     
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)          
 * [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)         
 * [3. 从梯度下降到拟牛顿法：盘点训练神经网络的五大学习算法](https://zhuanlan.zhihu.com/p/25703402)   
@@ -69,7 +69,17 @@
   * [2. \[视频讲解\]史上最全面的正则化技术总结与分析--part2](https://zhuanlan.zhihu.com/p/35432128?group_id=966443101011738624)      
 * [5. 最优化算法系列（math）](https://blog.csdn.net/chunyun0716/article/category/6188191/2)                  
 * [6. 神经网络训练中的梯度消失与梯度爆炸](https://zhuanlan.zhihu.com/p/25631496)        
-* [7. 神经网络的优化及训练](https://zhuanlan.zhihu.com/p/36050743)
+* [7. 神经网络的优化及训练](https://zhuanlan.zhihu.com/p/36050743)          
+* [8. 通俗讲解查全率和查准率](https://zhuanlan.zhihu.com/p/35888543)                     
+* [9. 激活函数一览](https://zhuanlan.zhihu.com/p/30567264)                              
+* [10. Coursera吴恩达《优化深度神经网络》课程笔记（3）-- 超参数调试、Batch正则化和编程框架](https://zhuanlan.zhihu.com/p/30922689)             
+* [11. 机器学习各种熵](https://zhuanlan.zhihu.com/p/35423404)          
+* [12. 距离和相似性度量](https://zhuanlan.zhihu.com/p/27305237)                         
+* [13. 机器学习里的黑色艺术：normalization, standardization, regularization](https://zhuanlan.zhihu.com/p/29974820)        
+* [14. LSTM系列的梯度问题](https://zhuanlan.zhihu.com/p/36101196)             
+* [15. 损失函数整理](https://zhuanlan.zhihu.com/p/35027284)               
+* [16. 详解残差块为何有助于解决梯度弥散问题](https://zhuanlan.zhihu.com/p/28124810)                               
+
 ## 机器学习基础理论     
 ### 信息论       
 * [1. 机器学习中的各种熵](https://zhuanlan.zhihu.com/p/35423404)    
