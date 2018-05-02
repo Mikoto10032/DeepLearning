@@ -21,6 +21,8 @@
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)        
 * [2. DNN概述论文：详解前馈、卷积和循环神经网络技术](https://zhuanlan.zhihu.com/p/29141828)    
 * [3. colah's blog](http://colah.github.io/)       
+### DNN     
+* [DNN概述论文](https://zhuanlan.zhihu.com/p/29141828)
 ### CNN         
 * [1. 卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
 * [2. 94页论文综述卷积神经网络：从基础技术到研究前景](https://zhuanlan.zhihu.com/p/35388569)     
@@ -28,7 +30,11 @@
 * [4. CNN变体：图像分类神经网络](https://zhuanlan.zhihu.com/p/35688103)     
 * [5. CNN图像分割简史：从R-CNN到Mask R-CNN（译）](https://zhuanlan.zhihu.com/p/26652657)        
 * [6. 变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)        
-### GAN  
+* [7. 先理解Mask R-CNN的工作原理，然后构建颜色填充器应用](https://zhuanlan.zhihu.com/p/34816076)      
+* [8. 深度学习之目标检测的前世今生（Mask R-CNN）](https://zhuanlan.zhihu.com/p/32830206)          
+* [9. 从VGG到NASNet，一文概览图像分类网络](https://zhuanlan.zhihu.com/p/35221368)         
+* [10. 一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680)       
+### GAN  
 * [1. GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)   
 * [2. GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)  
 * [3. 机器之心GitHub项目：GAN完整理论推导与实现](https://zhuanlan.zhihu.com/p/29837245)       
@@ -36,9 +42,14 @@
 * [5. 千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)                       
 * [6. 台湾大学李宏毅GAN教程](https://www.youtube.com/watch?v=0CKeqXl5IY0&feature=youtu.be)         
     * [Basic](https://github.com/Mikoto10032/DeepLearning/blob/master/books/GAN-Basic%20Idea%20(2017.04.21).pdf)            
-    * [Improving](https://github.com/Mikoto10032/DeepLearning/blob/master/books/GAN-Improving%20GAN%20(2017.05.05).pdf)
+    * [Improving](https://github.com/Mikoto10032/DeepLearning/blob/master/books/GAN-Improving%20GAN%20(2017.05.05).pdf)       
+* [7. 2017年GAN 计算机视觉相关paper汇总](https://zhuanlan.zhihu.com/p/29882709)       
+* [8. 在Keras上实现GAN：构建消除图片模糊的应用](https://zhuanlan.zhihu.com/p/35030377)        
+* [9. CycleGAN：图片风格，想换就换 | ICCV 2017论文解读](https://zhuanlan.zhihu.com/p/34711316)       
+* [10. Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)                
 ### RNN       
-* [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)             
+* [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)     
+* [用循环神经网络进行文件无损压缩：斯坦福大学提出DeepZip](https://zhuanlan.zhihu.com/p/32582764)                   
 ### LSTM  
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)      
 * [2. 一文读懂LSTM和RNN](https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472)          
@@ -79,7 +90,8 @@
 * [14. LSTM系列的梯度问题](https://zhuanlan.zhihu.com/p/36101196)             
 * [15. 损失函数整理](https://zhuanlan.zhihu.com/p/35027284)               
 * [16. 详解残差块为何有助于解决梯度弥散问题](https://zhuanlan.zhihu.com/p/28124810)                               
-
+* [17. FAIR何恺明等人提出组归一化：替代批归一化，不受批量大小限制]（https://zhuanlan.zhihu.com/p/34858971）        
+* [18. ]
 ## 机器学习基础理论     
 ### 信息论       
 * [1. 机器学习中的各种熵](https://zhuanlan.zhihu.com/p/35423404)    
@@ -101,9 +113,21 @@
 * [强化学习从入门到放弃的资料](https://zhuanlan.zhihu.com/p/34918639)                            
 * [强化学习入门](https://zhuanlan.zhihu.com/p/25498081)                     
     * [强化学习入门 第一讲 MDP](https://zhuanlan.zhihu.com/p/25498081)       
-### 推荐算法      
-* [推荐算法相关的文档整理](https://zhuanlan.zhihu.com/p/29969721)                  
-## 机器学习相关算法         
+* [强化学习——从Q-Learning到DQN到底发生了什么？](https://zhuanlan.zhihu.com/p/35882937)                
+### 马尔科夫决策        
+* [马尔科夫决策过程之Markov Processes（马尔科夫过程）](https://zhuanlan.zhihu.com/p/35124726)      
+* [马尔科夫决策过程之Markov Reward Process（马尔科夫奖励过程）](https://zhuanlan.zhihu.com/p/35231424)                 
+* [马尔科夫决策过程之Bellman Equation（贝尔曼方程）](https://zhuanlan.zhihu.com/p/35261164)         
+* [马尔科夫决策过程之Markov Decision Process(马尔科夫决策过程)](https://zhuanlan.zhihu.com/p/35354956)                     
+* [马尔科夫决策过程之最优价值函数与最优策略](https://zhuanlan.zhihu.com/p/35373905)            
+### 推荐算法      
+* [推荐算法相关的文档整理](https://zhuanlan.zhihu.com/p/29969721)              
+### 自然语言处理（NLP）     
+* [基于word2vec训练词向量(一)](https://zhuanlan.zhihu.com/p/35648927)             
+* [基于word2vec训练词向量(二)](https://zhuanlan.zhihu.com/p/35889385)        
+* [自然语言处理中的自注意力机制（Self-Attention Mechanism）](https://zhuanlan.zhihu.com/p/35041012)                     
+## 机器学习相关算法     
+* [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)
 ### 决策树(Decision tree)      
 * [Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](https://blog.csdn.net/c406495762/article/details/75663451)
 * [Python3《机器学习实战》学习笔记（三）：决策树实战篇之为自己配个隐形眼镜](https://blog.csdn.net/c406495762/article/details/76262487)      
@@ -118,7 +142,12 @@
 * [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)         
 ### 标签传播算法(label propagation)     
 * [标签传播算法（Label Propagation）及Python实现](https://blog.csdn.net/zouxy09/article/details/49105265)        
-    * [参考资料](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Semi-Supervised%20Learning%20with%20Graphs.pdf)
+    * [参考资料](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Semi-Supervised%20Learning%20with%20Graphs.pdf)        
+### 蒙塔卡罗搜索树     
+* [蒙特卡洛树搜索入门指南](https://zhuanlan.zhihu.com/p/34950988)      
+### BOOST      
+* [LightGBM大战XGBoost](https://zhuanlan.zhihu.com/p/35645973)       
+* [概述XGBoost、Light GBM和CatBoost的同与不同](https://zhuanlan.zhihu.com/p/34698733)                  
 ## 工具平台使用   
 ### Tensorflow    
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
