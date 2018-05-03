@@ -146,7 +146,10 @@
 * [蒙特卡洛树搜索入门指南](https://zhuanlan.zhihu.com/p/34950988)      
 ### BOOST      
 * [LightGBM大战XGBoost](https://zhuanlan.zhihu.com/p/35645973)       
-* [概述XGBoost、Light GBM和CatBoost的同与不同](https://zhuanlan.zhihu.com/p/34698733)                  
+* [概述XGBoost、Light GBM和CatBoost的同与不同](https://zhuanlan.zhihu.com/p/34698733)          
+### 集成(EM)          
+* [集成学习法之bagging方法和boosting方法](https://blog.csdn.net/qq_30189255/article/details/51532442)                        
+* [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853)                     
 ## 工具平台使用   
 ### Tensorflow    
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
