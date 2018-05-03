@@ -160,7 +160,8 @@
 ## 数据集   
 * [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)  
 * [2. 自然语言处理（NLP）数据集](https://zhuanlan.zhihu.com/p/35423943)          
-* [3.全唐诗(43030首)](https://pan.baidu.com/s/1o7QlUhO)         
+* [3.全唐诗(43030首)](https://pan.baidu.com/s/1o7QlUhO)        
+* [4. 伯克利大学公开数据集](https://people.eecs.berkeley.edu/~taesung_park/)          
 ## To do list:   
 * GAN、信息熵、2014机器学习个人笔记、2011机器学习个人笔记、深度学习
 * 将收藏过的文章转移到此项目
