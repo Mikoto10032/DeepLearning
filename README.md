@@ -91,6 +91,8 @@
 * [15. 损失函数整理](https://zhuanlan.zhihu.com/p/35027284)               
 * [16. 详解残差块为何有助于解决梯度弥散问题](https://zhuanlan.zhihu.com/p/28124810)        
 * [17. FAIR何恺明等人提出组归一化：替代批归一化，不受批量大小限制](https://zhuanlan.zhihu.com/p/34858971)       
+* [18. <深度学习优化策略-1>Batch Normalization（BN）](https://zhuanlan.zhihu.com/p/26702482)      
+* [19. 详解深度学习中的Normalization，不只是BN](https://zhuanlan.zhihu.com/p/33173246)            
 ## 机器学习基础理论     
 ### 信息论       
 * [1. 机器学习中的各种熵](https://zhuanlan.zhihu.com/p/35423404)    
@@ -144,9 +146,12 @@
     * [参考资料](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Semi-Supervised%20Learning%20with%20Graphs.pdf)        
 ### 蒙塔卡罗搜索树     
 * [蒙特卡洛树搜索入门指南](https://zhuanlan.zhihu.com/p/34950988)      
-### BOOST      
+### GBDT      
 * [LightGBM大战XGBoost](https://zhuanlan.zhihu.com/p/35645973)       
-* [概述XGBoost、Light GBM和CatBoost的同与不同](https://zhuanlan.zhihu.com/p/34698733)          
+* [概述XGBoost、Light GBM和CatBoost的同与不同](https://zhuanlan.zhihu.com/p/34698733)     
+* [梯度提升决策树](https://zhuanlan.zhihu.com/p/36339161)          
+* [GBDT原理及应用](https://zhuanlan.zhihu.com/p/30339807)      
+* [XGBOOST原理篇](https://zhuanlan.zhihu.com/p/31654000)
 ### 集成(EM)          
 * [集成学习法之bagging方法和boosting方法](https://blog.csdn.net/qq_30189255/article/details/51532442)                        
 * [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853)                     
