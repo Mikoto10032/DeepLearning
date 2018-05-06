@@ -33,7 +33,9 @@
 * [7. 先理解Mask R-CNN的工作原理，然后构建颜色填充器应用](https://zhuanlan.zhihu.com/p/34816076)      
 * [8. 深度学习之目标检测的前世今生（Mask R-CNN）](https://zhuanlan.zhihu.com/p/32830206)          
 * [9. 从VGG到NASNet，一文概览图像分类网络](https://zhuanlan.zhihu.com/p/35221368)         
-* [10. 一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680)       
+* [10. 一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680)      
+* [11. 纵览轻量化卷积神经网络：SqueezeNet、MobileNet、ShuffleNet、Xception](https://zhuanlan.zhihu.com/p/32746221)       
+* [12. CNN模型之ShuffleNet](https://zhuanlan.zhihu.com/p/32304419)                         
 ### GAN  
 * [1. GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)   
 * [2. GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)  
