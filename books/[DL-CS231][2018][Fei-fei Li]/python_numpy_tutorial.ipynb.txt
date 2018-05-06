@@ -1,0 +1,1503 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# CS 231n Python & NumPy Tutorial"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Python 3 and NumPy will be used extensively throughout this course, so it's important to be familiar with them.  \n",
+    "\n",
+    "A good amount of the material in this notebook comes from Justin Johnson's Python & NumPy Tutorial:\n",
+    "http://cs231n.github.io/python-numpy-tutorial/. At this moment, not everything from that tutorial is in this notebook and not everything from this notebook is in the tutorial."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Python 3"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "If you're unfamiliar with Python 3, here are some of the most common changes from Python 2 to look out for."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Print is a function"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello!\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello!\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Without parentheses, printing will not work."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "SyntaxError",
+     "evalue": "Missing parentheses in call to 'print'. Did you mean print(\"Hello!\")? (<ipython-input-2-9d266092e9bc>, line 1)",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;36m  File \u001b[0;32m\"<ipython-input-2-9d266092e9bc>\"\u001b[0;36m, line \u001b[0;32m1\u001b[0m\n\u001b[0;31m    print \"Hello!\"\u001b[0m\n\u001b[0m                 ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m Missing parentheses in call to 'print'. Did you mean print(\"Hello!\")?\n"
+     ]
+    }
+   ],
+   "source": [
+    "print \"Hello!\""
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Floating point division by default"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2.5"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "5 / 2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "To do integer division, we use two backslashes:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "2"
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "5 // 2"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### No xrange"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "The xrange from Python 2 is now merged into \"range\" for Python 3 and there is no xrange in Python 3. In Python 3, range(3) does not create a list of 3 elements as it would in Python 2, rather just creates a more memory efficient iterator.\n",
+    "\n",
+    "Hence,  \n",
+    "xrange in Python 3: Does not exist  \n",
+    "range in Python 3: Has very similar behavior to Python 2's xrange"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0\n",
+      "1\n",
+      "2\n"
+     ]
+    }
+   ],
+   "source": [
+    "for i in range(3):\n",
+    "    print(i)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "range(0, 3)"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "range(3)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[0, 1, 2]\n"
+     ]
+    }
+   ],
+   "source": [
+    "# If need be, can use the following to get a similar behavior to Python 2's range:\n",
+    "print(list(range(3)))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# NumPy"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "\"NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more\"  \n",
+    "-https://docs.scipy.org/doc/numpy-1.10.1/user/whatisnumpy.html."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import numpy as np"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Let's run through an example showing how powerful NumPy is. Suppose we have two lists a and b, consisting of the first 100,000 non-negative numbers, and we want to create a new list c whose *i*th element is a[i] + 2 * b[i].  \n",
+    "\n",
+    "Without NumPy:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "CPU times: user 13.6 ms, sys: 10.4 ms, total: 24 ms\n",
+      "Wall time: 23.4 ms\n"
+     ]
+    }
+   ],
+   "source": [
+    "%%time\n",
+    "a = [i for i in range(100000)]\n",
+    "b = [i for i in range(100000)]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "CPU times: user 52 ms, sys: 7.44 ms, total: 59.4 ms\n",
+      "Wall time: 60.5 ms\n"
+     ]
+    }
+   ],
+   "source": [
+    "%%time\n",
+    "c = []\n",
+    "for i in range(len(a)):\n",
+    "    c.append(a[i] + 2 * b[i])"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "With NumPy:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "CPU times: user 3.62 ms, sys: 3.42 ms, total: 7.04 ms\n",
+      "Wall time: 4.85 ms\n"
+     ]
+    }
+   ],
+   "source": [
+    "%%time\n",
+    "a = np.arange(100000)\n",
+    "b = np.arange(100000)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "CPU times: user 6.53 ms, sys: 6.13 ms, total: 12.7 ms\n",
+      "Wall time: 9.37 ms\n"
+     ]
+    }
+   ],
+   "source": [
+    "%%time\n",
+    "c = a + 2 * b"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "The result is 10 to 15 times faster, and we could do it in fewer lines of code (and the code itself is more intuitive)!"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Regular Python is much slower due to type checking and other overhead of needing to interpret code and support Python's abstractions.\n",
+    "\n",
+    "For example, if we are doing some addition in a loop, constantly type checking in a loop will lead to many more instructions than just performing a regular addition operation. NumPy, using optimized pre-compiled C code, is able to avoid a lot of the overhead introduced.\n",
+    "\n",
+    "The process we used above is **vectorization**. Vectorization refers to applying operations to arrays instead of just individual elements (i.e. no loops)."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Why vectorize?\n",
+    "1. Much faster\n",
+    "2. Easier to read and fewer lines of code\n",
+    "3. More closely assembles mathematical notation\n",
+    "\n",
+    "Vectorization is one of the main reasons why NumPy is so powerful."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## ndarray"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "ndarrays, n-dimensional arrays of homogenous data type, are the fundamental datatype used in NumPy. As these arrays are of the same type and are fixed size at creation, they offer less flexibility than Python lists, but can be substantially more efficient runtime and memory-wise. (Python lists are arrays of pointers to objects, adding a layer of indirection.)\n",
+    "\n",
+    "The number of dimensions is the rank of the array; the shape of an array is a tuple of integers giving the size of the array along each dimension."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'numpy.ndarray'>\n",
+      "(3,)\n",
+      "1 2 3\n",
+      "[5 2 3]\n",
+      "(2, 3)\n",
+      "1 2 4\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Can initialize ndarrays with Python lists, for example:\n",
+    "a = np.array([1, 2, 3])   # Create a rank 1 array\n",
+    "print(type(a))            # Prints \"<class 'numpy.ndarray'>\"\n",
+    "print(a.shape)            # Prints \"(3,)\"\n",
+    "print(a[0], a[1], a[2])   # Prints \"1 2 3\"\n",
+    "a[0] = 5                  # Change an element of the array\n",
+    "print(a)                  # Prints \"[5, 2, 3]\"\n",
+    "\n",
+    "b = np.array([[1, 2, 3],\n",
+    "              [4, 5, 6]])    # Create a rank 2 array\n",
+    "print(b.shape)                     # Prints \"(2, 3)\"\n",
+    "print(b[0, 0], b[0, 1], b[1, 0])   # Prints \"1 2 4\""
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "There are many other initializations that NumPy provides:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[[0. 0.]\n",
+      " [0. 0.]]\n",
+      "[[7 7]\n",
+      " [7 7]]\n",
+      "[[1. 0.]\n",
+      " [0. 1.]]\n",
+      "[[0.17511952 0.67921684]\n",
+      " [0.04555329 0.08641358]]\n"
+     ]
+    }
+   ],
+   "source": [
+    "a = np.zeros((2, 2))   # Create an array of all zeros\n",
+    "print(a)               # Prints \"[[ 0.  0.]\n",
+    "                       #          [ 0.  0.]]\"\n",
+    "\n",
+    "b = np.full((2, 2), 7)  # Create a constant array\n",
+    "print(b)                # Prints \"[[ 7.  7.]\n",
+    "                        #          [ 7.  7.]]\"\n",
+    "\n",
+    "c = np.eye(2)         # Create a 2 x 2 identity matrix\n",
+    "print(c)              # Prints \"[[ 1.  0.]\n",
+    "                      #          [ 0.  1.]]\"\n",
+    "\n",
+    "d = np.random.random((2, 2))  # Create an array filled with random values\n",
+    "print(d)                      # Might print \"[[ 0.91940167  0.08143941]\n",
+    "                              #               [ 0.68744134  0.87236687]]\""
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "How do we create a 2 by 2 matrix of ones?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[[1. 1.]\n",
+      " [1. 1.]]\n"
+     ]
+    }
+   ],
+   "source": [
+    "a = np.ones((2, 2))    # Create an array of all ones\n",
+    "print(a)               # Prints \"[[ 1.  1.]\n",
+    "                       #          [ 1.  1.]]\""
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Useful to keep track of shape; helpful for debugging and knowing dimensions will be very useful when computing gradients, among other reasons."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 16,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[0 1 2 3 4 5 6 7]\n",
+      "(8,)\n",
+      "Reshaped:\n",
+      " [[0 1 2 3]\n",
+      " [4 5 6 7]]\n",
+      "(2, 4)\n",
+      "Reshaped with -1:\n",
+      " [[0 1]\n",
+      " [2 3]\n",
+      " [4 5]\n",
+      " [6 7]]\n",
+      "(4, 2)\n"
+     ]
+    }
+   ],
+   "source": [
+    "nums = np.arange(8)\n",
+    "print(nums)\n",
+    "print(nums.shape)\n",
+    "\n",
+    "nums = nums.reshape((2, 4))\n",
+    "print('Reshaped:\\n', nums)\n",
+    "print(nums.shape)\n",
+    "\n",
+    "# The -1 in reshape corresponds to an unknown dimension that numpy will figure out,\n",
+    "# based on all other dimensions and the array size.\n",
+    "# Can only specify one unknown dimension.\n",
+    "# For example, sometimes we might have an unknown number of data points, and\n",
+    "# so we can use -1 instead without worrying about the true number.\n",
+    "nums = nums.reshape((4, -1))\n",
+    "print('Reshaped with -1:\\n', nums)\n",
+    "print(nums.shape)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "NumPy supports an object-oriented paradigm, such that ndarray has a number of methods and attributes, with functions similar to ones in the outermost NumPy namespace. For example, we can do both:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "0\n",
+      "0\n"
+     ]
+    }
+   ],
+   "source": [
+    "nums = np.arange(8)\n",
+    "print(nums.min())     # Prints 0\n",
+    "print(np.min(nums))   # Prints 0"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Array Operations/Math"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "NumPy supports many elementwise operations:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[[ 6.  8.]\n",
+      " [10. 12.]]\n",
+      "[[ 6.  8.]\n",
+      " [10. 12.]]\n",
+      "[[-4. -4.]\n",
+      " [-4. -4.]]\n",
+      "[[-4. -4.]\n",
+      " [-4. -4.]]\n",
+      "[[ 5. 12.]\n",
+      " [21. 32.]]\n",
+      "[[ 5. 12.]\n",
+      " [21. 32.]]\n",
+      "[[1.         1.41421356]\n",
+      " [1.73205081 2.        ]]\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2],\n",
+    "              [3, 4]], dtype=np.float64)\n",
+    "y = np.array([[5, 6],\n",
+    "              [7, 8]], dtype=np.float64)\n",
+    "\n",
+    "# Elementwise sum; both produce the array\n",
+    "# [[ 6.0  8.0]\n",
+    "#  [10.0 12.0]]\n",
+    "print(x + y)\n",
+    "print(np.add(x, y))\n",
+    "\n",
+    "# Elementwise difference; both produce the array\n",
+    "# [[-4.0 -4.0]\n",
+    "#  [-4.0 -4.0]]\n",
+    "print(x - y)\n",
+    "print(np.subtract(x, y))\n",
+    "\n",
+    "# Elementwise product; both produce the array\n",
+    "# [[ 5.0 12.0]\n",
+    "#  [21.0 32.0]]\n",
+    "print(x * y)\n",
+    "print(np.multiply(x, y))\n",
+    "\n",
+    "# Elementwise square root; produces the array\n",
+    "# [[ 1.          1.41421356]\n",
+    "#  [ 1.73205081  2.        ]]\n",
+    "print(np.sqrt(x))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "How do we elementwise divide between two arrays?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[[0.2        0.33333333]\n",
+      " [0.42857143 0.5       ]]\n",
+      "[[0.2        0.33333333]\n",
+      " [0.42857143 0.5       ]]\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2], [3, 4]], dtype=np.float64)\n",
+    "y = np.array([[5, 6], [7, 8]], dtype=np.float64)\n",
+    "\n",
+    "# Elementwise division; both produce the array\n",
+    "# [[ 0.2         0.33333333]\n",
+    "#  [ 0.42857143  0.5       ]]\n",
+    "print(x / y)\n",
+    "print(np.divide(x, y))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Note * is elementwise multiplication, not matrix multiplication. We instead use the dot function to compute inner products of vectors, to multiply a vector by a matrix, and to multiply matrices. dot is available both as a function in the numpy module and as an instance method of array objects:\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "219\n",
+      "219\n",
+      "[29 67]\n",
+      "[29 67]\n",
+      "[[19 22]\n",
+      " [43 50]]\n",
+      "[[19 22]\n",
+      " [43 50]]\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2], [3, 4]])\n",
+    "y = np.array([[5, 6], [7, 8]])\n",
+    "\n",
+    "v = np.array([9, 10])\n",
+    "w = np.array([11, 12])\n",
+    "\n",
+    "# Inner product of vectors; both produce 219\n",
+    "print(v.dot(w))\n",
+    "print(np.dot(v, w))\n",
+    "\n",
+    "# Matrix / vector product; both produce the rank 1 array [29 67]\n",
+    "print(x.dot(v))\n",
+    "print(np.dot(x, v))\n",
+    "\n",
+    "# Matrix / matrix product; both produce the rank 2 array\n",
+    "# [[19 22]\n",
+    "#  [43 50]]\n",
+    "print(x.dot(y))\n",
+    "print(np.dot(x, y))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "There are many useful functions built into NumPy, and often we're able to express them across specific axes of the ndarray:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "21\n",
+      "[5 7 9]\n",
+      "[ 6 15]\n",
+      "[3 6]\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2, 3], \n",
+    "              [4, 5, 6]])\n",
+    "\n",
+    "print(np.sum(x))          # Compute sum of all elements; prints \"21\"\n",
+    "print(np.sum(x, axis=0))  # Compute sum of each column; prints \"[5 7 9]\"\n",
+    "print(np.sum(x, axis=1))  # Compute sum of each row; prints \"[6 15]\"\n",
+    "\n",
+    "print(np.max(x, axis=1))  # Compute max of each row; prints \"[3 6]\" "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "How can we compute the index of the max value of each row? Useful, to say, find the class that corresponds to the maximum score for an input image."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 22,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[2 2]\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2, 3], \n",
+    "              [4, 5, 6]])\n",
+    "\n",
+    "print(np.argmax(x, axis=1)) # Compute index of max of each row; prints \"[2 2]\""
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Note the axis you apply the operation will have its dimension removed from the shape.\n",
+    "This is useful to keep in mind when you're trying to figure out what axis corresponds\n",
+    "to what.\n",
+    "\n",
+    "For example:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 23,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(2, 3)\n",
+      "(3,)\n",
+      "[[[ 1  2  3]\n",
+      "  [ 4  5  6]]\n",
+      "\n",
+      " [[10 23 33]\n",
+      "  [43 52 16]]]\n",
+      "(2, 2, 3)\n",
+      "(2, 3)\n",
+      "[ 6 52]\n",
+      "(2,)\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2, 3], \n",
+    "              [4, 5, 6]])\n",
+    "\n",
+    "print(x.shape)               # Has shape (2, 3)\n",
+    "print((x.max(axis=0)).shape) # Taking the max over axis 0 has shape (3,)\n",
+    "                             # corresponding to the 3 columns.\n",
+    "\n",
+    "# An array with rank 3\n",
+    "x = np.array([[[1, 2, 3], \n",
+    "               [4, 5, 6]],\n",
+    "              [[10, 23, 33], \n",
+    "               [43, 52, 16]]\n",
+    "             ])\n",
+    "\n",
+    "print(x)\n",
+    "print(x.shape)               # Has shape (2, 2, 3)\n",
+    "print((x.max(axis=1)).shape) # Taking the max over axis 1 has shape (2, 3)\n",
+    "\n",
+    "print((x.max(axis=(1, 2))))       # Can take max over multiple axes; prints [6 52]\n",
+    "print((x.max(axis=(1, 2))).shape) # Taking the max over axes 1, 2 has shape (2,)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Indexing"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "NumPy also provides powerful indexing schemes."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Original:\n",
+      " [[ 1  2  3  4]\n",
+      " [ 5  6  7  8]\n",
+      " [ 9 10 11 12]]\n",
+      "Element (0, 0) (a[0][0]):\n",
+      " 1\n",
+      "Element (0, 0) (a[0, 0]) :\n",
+      " 1\n",
+      "Sliced (a[:2, 1:3]):\n",
+      " [[2 3]\n",
+      " [6 7]]\n",
+      "Reversing the first row (a[0, ::-1]) :\n",
+      " [4 3 2 1]\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Create the following rank 2 array with shape (3, 4)\n",
+    "# [[ 1  2  3  4]\n",
+    "#  [ 5  6  7  8]\n",
+    "#  [ 9 10 11 12]]\n",
+    "a = np.array([[1, 2, 3, 4],\n",
+    "              [5, 6, 7, 8],\n",
+    "              [9, 10, 11, 12]])\n",
+    "print('Original:\\n', a)\n",
+    "\n",
+    "# Can select an element as you would in a 2 dimensional Python list\n",
+    "print('Element (0, 0) (a[0][0]):\\n', a[0][0])   # Prints 1\n",
+    "# or as follows\n",
+    "print('Element (0, 0) (a[0, 0]) :\\n', a[0, 0])  # Prints 1\n",
+    "\n",
+    "# Use slicing to pull out the subarray consisting of the first 2 rows\n",
+    "# and columns 1 and 2; b is the following array of shape (2, 2):\n",
+    "# [[2 3]\n",
+    "#  [6 7]]\n",
+    "b = a[:2, 1:3]\n",
+    "print('Sliced (a[:2, 1:3]):\\n', b)\n",
+    "\n",
+    "# Steps are also supported in indexing. The following reverses the first row:\n",
+    "print('Reversing the first row (a[0, ::-1]) :\\n', a[0, ::-1]) # Prints [4 3 2 1]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Often, it's useful to select or modify one element from each row of a matrix. The following example employs **fancy indexing**, where we index into our array using an array of indices (say an array of integers or booleans):"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[[ 1  2  3]\n",
+      " [ 4  5  6]\n",
+      " [ 7  8  9]\n",
+      " [10 11 12]]\n",
+      "[ 1  6  7 11]\n",
+      "[[11  2  3]\n",
+      " [ 4  5 16]\n",
+      " [17  8  9]\n",
+      " [10 21 12]]\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Create a new array from which we will select elements\n",
+    "a = np.array([[1, 2, 3],\n",
+    "              [4, 5, 6],\n",
+    "              [7, 8, 9],\n",
+    "              [10, 11, 12]])\n",
+    "\n",
+    "print(a)  # prints \"array([[ 1,  2,  3],\n",
+    "          #                [ 4,  5,  6],\n",
+    "          #                [ 7,  8,  9],\n",
+    "          #                [10, 11, 12]])\"\n",
+    "\n",
+    "# Create an array of indices\n",
+    "b = np.array([0, 2, 0, 1])\n",
+    "\n",
+    "# Select one element from each row of a using the indices in b\n",
+    "print(a[np.arange(4), b])  # Prints \"[ 1  6  7 11]\"\n",
+    "\n",
+    "# Mutate one element from each row of a using the indices in b\n",
+    "a[np.arange(4), b] += 10\n",
+    "\n",
+    "print(a)  # prints \"array([[11,  2,  3],\n",
+    "          #                [ 4,  5, 16],\n",
+    "          #                [17,  8,  9],\n",
+    "          #                [10, 21, 12]])\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "We can also use boolean indexing/masks. Suppose we want to set all elements greater than MAX to MAX:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 26,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[False False  True False  True False False]\n",
+      "[ 1  4  5 -1  5  0  5]\n"
+     ]
+    }
+   ],
+   "source": [
+    "MAX = 5\n",
+    "nums = np.array([1, 4, 10, -1, 15, 0, 5])\n",
+    "print(nums > MAX)            # Prints [False, False, True, False, True, False, False]\n",
+    "\n",
+    "nums[nums > MAX] = MAX\n",
+    "print(nums)                  # Prints [1, 4, 5, -1, 5, 0, 5]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Finally, note that the indices in fancy indexing can appear in any order and even multiple times:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 27,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[ 4 10 -1  4  1]\n"
+     ]
+    }
+   ],
+   "source": [
+    "nums = np.array([1, 4, 10, -1, 15, 0, 5])\n",
+    "print(nums[[1, 2, 3, 1, 0]])  # Prints [4 10 -1 4 1]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Broadcasting"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Many of the operations we've looked at above involved arrays of the same rank.  \n",
+    "However, many times we might have a smaller array and use that multiple times to update an array of a larger rank.  \n",
+    "For example, consider the below example of shifting the mean of each column from the elements of the corresponding column:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 28,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(2, 3)\n",
+      "[2.  3.5 5. ]\n",
+      "(3,)\n",
+      "\n",
+      " [[-1.  -1.5 -2. ]\n",
+      " [ 1.   1.5  2. ]]\n",
+      "(2, 3)\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2, 3],\n",
+    "              [3, 5, 7]])\n",
+    "print(x.shape)  # Prints (2, 3)\n",
+    "\n",
+    "col_means = x.mean(axis=0)\n",
+    "print(col_means)          # Prints [2. 3.5 5.]\n",
+    "print(col_means.shape)    # Prints (3,)\n",
+    "                          # Has a smaller rank than x!\n",
+    "\n",
+    "mean_shifted = x - col_means\n",
+    "print('\\n', mean_shifted)\n",
+    "print(mean_shifted.shape)  # Prints (2, 3)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Or even just multiplying a matrix by 2:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 29,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[[ 2  4  6]\n",
+      " [ 6 10 14]]\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2, 3],\n",
+    "              [3, 5, 7]])\n",
+    "print(x * 2) # Prints [[ 2  4  6]\n",
+    "             #         [ 6 10 14]]\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Broadcasting two arrays together follows these rules:\n",
+    "\n",
+    "1. If the arrays do not have the same rank, prepend the shape of the lower rank array with 1s until both shapes have the same length.\n",
+    "2. The two arrays are said to be compatible in a dimension if they have the same size in the dimension, or if one of the arrays has size 1 in that dimension.\n",
+    "3. The arrays can be broadcast together if they are compatible in all dimensions.\n",
+    "4. After broadcasting, each array behaves as if it had shape equal to the elementwise maximum of shapes of the two input arrays.\n",
+    "5. In any dimension where one array had size 1 and the other array had size greater than 1, the first array behaves as if it were copied along that dimension."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "For example, when subtracting the columns above, we had arrays of shape (2, 3) and (3,).\n",
+    "\n",
+    "1. These arrays do not have same rank, so we prepend the shape of the lower rank one to make it (1, 3).\n",
+    "2. (2, 3) and (1, 3) are compatible (have the same size in the dimension, or if one of the arrays has size 1 in that dimension).\n",
+    "3. Can be broadcast together!\n",
+    "4. After broadcasting, each array behaves as if it had shape equal to (2, 3).\n",
+    "5. The smaller array will behave as if it were copied along dimension 0."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Let's try to subtract the mean of each row!"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[2. 5.]\n"
+     ]
+    },
+    {
+     "ename": "ValueError",
+     "evalue": "operands could not be broadcast together with shapes (2,3) (2,) ",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mValueError\u001b[0m                                Traceback (most recent call last)",
+      "\u001b[0;32m<ipython-input-30-0ada6218e9d2>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m()\u001b[0m\n\u001b[1;32m      5\u001b[0m \u001b[0mprint\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mrow_means\u001b[0m\u001b[0;34m)\u001b[0m  \u001b[0;31m# Prints [2. 5.]\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      6\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m----> 7\u001b[0;31m \u001b[0mmean_shifted\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mx\u001b[0m \u001b[0;34m-\u001b[0m \u001b[0mrow_means\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+      "\u001b[0;31mValueError\u001b[0m: operands could not be broadcast together with shapes (2,3) (2,) "
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2, 3],\n",
+    "              [3, 5, 7]])\n",
+    "\n",
+    "row_means = x.mean(axis=1)\n",
+    "print(row_means)  # Prints [2. 5.]\n",
+    "\n",
+    "mean_shifted = x - row_means"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "To figure out what's wrong, we print some shapes:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 31,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(2, 3)\n",
+      "[2. 5.]\n",
+      "(2,)\n"
+     ]
+    },
+    {
+     "ename": "ValueError",
+     "evalue": "operands could not be broadcast together with shapes (2,3) (2,) ",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mValueError\u001b[0m                                Traceback (most recent call last)",
+      "\u001b[0;32m<ipython-input-31-58e735a17ece>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m()\u001b[0m\n\u001b[1;32m      8\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      9\u001b[0m \u001b[0;31m# Results in the following error: ValueError: operands could not be broadcast together with shapes (2,3) (2,)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 10\u001b[0;31m \u001b[0mmean_shifted\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mx\u001b[0m \u001b[0;34m-\u001b[0m \u001b[0mrow_means\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+      "\u001b[0;31mValueError\u001b[0m: operands could not be broadcast together with shapes (2,3) (2,) "
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2, 3],\n",
+    "              [3, 5, 7]])\n",
+    "print(x.shape)  # Prints (2, 3)\n",
+    "\n",
+    "row_means = x.mean(axis=1)\n",
+    "print(row_means)        # Prints [2. 5.]\n",
+    "print(row_means.shape)  # Prints (2,)\n",
+    "\n",
+    "# Results in the following error: ValueError: operands could not be broadcast together with shapes (2,3) (2,) \n",
+    "mean_shifted = x - row_means"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "What happened?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Answer: If we following broadcasting rule 1, then we'd prepend a 1 to the smaller rank array ot get (1, 2). However, the last dimensions don't match now between (2, 3) and (1, 2), and so we can't broadcast."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Take 2, reshaping the row means to get the desired behavior:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "(2, 3)\n",
+      "[[2.]\n",
+      " [5.]]\n",
+      "(2, 1)\n",
+      "[[-1.  0.  1.]\n",
+      " [-2.  0.  2.]]\n",
+      "(2, 3)\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.array([[1, 2, 3],\n",
+    "              [3, 5, 7]])\n",
+    "print(x.shape)  # Prints (2, 3)\n",
+    "\n",
+    "row_means = x.mean(axis=1).reshape((-1, 1))\n",
+    "print(row_means)        # Prints [[2.], [5.]]\n",
+    "print(row_means.shape)  # Prints (2, 1)\n",
+    "\n",
+    "mean_shifted = x - row_means\n",
+    "print(mean_shifted)\n",
+    "print(mean_shifted.shape)  # Prints (2, 3)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "More broadcasting examples!"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "[[ 4  5]\n",
+      " [ 8 10]\n",
+      " [12 15]]\n",
+      "[[2 4 6]\n",
+      " [5 7 9]]\n",
+      "[[ 5  6  7]\n",
+      " [ 9 10 11]]\n",
+      "[[ 5  6  7]\n",
+      " [ 9 10 11]]\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Compute outer product of vectors\n",
+    "v = np.array([1, 2, 3])  # v has shape (3,)\n",
+    "w = np.array([4, 5])    # w has shape (2,)\n",
+    "# To compute an outer product, we first reshape v to be a column\n",
+    "# vector of shape (3, 1); we can then broadcast it against w to yield\n",
+    "# an output of shape (3, 2), which is the outer product of v and w:\n",
+    "# [[ 4  5]\n",
+    "#  [ 8 10]\n",
+    "#  [12 15]]\n",
+    "print(np.reshape(v, (3, 1)) * w)\n",
+    "\n",
+    "# Add a vector to each row of a matrix\n",
+    "x = np.array([[1, 2, 3], [4, 5, 6]])\n",
+    "# x has shape (2, 3) and v has shape (3,) so they broadcast to (2, 3),\n",
+    "# giving the following matrix:\n",
+    "# [[2 4 6]\n",
+    "#  [5 7 9]]\n",
+    "print(x + v)\n",
+    "\n",
+    "# Add a vector to each column of a matrix\n",
+    "# x has shape (2, 3) and w has shape (2,).\n",
+    "# If we transpose x then it has shape (3, 2) and can be broadcast\n",
+    "# against w to yield a result of shape (3, 2); transposing this result\n",
+    "# yields the final result of shape (2, 3) which is the matrix x with\n",
+    "# the vector w added to each column. Gives the following matrix:\n",
+    "# [[ 5  6  7]\n",
+    "#  [ 9 10 11]]\n",
+    "print((x.T + w).T)\n",
+    "# Another solution is to reshape w to be a column vector of shape (2, 1);\n",
+    "# we can then broadcast it directly against x to produce the same\n",
+    "# output.\n",
+    "print(x + np.reshape(w, (2, 1)))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Views vs. Copies"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": true
+   },
+   "source": [
+    "Unlike a copy, in a **view** of an array, the data is shared between the view and the array. Sometimes, our results are copies of arrays, but other times they can be views. Understanding when each is generated is important to avoid any unforeseen issues.\n",
+    "\n",
+    "Views can be created from a slice of an array, changing the dtype of the same data area (using arr.view(dtype), not the result of arr.astype(dtype)), or even both."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Original:\n",
+      " [0 1 2 3 4]\n",
+      "Array After Modified View:\n",
+      " [ 0  1 -1  3  4]\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.arange(5)\n",
+    "print('Original:\\n', x)  # Prints [0 1 2 3 4]\n",
+    "\n",
+    "# Modifying the view will modify the array\n",
+    "view = x[1:3]\n",
+    "view[1] = -1\n",
+    "print('Array After Modified View:\\n', x)  # Prints [0 1 -1 3 4]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 35,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "View Before Array Modification:\n",
+      " [ 1 -1]\n",
+      "Array After Modifications:\n",
+      " [ 0  1 10  3  4]\n",
+      "View After Array Modification:\n",
+      " [ 1 10]\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.arange(5)\n",
+    "view = x[1:3]\n",
+    "view[1] = -1\n",
+    "\n",
+    "# Modifying the array will modify the view\n",
+    "print('View Before Array Modification:\\n', view)  # Prints [1 -1]\n",
+    "x[2] = 10\n",
+    "print('Array After Modifications:\\n', x)          # Prints [0 1 10 3 4]\n",
+    "print('View After Array Modification:\\n', view)   # Prints [1 10]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "However, if we use fancy indexing, the result will actually be a copy and not a view:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 36,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Original:\n",
+      " [0 1 2 3 4]\n",
+      "Copy:\n",
+      " [ 1 -1]\n",
+      "Array After Modified Copy:\n",
+      " [0 1 2 3 4]\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = np.arange(5)\n",
+    "print('Original:\\n', x)  # Prints [0 1 2 3 4]\n",
+    "\n",
+    "# Modifying the result of the selection due to fancy indexing\n",
+    "# will not modify the original array.\n",
+    "copy = x[[1, 2]]\n",
+    "copy[1] = -1\n",
+    "print('Copy:\\n', copy) # Prints [1 -1]\n",
+    "print('Array After Modified Copy:\\n', x)  # Prints [0 1 2 3 4]"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 37,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Original:\n",
+      " [0 1 2 3 4]\n",
+      "Copy:\n",
+      " [2 3 4]\n",
+      "Modified Array:\n",
+      " [ 0  1  2 10  4]\n",
+      "Copy After Modified Array:\n",
+      " [2 3 4]\n"
+     ]
+    }
+   ],
+   "source": [
+    "# Another example involving fancy indexing\n",
+    "x = np.arange(5)\n",
+    "print('Original:\\n', x)  # Prints [0 1 2 3 4]\n",
+    "\n",
+    "copy = x[x >= 2]\n",
+    "print('Copy:\\n', copy) # Prints [2 3 4]\n",
+    "x[3] = 10\n",
+    "print('Modified Array:\\n', x)  # Prints [0 1 2 10 4]\n",
+    "print('Copy After Modified Array:\\n', copy)  # Prints [2 3 4]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## Summary\n",
+    "\n",
+    "1. NumPy is an incredibly powerful library for computation providing both massive efficiency gains and convenience.\n",
+    "2. Vectorize! Orders of magnitude faster.\n",
+    "3. Keeping track of the shape of your arrays is often useful.\n",
+    "4. Many useful math functions and operations built into NumPy.\n",
+    "5. Select and manipulate arbitrary pieces of data with powerful indexing schemes.\n",
+    "6. Broadcasting allows for computation across arrays of different shapes.\n",
+    "7. Watch out for views vs. copies."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 1
+}
