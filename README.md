@@ -131,7 +131,7 @@
 * [自然语言处理中的自注意力机制（Self-Attention Mechanism）](https://zhuanlan.zhihu.com/p/35041012)                     
 ## 机器学习相关算法     
 * [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)
-### 决策树(Decision tree)      
+### 决策树(Decision Tree)      
 * [Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](https://blog.csdn.net/c406495762/article/details/75663451)
 * [Python3《机器学习实战》学习笔记（三）：决策树实战篇之为自己配个隐形眼镜](https://blog.csdn.net/c406495762/article/details/76262487)      
 * [机器学习实战教程（十三）：树回归基础篇之CART算法与树剪枝](http://cuijiahua.com/blog/2017/12/ml_13_regtree_1.html)            
@@ -145,9 +145,10 @@
 * [Python3《机器学习实战》学习笔记（八）：支持向量机原理篇之手撕线性SVM （SMO训练过程总结得清晰易懂）](https://blog.csdn.net/c406495762/article/details/78072313)       
 * [svm核函数的理解和选择](https://blog.csdn.net/leonis_v/article/details/50688766)       
 * [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)         
-### 标签传播算法(label propagation)     
+### 标签传播算法(Label Propagation Algorithm)     
 * [标签传播算法（Label Propagation）及Python实现](https://blog.csdn.net/zouxy09/article/details/49105265)        
-    * [参考资料](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Semi-Supervised%20Learning%20with%20Graphs.pdf)        
+    * [参考资料](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Semi-Supervised%20Learning%20with%20Graphs.pdf)     
+* [半监督之标签传播算法](https://blog.csdn.net/u013378306/article/details/52550805)
 ### 蒙塔卡罗搜索树     
 * [蒙特卡洛树搜索入门指南](https://zhuanlan.zhihu.com/p/34950988)      
 ### GBDT      
