@@ -130,7 +130,8 @@
 * [基于word2vec训练词向量(二)](https://zhuanlan.zhihu.com/p/35889385)        
 * [自然语言处理中的自注意力机制（Self-Attention Mechanism）](https://zhuanlan.zhihu.com/p/35041012)                     
 ## 机器学习相关算法     
-* [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)
+* [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)          
+* [数据挖掘十大算法简要说明](http://www.cnblogs.com/en-heng/p/5013995.html)                   
 ### 决策树(Decision Tree)      
 * [Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](https://blog.csdn.net/c406495762/article/details/75663451)
 * [Python3《机器学习实战》学习笔记（三）：决策树实战篇之为自己配个隐形眼镜](https://blog.csdn.net/c406495762/article/details/76262487)      
