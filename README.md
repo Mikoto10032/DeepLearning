@@ -148,7 +148,6 @@
 ### 标签传播算法(Label Propagation Algorithm)     
 * [标签传播算法（Label Propagation）及Python实现](https://blog.csdn.net/zouxy09/article/details/49105265)        
     * [参考资料](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Semi-Supervised%20Learning%20with%20Graphs.pdf)     
-* [半监督之标签传播算法](https://blog.csdn.net/u013378306/article/details/52550805)
 ### 蒙塔卡罗搜索树     
 * [蒙特卡洛树搜索入门指南](https://zhuanlan.zhihu.com/p/34950988)      
 ### GBDT      
