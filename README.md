@@ -51,6 +51,9 @@
 * [10. Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)                
 ### RNN       
 * [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)     
+* [循环神经网络(RNN, Recurrent Neural Networks)介绍](https://blog.csdn.net/heyongluoyao8/article/details/48636251)       
+* [RNN以及LSTM的介绍和公式梳理](https://blog.csdn.net/Dark_Scope/article/details/47056361)                
+* [深度学习其五 循环神经网络](https://zybuluo.com/hanbingtao/note/541458)                       
 * [用循环神经网络进行文件无损压缩：斯坦福大学提出DeepZip](https://zhuanlan.zhihu.com/p/32582764)                   
 ### LSTM  
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)      
