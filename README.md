@@ -177,6 +177,5 @@
 * [3.全唐诗(43030首)](https://pan.baidu.com/s/1o7QlUhO)        
 * [4. 伯克利大学公开数据集](https://people.eecs.berkeley.edu/~taesung_park/)          
 ## To do list:   
-* GAN、信息熵、2014机器学习个人笔记、2011机器学习个人笔记、深度学习
+* 2014机器学习个人笔记、cs231、2011机器学习个人笔记、深度学习
 * 将收藏过的文章转移到此项目
-* 将CS231n官方笔记授权翻译总集篇整合成pdf
