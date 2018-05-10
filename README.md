@@ -59,9 +59,10 @@
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)      
 * [2. 一文读懂LSTM和RNN](https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472)          
 * [3. 探索LSTM：基本概念到内部结构](https://zhuanlan.zhihu.com/p/27345523)           
-* [4. 翻译：深入理解LSTM系列]()             
+* [4. 翻译：深入理解LSTM系列](https://blog.csdn.net/matrix_space/article/details/53374040)                       
     * [深入理解 LSTM 网络 (一)](https://blog.csdn.net/matrix_space/article/details/53374040)
     * [深入理解 LSTM 网络 (二)](https://blog.csdn.net/matrix_space/article/details/53376870)     
+* [LSTM](https://zhuanlan.zhihu.com/p/32085405)   
 ## 前沿神经网络     
 ### ResNet(深度残差网络)            
 * [一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680?group_id=971491939699388416)    
