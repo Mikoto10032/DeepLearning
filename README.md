@@ -166,7 +166,8 @@
 * [XGBOOST原理篇](https://zhuanlan.zhihu.com/p/31654000)
 ### 集成(EM)          
 * [集成学习法之bagging方法和boosting方法](https://blog.csdn.net/qq_30189255/article/details/51532442)                        
-* [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853)                     
+* [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853)         
+* [人人都懂](https://zhuanlan.zhihu.com/p/36331115)                        的EM算法 
 ## 工具平台使用   
 ### Tensorflow    
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)            
