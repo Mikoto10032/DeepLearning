@@ -40,7 +40,7 @@
 * [14. 深度学习目标检测模型全面综述：Faster R-CNN、R-FCN和SSD](https://zhuanlan.zhihu.com/p/29434605)    
 * [15. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)         
 * [16. 人脸检测和识别算法综述]()       
-    * [人脸检测算法综述 ](https://zhuanlan.zhihu.com/p/36621308)          
+    * [人脸检测算法综述 ](https://zhuanlan.zhihu.com/p/36621308)          
     * [人脸检测背景介绍和发展现状](https://zhuanlan.zhihu.com/p/32702868)     
     * [人脸识别算法演化史](https://zhuanlan.zhihu.com/p/36416906)                 
     
