@@ -43,7 +43,8 @@
     * [人脸检测算法综述 ](https://zhuanlan.zhihu.com/p/36621308)          
     * [人脸检测背景介绍和发展现状](https://zhuanlan.zhihu.com/p/32702868)     
     * [人脸识别算法演化史](https://zhuanlan.zhihu.com/p/36416906)        
-    * [CascadeCNN](https://blog.csdn.net/shuzfan/article/details/50358809)  
+    * [CascadeCNN](https://blog.csdn.net/shuzfan/article/details/50358809)      
+    * [MTCNN](https://blog.csdn.net/qq_14845119/article/details/52680940)  
     
 ### GAN  
 * [1. GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)   
