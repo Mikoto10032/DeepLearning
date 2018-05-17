@@ -196,7 +196,8 @@
 * [2. 自然语言处理（NLP）数据集](https://zhuanlan.zhihu.com/p/35423943)          
 * [3.全唐诗(43030首)](https://pan.baidu.com/s/1o7QlUhO)        
 * [4. 伯克利大学公开数据集](https://people.eecs.berkeley.edu/~taesung_park/)       
-* [5. ACL 2018资源：100+ 预训练的中文词向量](https://zhuanlan.zhihu.com/p/36835964)            
+* [5. ACL 2018资源：100+ 预训练的中文词向量](https://zhuanlan.zhihu.com/p/36835964)      
+* [6. 预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)                  
 ## To do list:   
 * 2014机器学习个人笔记、Mask R-CNN、RNN、cs231、2011机器学习个人笔记、深度学习
 * 将收藏过的文章转移到此项目
