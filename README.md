@@ -145,8 +145,9 @@
 * [基于word2vec训练词向量(二)](https://zhuanlan.zhihu.com/p/35889385)        
 * [自然语言处理中的自注意力机制（Self-Attention Mechanism）](https://zhuanlan.zhihu.com/p/35041012)         
 ### 物体检测相关算法        
-* [深度学习中IU、IoU(Intersection over Union)](https://blog.csdn.net/iamoldpan/article/details/78799857)        
-* [NMS——非极大值抑制](https://blog.csdn.net/shuzfan/article/details/52711706)                    
+* [深度学习中IU、IoU(Intersection over Union)](https://blog.csdn.net/iamoldpan/article/details/78799857)    
+* [Selective Search for Object Detection ](https://www.learnopencv.com/selective-search-for-object-detection-cpp-python/)[译文](https://blog.csdn.net/guoyunfei20/article/details/78723646)
+* [NMS——非极大值抑制](https://blog.csdn.net/shuzfan/article/details/52711706)                 
 * [边框回归(Bounding Box Regression)详解](https://blog.csdn.net/zijin0802034/article/details/77685438)                   
 ## 机器学习相关算法     
 * [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)          
