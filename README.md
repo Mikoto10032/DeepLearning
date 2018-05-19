@@ -64,7 +64,9 @@
 * [循环神经网络(RNN, Recurrent Neural Networks)介绍](https://blog.csdn.net/heyongluoyao8/article/details/48636251)       
 * [RNN以及LSTM的介绍和公式梳理](https://blog.csdn.net/Dark_Scope/article/details/47056361)                
 * [深度学习其五 循环神经网络](https://zybuluo.com/hanbingtao/note/541458)                       
-* [用循环神经网络进行文件无损压缩：斯坦福大学提出DeepZip](https://zhuanlan.zhihu.com/p/32582764)                   
+* [用循环神经网络进行文件无损压缩：斯坦福大学提出DeepZip](https://zhuanlan.zhihu.com/p/32582764)         
+* [TensorFlow RNN 代码](https://zhuanlan.zhihu.com/p/27906426)        
+* [TensorFlow中RNN实现的正确打开方式](https://zhuanlan.zhihu.com/p/28196873)                           
 ### LSTM  
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)      
 * [2. 一文读懂LSTM和RNN](https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472)          
