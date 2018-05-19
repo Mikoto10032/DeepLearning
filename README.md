@@ -151,7 +151,8 @@
 ### 自然语言处理（NLP）     
 * [基于word2vec训练词向量(一)](https://zhuanlan.zhihu.com/p/35648927)             
 * [基于word2vec训练词向量(二)](https://zhuanlan.zhihu.com/p/35889385)        
-* [自然语言处理中的自注意力机制（Self-Attention Mechanism）](https://zhuanlan.zhihu.com/p/35041012)         
+* [自然语言处理中的自注意力机制（Self-Attention Mechanism）](https://zhuanlan.zhihu.com/p/35041012)       
+* [YJango的Word Embedding--介绍](https://zhuanlan.zhihu.com/p/27830489)                   
 ### 物体检测相关算法        
 * [深度学习中IU、IoU(Intersection over Union)](https://blog.csdn.net/iamoldpan/article/details/78799857)    
 * [Selective Search for Object Detection ](https://www.learnopencv.com/selective-search-for-object-detection-cpp-python/)[（译文）](https://blog.csdn.net/guoyunfei20/article/details/78723646)
