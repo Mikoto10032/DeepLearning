@@ -138,7 +138,8 @@
     * [强化学习入门 第一讲 MDP](https://zhuanlan.zhihu.com/p/25498081)       
 * [强化学习——从Q-Learning到DQN到底发生了什么？](https://zhuanlan.zhihu.com/p/35882937)    
 * [从强化学习到深度强化学习（上）](https://zhuanlan.zhihu.com/p/35688924)                   
-* [从强化学习到深度强化学习（下）](https://zhuanlan.zhihu.com/p/35965070)                        
+* [从强化学习到深度强化学习（下）](https://zhuanlan.zhihu.com/p/35965070)         
+* [一文带你理解Q-Learning的搜索策略](https://zhuanlan.zhihu.com/p/37048004)                      
 ### 马尔科夫决策        
 * [马尔科夫决策过程之Markov Processes（马尔科夫过程）](https://zhuanlan.zhihu.com/p/35124726)      
 * [马尔科夫决策过程之Markov Reward Process（马尔科夫奖励过程）](https://zhuanlan.zhihu.com/p/35231424)                 
