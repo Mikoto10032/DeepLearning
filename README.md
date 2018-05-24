@@ -71,7 +71,11 @@
     * [Coursera吴恩达《序列模型》课程笔记（1）-- 循环神经网络（RNN）](https://zhuanlan.zhihu.com/p/34309635)
     * [Coursera吴恩达《序列模型》课程笔记（2）-- NLP & Word Embeddings](https://zhuanlan.zhihu.com/p/34975871)
     * [Coursera吴恩达《序列模型》课程笔记（3）-- Sequence models & Attention mechanism](https://zhuanlan.zhihu.com/p/35532553)
-
+* [Word2Vec]()          
+    * [word2vec原理(一) CBOW与Skip-Gram模型基础](https://www.cnblogs.com/pinard/p/7160330.html)       
+    * [word2vec原理(二) 基于Hierarchical Softmax的模型](http://www.cnblogs.com/pinard/p/7243513.html)        
+    * [word2vec原理(三) 基于Negative Sampling的模型 ](http://www.cnblogs.com/pinard/p/7249903.html)        
+    * [用gensim学习word2vec ](http://www.cnblogs.com/pinard/p/7278324.html)        
 ### LSTM  
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)
 * [2. 一文读懂LSTM和RNN](https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472)
