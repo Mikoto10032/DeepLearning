@@ -76,6 +76,8 @@
     * [word2vec原理(二) 基于Hierarchical Softmax的模型](http://www.cnblogs.com/pinard/p/7243513.html)        
     * [word2vec原理(三) 基于Negative Sampling的模型 ](http://www.cnblogs.com/pinard/p/7249903.html)        
     * [用gensim学习word2vec ](http://www.cnblogs.com/pinard/p/7278324.html)        
+* [Action]()          
+  * [tensorflow中RNNcell源码分析以及自定义RNNCell的方法](https://blog.csdn.net/liuchonge/article/details/78405185?locationNum=8&fps=1)
 ### LSTM  
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)
 * [2. 一文读懂LSTM和RNN](https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472)
