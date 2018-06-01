@@ -60,6 +60,7 @@
 * [9. CycleGAN：图片风格，想换就换 | ICCV 2017论文解读](https://zhuanlan.zhihu.com/p/34711316)
 * [10. Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)
 ### RNN      
+* [从90年代的SRNN开始，纵览循环神经网络27年的研究进展](https://zhuanlan.zhihu.com/p/32668465)       
 * [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)
 * [循环神经网络(RNN, Recurrent Neural Networks)介绍](https://blog.csdn.net/heyongluoyao8/article/details/48636251)
 * [RNN以及LSTM的介绍和公式梳理](https://blog.csdn.net/Dark_Scope/article/details/47056361)
