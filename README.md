@@ -1,8 +1,7 @@
 # DeepLearning
 ## 入门资料     
-* [1. 《深度学习》 Yoshua Bengio.Ian GoodFellow]      
-* [2. 《机器学习》 周志华](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习周志华.pdf)
-(https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf)
+* [1. 《深度学习》 Yoshua Bengio.Ian GoodFellow]((https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf))      
+* [2. 《机器学习》 周志华](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习周志华.pdf)        
 * [3. 《神经网络与深度学习》 Michael Nielsen](https://github.com/Mikoto10032/DeepLearning/blob/master/books/神经网络和深度学习neural%20networks%20and%20deep-learning-中文_ALL.pdf)    
 * [4. 《斯坦福大学深度学习基础教程》 Andrew Ng（吴恩达）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/斯坦福大学-深度学习基础教程.pdf)      
 * [5. 《模式识别与机器学习》 Christopher Bishop](https://github.com/Mikoto10032/DeepLearning/blob/master/books/模式识别与机器学习PRML_Chinese_vision.pdf)
