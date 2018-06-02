@@ -89,10 +89,10 @@
     * [深入理解 LSTM 网络 (一)](https://blog.csdn.net/matrix_space/article/details/53374040)
     * [深入理解 LSTM 网络 (二)](https://blog.csdn.net/matrix_space/article/details/53376870)
 * [LSTM](https://zhuanlan.zhihu.com/p/32085405)
-* [Action]()
-  * [用tensorflow LSTM如何预测股票价格](https://zhuanlan.zhihu.com/p/33186759)
-  * [TensorFlow的多层LSTM实践](https://zhuanlan.zhihu.com/p/29797089)
-  * [《安娜卡列尼娜》文本生成——利用TensorFlow构建LSTM模型](https://zhuanlan.zhihu.com/p/27087310)
+#### Action
+* [用tensorflow LSTM如何预测股票价格](https://zhuanlan.zhihu.com/p/33186759)
+* [TensorFlow的多层LSTM实践](https://zhuanlan.zhihu.com/p/29797089)
+* [《安娜卡列尼娜》文本生成——利用TensorFlow构建LSTM模型](https://zhuanlan.zhihu.com/p/27087310)
 ## 前沿神经网络    
 ### ResNet(深度残差网络)            
 * [一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680?group_id=971491939699388416)
