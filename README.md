@@ -80,7 +80,8 @@
   * [tensorflow中RNNcell源码分析以及自定义RNNCell的方法](https://blog.csdn.net/liuchonge/article/details/78405185?locationNum=8&fps=1)     
   * [TensorFlow中RNN实现的正确打开方式](https://zhuanlan.zhihu.com/p/28196873)      
   * [TensorFlow RNN 代码](https://zhuanlan.zhihu.com/p/27906426)
-### LSTM  
+### LSTM      
+#### 教程     
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)
 * [2. 一文读懂LSTM和RNN](https://zhuanlan.zhihu.com/p/35878575?group_id=970350175025385472)
 * [3. 探索LSTM：基本概念到内部结构](https://zhuanlan.zhihu.com/p/27345523)
