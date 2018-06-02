@@ -45,6 +45,7 @@
     * [人脸识别算法演化史](https://zhuanlan.zhihu.com/p/36416906)
     * [CascadeCNN](https://blog.csdn.net/shuzfan/article/details/50358809)  
     * [MTCNN](https://blog.csdn.net/qq_14845119/article/details/52680940)
+* [语义分割卷积神经网络快速入门](https://blog.csdn.net/qq_20084101/article/details/80455877)          
 
 ### GAN  
 * [1. GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)
