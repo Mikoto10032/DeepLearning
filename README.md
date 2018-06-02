@@ -48,21 +48,26 @@
     * [MTCNN](https://blog.csdn.net/qq_14845119/article/details/52680940)
 * [9. 语义分割卷积神经网络快速入门](https://blog.csdn.net/qq_20084101/article/details/80455877)          
 
-### GAN  
+### GAN     
+#### 发展史      
+* [5. 千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)      
+#### 教程     
 * [1. GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635)
-* [2. GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)
-* [3. 机器之心GitHub项目：GAN完整理论推导与实现](https://zhuanlan.zhihu.com/p/29837245)
-* [4. 极端图像压缩的对抗生成网络](https://zhuanlan.zhihu.com/p/35783437?group_id=969598777652420608)
-* [5. 千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)
-* [6. 台湾大学李宏毅GAN教程](https://www.youtube.com/watch?v=0CKeqXl5IY0&feature=youtu.be)
+* [2. 极端图像压缩的对抗生成网络](https://zhuanlan.zhihu.com/p/35783437?group_id=969598777652420608)
+* [3. 台湾大学李宏毅GAN教程](https://www.youtube.com/watch?v=0CKeqXl5IY0&feature=youtu.be)
     * [Basic](https://github.com/Mikoto10032/DeepLearning/blob/master/books/GAN-Basic%20Idea%20(2017.04.21).pdf)
     * [Improving](https://github.com/Mikoto10032/DeepLearning/blob/master/books/GAN-Improving%20GAN%20(2017.05.05).pdf)
-* [7. 2017年GAN 计算机视觉相关paper汇总](https://zhuanlan.zhihu.com/p/29882709)
-* [8. 在Keras上实现GAN：构建消除图片模糊的应用](https://zhuanlan.zhihu.com/p/35030377)
-* [9. CycleGAN：图片风格，想换就换 | ICCV 2017论文解读](https://zhuanlan.zhihu.com/p/34711316)
-* [10. Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)
-### RNN      
+* [4. 2017年GAN 计算机视觉相关paper汇总](https://zhuanlan.zhihu.com/p/29882709)
+* [5. 在Keras上实现GAN：构建消除图片模糊的应用](https://zhuanlan.zhihu.com/p/35030377)
+* [6. CycleGAN：图片风格，想换就换 | ICCV 2017论文解读](https://zhuanlan.zhihu.com/p/34711316)
+* [7. Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)      
+#### Action     
+* [1. GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)    
+* [2. 机器之心GitHub项目：GAN完整理论推导与实现](https://zhuanlan.zhihu.com/p/29837245)     
+### RNN      
+#### 发展史      
 * [从90年代的SRNN开始，纵览循环神经网络27年的研究进展](https://zhuanlan.zhihu.com/p/32668465)       
+#### 教程     
 * [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)
 * [循环神经网络(RNN, Recurrent Neural Networks)介绍](https://blog.csdn.net/heyongluoyao8/article/details/48636251)
 * [RNN以及LSTM的介绍和公式梳理](https://blog.csdn.net/Dark_Scope/article/details/47056361)
@@ -77,10 +82,10 @@
     * [word2vec原理(二) 基于Hierarchical Softmax的模型](http://www.cnblogs.com/pinard/p/7243513.html)        
     * [word2vec原理(三) 基于Negative Sampling的模型 ](http://www.cnblogs.com/pinard/p/7249903.html)        
     * [用gensim学习word2vec ](http://www.cnblogs.com/pinard/p/7278324.html)        
-* [Action]()          
-  * [tensorflow中RNNcell源码分析以及自定义RNNCell的方法](https://blog.csdn.net/liuchonge/article/details/78405185?locationNum=8&fps=1)     
-  * [TensorFlow中RNN实现的正确打开方式](https://zhuanlan.zhihu.com/p/28196873)      
-  * [TensorFlow RNN 代码](https://zhuanlan.zhihu.com/p/27906426)
+#### Action     
+* [tensorflow中RNNcell源码分析以及自定义RNNCell的方法](https://blog.csdn.net/liuchonge/article/details/78405185?locationNum=8&fps=1)     
+* [TensorFlow中RNN实现的正确打开方式](https://zhuanlan.zhihu.com/p/28196873)      
+* [TensorFlow RNN 代码](https://zhuanlan.zhihu.com/p/27906426)
 ### LSTM      
 #### 教程     
 * [1. （译）理解长短期记忆(LSTM) 神经网络](https://zhuanlan.zhihu.com/p/24018768)
