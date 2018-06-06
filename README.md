@@ -41,14 +41,15 @@
 * [4. 从VGG到NASNet，一文概览图像分类网络](https://zhuanlan.zhihu.com/p/35221368)
 * [5. 一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680)
 * [6. CNN模型之ShuffleNet](https://zhuanlan.zhihu.com/p/32304419)
-* [7. 将CNN引入目标检测的开山之作：R-CNN](https://zhuanlan.zhihu.com/p/23006190)
-* [8. 人脸检测和识别算法综述]()      
+* [7. 将CNN引入目标检测的开山之作：R-CNN](https://zhuanlan.zhihu.com/p/23006190)     
+* [8.深度学习（十八）基于R-CNN的物体检测](https://blog.csdn.net/hjimce/article/details/50187029)     
+* [9. 人脸检测和识别算法综述]()      
     * [人脸检测算法综述 ](https://zhuanlan.zhihu.com/p/36621308)          
     * [人脸检测背景介绍和发展现状](https://zhuanlan.zhihu.com/p/32702868)
     * [人脸识别算法演化史](https://zhuanlan.zhihu.com/p/36416906)
     * [CascadeCNN](https://blog.csdn.net/shuzfan/article/details/50358809)  
     * [MTCNN](https://blog.csdn.net/qq_14845119/article/details/52680940)
-* [9. 语义分割卷积神经网络快速入门](https://blog.csdn.net/qq_20084101/article/details/80455877)          
+* [10. 语义分割卷积神经网络快速入门](https://blog.csdn.net/qq_20084101/article/details/80455877)          
 
 ### GAN     
 #### 发展史      
