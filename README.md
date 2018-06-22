@@ -41,14 +41,11 @@
 * [4. 深度学习之目标检测的前世今生（Mask R-CNN）](https://zhuanlan.zhihu.com/p/32830206)      
 * [5. 纵览轻量化卷积神经网络：SqueezeNet、MobileNet、ShuffleNet、Xception](https://zhuanlan.zhihu.com/p/32746221)   
 * [6. 深度学习目标检测模型全面综述：Faster R-CNN、R-FCN和SSD](https://zhuanlan.zhihu.com/p/29434605)      
-<<<<<<< HEAD
 * [7. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)
-
-=======
 * [7. 从RCNN到SSD，这应该是最全的一份目标检测算法盘点](https://zhuanlan.zhihu.com/p/36184131)    
 * [8. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)      
 * [9. 语义分割 发展综述](https://zhuanlan.zhihu.com/p/37618829)          
->>>>>>> e55dd172fd3ab0cc442c469967eaa73b97e93013
+
 #### 教程     
 
 * [1. 卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
