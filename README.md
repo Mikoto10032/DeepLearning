@@ -19,8 +19,8 @@
 * [11. 深度学习 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884)        
     * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 * [12. 台湾大学（NTU）李宏毅教授课程](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)	
-* [13. 《自然语言处理》Jacob Eisenstein](file:///books/自然语言处理.Jacob Eisenstein.pdf)		
-* [14. 《强化学习》](file:///books/Reinforcement Learning.Sutton.pdf)
+* [13. 《自然语言处理》Jacob Eisenstein](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.Jacob%20Eisenstein.pdf)		
+* [14. 《强化学习》](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Reinforcement%20Learning.Sutton.pdf)
 ## 神经网络模型概览		
 
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)
