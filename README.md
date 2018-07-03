@@ -319,6 +319,6 @@
 * [6. 预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 
 ## To do list:		
-
-* RNN、2014机器学习个人笔记、Mask R-CNN、RNN、cs231、2011机器学习个人笔记、深度学习
+* [Inter Covariate shift](https://blog.csdn.net/mao_xiao_feng/article/details/54317852)
+* 2014机器学习个人笔记、cs231、2011机器学习个人笔记、深度学习
 * 将收藏过的文章转移到此项目
