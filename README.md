@@ -319,6 +319,7 @@
 * [6. 预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 
 ## To do list:		
-* [Inter Covariate shift](https://blog.csdn.net/mao_xiao_feng/article/details/54317852)
+* [Inter Covariate shift](https://blog.csdn.net/mao_xiao_feng/article/details/54317852)     
+* [Transposed Convolution, Fractionally Strided Convolution or Deconvolution](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)
 * 2014机器学习个人笔记、cs231、2011机器学习个人笔记、深度学习
 * 将收藏过的文章转移到此项目
