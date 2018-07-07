@@ -65,7 +65,8 @@
     * [CascadeCNN](https://blog.csdn.net/shuzfan/article/details/50358809)  
     * [MTCNN](https://blog.csdn.net/qq_14845119/article/details/52680940)
 * [12. 语义分割卷积神经网络快速入门](https://blog.csdn.net/qq_20084101/article/details/80455877)          
-* [图像语义分割的工作原理和CNN架构变迁](https://zhuanlan.zhihu.com/p/38033032)
+* [图像语义分割的工作原理和CNN架构变迁](https://zhuanlan.zhihu.com/p/38033032)        
+* [反卷积](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)
 ### GAN     
 
 #### 发展史      
