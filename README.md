@@ -45,7 +45,7 @@
 * [7. 从RCNN到SSD，这应该是最全的一份目标检测算法盘点](https://zhuanlan.zhihu.com/p/36184131)    
 * [8. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)      
 * [9. 语义分割 发展综述](https://zhuanlan.zhihu.com/p/37618829)               
-* [Frome RCNN to YOLO]()        
+* [From RCNN to YOLO]()        
   * [上](https://zhuanlan.zhihu.com/p/35724768)        
   * [下](https://zhuanlan.zhihu.com/p/35731743)
         
@@ -327,4 +327,6 @@
 * [Inter Covariate shift](https://blog.csdn.net/mao_xiao_feng/article/details/54317852)     
 * [Transposed Convolution, Fractionally Strided Convolution or Deconvolution](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)
 * 2014机器学习个人笔记、cs231、2011机器学习个人笔记、深度学习
-* 将收藏过的文章转移到此项目
+* 将收藏过的文章转移到此项目     
+* 准备新建个论文索引项目，将看过的论文保存            
+* 重新调整本项目的结构
