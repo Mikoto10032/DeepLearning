@@ -20,7 +20,8 @@
     * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 * [12. 台湾大学（NTU）李宏毅教授课程](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)	
 * [13. 《自然语言处理》Jacob Eisenstein](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.Jacob%20Eisenstein.pdf)		
-* [14. 《强化学习》](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Reinforcement%20Learning.Sutton.pdf)
+* [14. 《强化学习》](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Reinforcement%20Learning.Sutton.pdf)				
+
 ## 神经网络模型概览		
 
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)
@@ -71,6 +72,7 @@
 * [图像语义分割的工作原理和CNN架构变迁](https://zhuanlan.zhihu.com/p/38033032)        
 * [反卷积](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)            
 * [YOLO](http://www.mamicode.com/info-detail-2314392.html)
+
 ### GAN     
 
 #### 发展史      
@@ -325,8 +327,14 @@
 
 ## To do list:		
 * [Inter Covariate shift](https://blog.csdn.net/mao_xiao_feng/article/details/54317852)     
-* [Transposed Convolution, Fractionally Strided Convolution or Deconvolution](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)
+* - [x] [Transposed Convolution, Fractionally Strided Convolution or Deconvolution](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)
 * 2014机器学习个人笔记、cs231、2011机器学习个人笔记、深度学习
 * 将收藏过的文章转移到此项目     
 * 准备新建个论文索引项目，将看过的论文保存            
 * 重新调整本项目的结构
+* 将看过的论文的模型的test代码和train代码跑通
+	*	准备跑通YOLO系列模型
+		*	- [x] YOLOv1 tensorflow版本test代码跑通
+		*	- [x] YOLOv1 tensorlfow版本train代码跑通
+		*	- [x] YOLOv3 darknet版本test跑通
+		*	- [x] YOLOv3 darknet版本train跑通 
