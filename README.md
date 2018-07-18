@@ -47,38 +47,49 @@
 * [8. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)      
 * [9. 语义分割 发展综述](https://zhuanlan.zhihu.com/p/37618829)       
 * [深度学习分类网络](https://blog.csdn.net/PeaceInMind/article/details/78079263)
-* [From RCNN to YOLO]()        
-  * [上](https://zhuanlan.zhihu.com/p/35724768)        
-  * [下](https://zhuanlan.zhihu.com/p/35731743)
+* [从VGG到NASNet，一文概览图像分类网络](https://zhuanlan.zhihu.com/p/35221368)
+* [From RCNN to YOLO]()：[上](https://zhuanlan.zhihu.com/p/35724768)，[下](https://zhuanlan.zhihu.com/p/35731743)
         
 #### 教程     
 
-* [1. 卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
-* [2. 变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)
-* [3. 先理解Mask R-CNN的工作原理，然后构建颜色填充器应用](https://zhuanlan.zhihu.com/p/34816076)
-* [4. 从VGG到NASNet，一文概览图像分类网络](https://zhuanlan.zhihu.com/p/35221368)
-* [5. 一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680)
-* [6. CNN模型之ShuffleNet](https://zhuanlan.zhihu.com/p/32304419)
-* [7. 将CNN引入目标检测的开山之作：R-CNN](https://zhuanlan.zhihu.com/p/23006190)     
-* [8.深度学习（十八）基于R-CNN的物体检测](https://blog.csdn.net/hjimce/article/details/50187029)       
-* [9. R-CNN论文详解](https://blog.csdn.net/u014696921/article/details/52824097)         
-* [10. 深度学习（六十四）Faster R-CNN物体检测](https://blog.csdn.net/hjimce/article/details/73382553)
-* [11. 人脸检测和识别算法综述]()      
+* [卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
+* [变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)
+* [反卷积](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/) 
+* [CNN模型之ShuffleNet](https://zhuanlan.zhihu.com/p/32304419)  
+* [一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680)
+* [ResNet解析](https://blog.csdn.net/lanran2/article/details/79057994)
+* [将CNN引入目标检测的开山之作：R-CNN](https://zhuanlan.zhihu.com/p/23006190)     
+* [深度学习（十八）基于R-CNN的物体检测](https://blog.csdn.net/hjimce/article/details/50187029)       
+* [R-CNN论文详解](https://blog.csdn.net/u014696921/article/details/52824097)         
+* [深度学习（六十四）Faster R-CNN物体检测](https://blog.csdn.net/hjimce/article/details/73382553)
+* [先理解Mask R-CNN的工作原理，然后构建颜色填充器应用](https://zhuanlan.zhihu.com/p/34816076)
+* [人脸检测和识别算法综述]()      
     * [人脸检测算法综述 ](https://zhuanlan.zhihu.com/p/36621308)          
     * [人脸检测背景介绍和发展现状](https://zhuanlan.zhihu.com/p/32702868)
     * [人脸识别算法演化史](https://zhuanlan.zhihu.com/p/36416906)
     * [CascadeCNN](https://blog.csdn.net/shuzfan/article/details/50358809)  
     * [MTCNN](https://blog.csdn.net/qq_14845119/article/details/52680940)
-* [12. 语义分割卷积神经网络快速入门](https://blog.csdn.net/qq_20084101/article/details/80455877)          
-* [图像语义分割的工作原理和CNN架构变迁](https://zhuanlan.zhihu.com/p/38033032)        
-* [反卷积](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)            
+* [语义分割卷积神经网络快速入门](https://blog.csdn.net/qq_20084101/article/details/80455877)          
+* [图像语义分割的工作原理和CNN架构变迁](https://zhuanlan.zhihu.com/p/38033032)                 
+* [CapsNet入门系列](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484099&idx=1&sn=97e209f1a9860c8d8c51e81d98fc8a0a&chksm=eb4ee600dc396f16624a33cdfc0ead905e62ae9447b49b20146020e6cbd7d71f089101512a40&scene=21#wechat_redirect)
+  * [CapsNet入门系列之一：胶囊网络背后的直觉](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484099&idx=1&sn=97e209f1a9860c8d8c51e81d98fc8a0a&chksm=eb4ee600dc396f16624a33cdfc0ead905e62ae9447b49b20146020e6cbd7d71f089101512a40&scene=21#wechat_redirect)
+  * [CapsNet入门系列之二：胶囊如何工作](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484165&idx=1&sn=0ca679e3a5f499f8d8addb405fe3df83&chksm=eb4ee7c6dc396ed0a330fcac12690110bcaf9a8a10794dbc5e1a326c69ecbb140140f55fd6ba&scene=21#wechat_redirect)
+  * [CapsNet入门系列之三：囊间动态路由算法](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484433&idx=1&sn=3afe4605bc2501eebbc41c6dd1af9572&chksm=eb4ee0d2dc3969c4619d6c1097d5c949c76c6c854e60d36eba4388da2c3855747818d062c90a&scene=21#wechat_redirect)
+  * [CapsNet入门系列之四：胶囊网络架构](https://mp.weixin.qq.com/s/6CRSen8P6zKaMGtX8IRfqw)
 * [YOLO](http://www.mamicode.com/info-detail-2314392.html)
+* [目标检测|YOLOv2原理与实现(附YOLOv3)](https://zhuanlan.zhihu.com/p/35325884?group_id=966229905398362112)
+* [目标检测模型YOLO v3问世](https://zhuanlan.zhihu.com/p/34995629)
+
+#### Action			
+* [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
+
 
 ### GAN     
 
 #### 发展史      
 
-* [5. 千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)      
+* [千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)      
+* [The GAN Landscape：Losses, Architectures, Regularization, and Normalization](https://arxiv.org/pdf/1807.04720.pdf)
 
 #### 教程     
 
@@ -144,28 +155,7 @@
 * [TensorFlow的多层LSTM实践](https://zhuanlan.zhihu.com/p/29797089)
 * [《安娜卡列尼娜》文本生成——利用TensorFlow构建LSTM模型](https://zhuanlan.zhihu.com/p/27087310)
 
-## 前沿神经网络    
-
-### ResNet(深度残差网络)        
-    
-* [一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680?group_id=971491939699388416)
-* [ResNet解析](https://blog.csdn.net/lanran2/article/details/79057994)
-
-### CapsNet(胶囊网络)    
-
-* [1. 先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
-* [2. CapsNet入门系列](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484099&idx=1&sn=97e209f1a9860c8d8c51e81d98fc8a0a&chksm=eb4ee600dc396f16624a33cdfc0ead905e62ae9447b49b20146020e6cbd7d71f089101512a40&scene=21#wechat_redirect)
-  * [CapsNet入门系列之一：胶囊网络背后的直觉](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484099&idx=1&sn=97e209f1a9860c8d8c51e81d98fc8a0a&chksm=eb4ee600dc396f16624a33cdfc0ead905e62ae9447b49b20146020e6cbd7d71f089101512a40&scene=21#wechat_redirect)
-  * [CapsNet入门系列之二：胶囊如何工作](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484165&idx=1&sn=0ca679e3a5f499f8d8addb405fe3df83&chksm=eb4ee7c6dc396ed0a330fcac12690110bcaf9a8a10794dbc5e1a326c69ecbb140140f55fd6ba&scene=21#wechat_redirect)
-  * [CapsNet入门系列之三：囊间动态路由算法](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484433&idx=1&sn=3afe4605bc2501eebbc41c6dd1af9572&chksm=eb4ee0d2dc3969c4619d6c1097d5c949c76c6c854e60d36eba4388da2c3855747818d062c90a&scene=21#wechat_redirect)
-  * [CapsNet入门系列之四：胶囊网络架构](https://mp.weixin.qq.com/s/6CRSen8P6zKaMGtX8IRfqw)
-
-### YOLO(You only look once,目标检测模型)  
-
-* [目标检测模型YOLO v3问世](https://zhuanlan.zhihu.com/p/34995629)
-* [目标检测|YOLOv2原理与实现(附YOLOv3)](https://zhuanlan.zhihu.com/p/35325884?group_id=966229905398362112)
-
-## 优化    
+## 深度模型的优化    
 
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)
 * [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)
@@ -189,7 +179,7 @@
 * [18. <深度学习优化策略-1>Batch Normalization（BN）](https://zhuanlan.zhihu.com/p/26702482)
 * [19. 详解深度学习中的Normalization，不只是BN](https://zhuanlan.zhihu.com/p/33173246)
 
-## 机器学习基础理论    
+## 机器学习、深度学习基础理论    
 
 ### 信息论				
 
@@ -328,7 +318,7 @@
 
 ## To do list:		
 * [Inter Covariate shift](https://blog.csdn.net/mao_xiao_feng/article/details/54317852)     
-* - [x] [Transposed Convolution, Fractionally Strided Convolution or Deconvolution](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)
+*  - [x] [Transposed Convolution, Fractionally Strided Convolution or Deconvolution](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)
 * - [ ] 2014机器学习个人笔记、cs231、2011机器学习个人笔记、深度学习
 * 将收藏过的文章转移到此项目（一直持续）     
 * **准备新建个论文索引项目，将看过的论文保存（按照方向、年份、名称排序）**            
