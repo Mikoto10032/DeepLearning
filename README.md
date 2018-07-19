@@ -54,6 +54,7 @@
 
 * [卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
 * [变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)
+* [各种卷积](https://www.cnblogs.com/cvtoEyes/p/8848815.html)
 * [反卷积](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/) 
 * [CNN模型之ShuffleNet](https://zhuanlan.zhihu.com/p/32304419)  
 * [一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680)
