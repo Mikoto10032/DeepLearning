@@ -179,6 +179,7 @@
 * [17. FAIR何恺明等人提出组归一化：替代批归一化，不受批量大小限制](https://zhuanlan.zhihu.com/p/34858971)
 * [18. <深度学习优化策略-1>Batch Normalization（BN）](https://zhuanlan.zhihu.com/p/26702482)
 * [19. 详解深度学习中的Normalization，不只是BN](https://zhuanlan.zhihu.com/p/33173246)
+* [20. BFGS](https://blog.csdn.net/philosophyatmath/article/details/70173128)
 
 ## 机器学习、深度学习基础理论    
 
