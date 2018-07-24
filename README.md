@@ -103,7 +103,7 @@
 * [5. 在Keras上实现GAN：构建消除图片模糊的应用](https://zhuanlan.zhihu.com/p/35030377)
 * [6. CycleGAN：图片风格，想换就换 | ICCV 2017论文解读](https://zhuanlan.zhihu.com/p/34711316)
 * [7. Wasserstein GAN](https://zhuanlan.zhihu.com/p/25071913)      
-
+* [用变分推断统一理解生成模型（VAE、GAN、AAE、ALI）](https://zhuanlan.zhihu.com/p/40105143)
 #### Action     
 
 * [1. GAN学习指南：从原理入门到制作生成Demo](https://zhuanlan.zhihu.com/p/24767059)    
