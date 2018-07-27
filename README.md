@@ -80,6 +80,7 @@
 * [YOLO](http://www.mamicode.com/info-detail-2314392.html)
 * [目标检测|YOLOv2原理与实现(附YOLOv3)](https://zhuanlan.zhihu.com/p/35325884?group_id=966229905398362112)
 * [目标检测模型YOLO v3问世](https://zhuanlan.zhihu.com/p/34995629)
+* [Attention](http://www.cnblogs.com/shouhuxianjian/p/7903097.html)
 
 #### Action			
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
