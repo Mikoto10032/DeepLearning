@@ -321,7 +321,13 @@
 * [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)                        
 
-## 数据集  		
+### 标注工具
+* BoundingBox
+	* [labelImg](https://github.com/tzutalin/labelImg)
+* Segmentation
+	* [labelme](https://github.com/wkentaro/labelme)
+
+## 数据集  		
 
 * [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)
 * [2. 自然语言处理（NLP）数据集](https://zhuanlan.zhihu.com/p/35423943)
