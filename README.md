@@ -80,9 +80,8 @@
 * [YOLO](http://www.mamicode.com/info-detail-2314392.html)
 * [目标检测|YOLOv2原理与实现(附YOLOv3)](https://zhuanlan.zhihu.com/p/35325884?group_id=966229905398362112)
 * [目标检测模型YOLO v3问世](https://zhuanlan.zhihu.com/p/34995629)
-* [Attention](http://www.cnblogs.com/shouhuxianjian/p/7903097.html)
+* [Attention](http://www.cnblogs.com/shouhuxianjian/p/7903097.html)， [1](https://zhuanlan.zhihu.com/p/31547842)，[2](https://blog.csdn.net/yideqianfenzhiyi/article/details/79422857)，[3](https://blog.csdn.net/Wayne2019/article/details/78488142)
 * [一文读懂卷积神经网络中的1x1卷积核](https://zhuanlan.zhihu.com/p/40050371)		
-* [Attention各种教程]()， [1](https://zhuanlan.zhihu.com/p/31547842)，[2](https://blog.csdn.net/yideqianfenzhiyi/article/details/79422857)，[3](https://blog.csdn.net/Wayne2019/article/details/78488142)
 
 #### Action			
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
