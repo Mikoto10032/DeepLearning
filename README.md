@@ -82,7 +82,7 @@
 * [YOLO](http://www.mamicode.com/info-detail-2314392.html)
 * [目标检测|YOLOv2原理与实现(附YOLOv3)](https://zhuanlan.zhihu.com/p/35325884?group_id=966229905398362112)
 * [目标检测模型YOLO v3问世](https://zhuanlan.zhihu.com/p/34995629)
-* [Attention](http://www.cnblogs.com/shouhuxianjian/p/7903097.html)， [1](https://zhuanlan.zhihu.com/p/31547842)，[2](https://blog.csdn.net/yideqianfenzhiyi/article/details/79422857)，[3](https://blog.csdn.net/Wayne2019/article/details/78488142)		
+* [Attention](http://www.cnblogs.com/shouhuxianjian/p/7903097.html)， [1](https://zhuanlan.zhihu.com/p/31547842)，[2](https://blog.csdn.net/yideqianfenzhiyi/article/details/79422857)，[3](https://blog.csdn.net/Wayne2019/article/details/78488142)，[4](https://zhuanlan.zhihu.com/p/37601161)		
 	* 读取器读取原始数据(例如源语句中的源词)并将其转换为分布式表示,其中
 一个特征向量与每个词的位置相关联。
 	* 存储器存储读取器输出的特征向量列表。这可以被理解为包含事实序列的存储
