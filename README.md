@@ -50,6 +50,7 @@
 * [深度学习分类网络](https://blog.csdn.net/PeaceInMind/article/details/78079263)
 * [从VGG到NASNet，一文概览图像分类网络](https://zhuanlan.zhihu.com/p/35221368)
 * [From RCNN to YOLO]()：[上](https://zhuanlan.zhihu.com/p/35724768)，[下](https://zhuanlan.zhihu.com/p/35731743)
+* [后 R-CNN时代， Faster R-CNN、SSD、YOLO 各类变体统治下的目标检测综述：Faster R-CNN系列胜了吗？](https://zhuanlan.zhihu.com/p/38709522)
         
 #### 教程     
 
