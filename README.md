@@ -217,12 +217,11 @@
 
 * [Domain Adaptation视频教程（附PPT）及经典论文分享](https://zhuanlan.zhihu.com/p/27519182)
 * [模型汇总15 领域适应性Domain Adaptation、One-shot/zero-shot Learning概述](https://zhuanlan.zhihu.com/p/27449079)
+* [【深度学习】论文导读：无监督域适应（Deep Transfer Network: Unsupervised Domain Adaptation）](https://blog.csdn.net/mao_xiao_feng/article/details/54426101)
 
 ### 元学习		
 
 * [OpenAI提出新型元学习方法EPG，调整损失函数实现新任务上的快速训练](https://zhuanlan.zhihu.com/p/35869158?group_id=970310501209645056)      
-* [【深度学习】论文导读：无监督域适应（Deep Transfer Network: Unsupervised Domain Adaptation）](https://blog.csdn.net/mao_xiao_feng/article/details/54426101)
-* [模型汇总15 领域适应性Domain Adaptation、One-shot/zero-shot Learning概述](https://blog.csdn.net/lqfarmer/article/details/73435642)
 
 ### 强化学习			
 
