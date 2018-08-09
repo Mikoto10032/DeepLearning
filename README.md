@@ -216,6 +216,7 @@
 ### 域适应
 
 * [Domain Adaptation视频教程（附PPT）及经典论文分享](https://zhuanlan.zhihu.com/p/27519182)
+* [模型汇总15 领域适应性Domain Adaptation、One-shot/zero-shot Learning概述](https://zhuanlan.zhihu.com/p/27449079)
 
 ### 元学习		
 
