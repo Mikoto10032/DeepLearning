@@ -213,11 +213,15 @@
 * [2. 什么是迁移学习 (Transfer Learning)？这个领域历史发展前景如何？](https://www.zhihu.com/question/41979241)
 * [3. 迁移学习个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/notes/日常阅读笔记/2018_4_12_迁移学习.pdf)  
 
-### 域适应
+### 域自适应
 
 * [Domain Adaptation视频教程（附PPT）及经典论文分享](https://zhuanlan.zhihu.com/p/27519182)
 * [模型汇总15 领域适应性Domain Adaptation、One-shot/zero-shot Learning概述](https://zhuanlan.zhihu.com/p/27449079)
 * [【深度学习】论文导读：无监督域适应（Deep Transfer Network: Unsupervised Domain Adaptation）](https://blog.csdn.net/mao_xiao_feng/article/details/54426101)
+* [【论文阅读笔记】基于反向传播的无监督域自适应研究
+](https://zhuanlan.zhihu.com/p/37298073)
+* [【Valse大会首发】领域自适应及其在人脸识别中的应用](https://zhuanlan.zhihu.com/p/21441807)
+* [CVPR 2018：基于域适应弱监督学习的目标检测](https://zhuanlan.zhihu.com/p/41126114)
 
 ### 元学习		
 
