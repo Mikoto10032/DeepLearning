@@ -213,6 +213,7 @@
 * [1. 迁移学习：经典算法解析](https://blog.csdn.net/linolzhang/article/details/73358219)
 * [2. 什么是迁移学习 (Transfer Learning)？这个领域历史发展前景如何？](https://www.zhihu.com/question/41979241)
 * [3. 迁移学习个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/notes/日常阅读笔记/2018_4_12_迁移学习.pdf)  
+* [迁移学习总结(One Shot Learning, Zero Shot Learning)](https://blog.csdn.net/XJTU_NOC_Wei/article/details/77850221)
 
 ### 域自适应
 
