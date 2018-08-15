@@ -276,6 +276,7 @@
   * [当我们在谈论GBDT：从 AdaBoost 到 Gradient Boosting](https://zhuanlan.zhihu.com/p/25096501?refer=data-miner)
   * [当我们在谈论GBDT：Gradient Boosting 用于分类与回归](https://zhuanlan.zhihu.com/p/25257856?refer=data-miner)
   * [当我们在谈论GBDT：其他 Ensemble Learning 算法](https://zhuanlan.zhihu.com/p/25443980)
+* [集成学习之bagging,stacking,boosting概念理解](https://zhuanlan.zhihu.com/p/41809927)
 
 ### 决策树(Decision Tree)    
   
