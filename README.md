@@ -354,6 +354,7 @@
 * [4. 伯克利大学公开数据集](https://people.eecs.berkeley.edu/~taesung_park/)
 * [5. ACL 2018资源：100+ 预训练的中文词向量](https://zhuanlan.zhihu.com/p/36835964)
 * [6. 预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
+* [7. 公开数据集种子库](http://academictorrents.com)
 
 ## To do list:		
 * [Inter Covariate shift](https://blog.csdn.net/mao_xiao_feng/article/details/54317852)     
