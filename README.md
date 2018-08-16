@@ -29,10 +29,7 @@
 * [2. DNN概述论文：详解前馈、卷积和循环神经网络技术](https://zhuanlan.zhihu.com/p/29141828)
 * [3. colah's blog](http://colah.github.io/)
 * [4. Model Zoom](https://modelzoo.co/)
-
-### DNN		
-
-* [DNN概述论文](https://zhuanlan.zhihu.com/p/29141828)
+* [5. DNN概述](https://zhuanlan.zhihu.com/p/29141828)
 
 ### CNN     
 
