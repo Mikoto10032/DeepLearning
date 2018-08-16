@@ -28,6 +28,7 @@
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)
 * [2. DNN概述论文：详解前馈、卷积和循环神经网络技术](https://zhuanlan.zhihu.com/p/29141828)
 * [3. colah's blog](http://colah.github.io/)
+* [4. Model Zoom](https://modelzoo.co/)
 
 ### DNN		
 
@@ -51,7 +52,13 @@
 * [从VGG到NASNet，一文概览图像分类网络](https://zhuanlan.zhihu.com/p/35221368)
 * [From RCNN to YOLO]()：[上](https://zhuanlan.zhihu.com/p/35724768)，[下](https://zhuanlan.zhihu.com/p/35731743)
 * [后 R-CNN时代， Faster R-CNN、SSD、YOLO 各类变体统治下的目标检测综述：Faster R-CNN系列胜了吗？](https://zhuanlan.zhihu.com/p/38709522)
-        
+* [目标检测-20种模型的原味代码汇总](https://zhuanlan.zhihu.com/p/37056927)     
+* [目标检测算法综述三部曲](https://zhuanlan.zhihu.com/p/40047760)
+	* [基于深度学习的目标检测算法综述（一）
+](https://zhuanlan.zhihu.com/p/40047760)
+	* [基于深度学习的目标检测算法综述（二）](https://zhuanlan.zhihu.com/p/40020809)
+	* [基于深度学习的目标检测算法综述（三）](https://zhuanlan.zhihu.com/p/40102001)
+     
 #### 教程     
 
 * [卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
