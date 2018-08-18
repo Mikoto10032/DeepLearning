@@ -307,6 +307,9 @@
 * [核函数和径向基核函数 (Radial Basis Function)--RBF](https://blog.csdn.net/huang1024rui/article/details/51510611)                        
 * [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)        
 
+### LDA
+* [教科书上的LDA为什么长这个样子？](https://zhuanlan.zhihu.com/p/42238953)
+
 ### 标签传播算法(Label Propagation Algorithm)    
 
 * [标签传播算法（Label Propagation）及Python实现](https://blog.csdn.net/zouxy09/article/details/49105265)
