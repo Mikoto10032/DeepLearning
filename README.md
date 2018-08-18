@@ -23,6 +23,7 @@
 * [14. 《强化学习》](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Reinforcement%20Learning.Sutton.pdf)	
 * [15. hangdong的深度学习博客,论文推荐](https://handong1587.github.io/categories.html#deep_learning-ref)
 * [16. CS20:Tensorflow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+* [17. CS321-Hinton](http://www.cs.toronto.edu/~tijmen/csc321/)
 
 ## 神经网络模型概览		
 
