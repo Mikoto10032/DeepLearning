@@ -202,6 +202,9 @@
 * [20. BFGS](https://blog.csdn.net/philosophyatmath/article/details/70173128)
 * [21. 详解深度学习中的梯度消失、爆炸原因及其解决方法](https://zhuanlan.zhihu.com/p/33006526)
 
+## 炼丹术士那些事
+* [译文）神经网络不工作的37种应对法](https://zhuanlan.zhihu.com/p/42314204)
+
 ## 机器学习、深度学习基础理论    
 
 ### 信息论				
