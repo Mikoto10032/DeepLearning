@@ -341,7 +341,7 @@
 * [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853)
 * [人人都懂的EM算法 ](https://zhuanlan.zhihu.com/p/36331115)                      
 
-### 条件随机场(CRF, 生成式模型)
+### 条件随机场(CRF, 判别式模型)
 * [如何轻松愉快地理解条件随机场（CRF）？](https://www.jianshu.com/p/55755fc649b1)
 * [如何用简单易懂的例子解释条件随机场（CRF）模型？它和HMM有什么区别？](https://www.zhihu.com/question/35866596)
 
