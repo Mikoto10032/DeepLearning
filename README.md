@@ -344,6 +344,7 @@
 ### 条件随机场(CRF, 判别式模型)
 * [如何轻松愉快地理解条件随机场（CRF）？](https://www.jianshu.com/p/55755fc649b1)
 * [如何用简单易懂的例子解释条件随机场（CRF）模型？它和HMM有什么区别？](https://www.zhihu.com/question/35866596)
+* [HMM ,MHMM,CRF 优缺点与区别](https://blog.csdn.net/u013378306/article/details/55213029)
 
 ## 工具平台使用  
 
