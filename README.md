@@ -376,6 +376,7 @@
 * [8. 数据集】计算机视觉，深度学习，数据挖掘数据集整理](https://blog.csdn.net/c20081052/article/details/79814082)
 * [9. 计算机视觉著名数据集CV Datasets](https://blog.csdn.net/accepthjp/article/details/51831026)
 * [10. 计算机视觉相关数据集和比赛](https://blog.csdn.net/NNNNNNNNNNNNY/article/details/68485160)
+* [11. 这是一份非常全面的开源数据集，你，真的不想要吗？](https://zhuanlan.zhihu.com/p/43846002)
 
 ## To do list:		
 * [Inter Covariate shift](https://blog.csdn.net/mao_xiao_feng/article/details/54317852)     
