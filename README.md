@@ -97,7 +97,7 @@
 	* 最后一个程序利用存储器的内容顺序地执行任务,每个时间步聚焦于某个存储
 器元素的内容(或几个,具有不同权重)。
 * [一文读懂卷积神经网络中的1x1卷积核](https://zhuanlan.zhihu.com/p/40050371)		
-* 目标检测之CornerNet [1](https://zhuanlan.zhihu.com/p/41825737), [2](https://blog.csdn.net/Hibercraft/article/details/81637451), [3](https://zhuanlan.zhihu.com/p/41759548)
+* [目标检测之CornerNet](https://arxiv.org/abs/1808.01244), [1](https://zhuanlan.zhihu.com/p/41825737), [2](https://blog.csdn.net/Hibercraft/article/details/81637451), [3](https://zhuanlan.zhihu.com/p/41759548)
 
 #### Action			
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
