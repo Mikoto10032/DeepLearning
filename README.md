@@ -58,7 +58,8 @@
 ](https://zhuanlan.zhihu.com/p/40047760)
 	* [基于深度学习的目标检测算法综述（二）](https://zhuanlan.zhihu.com/p/40020809)
 	* [基于深度学习的目标检测算法综述（三）](https://zhuanlan.zhihu.com/p/40102001)
-     
+* [如何走近深度学习人脸识别？你需要这篇超长综述 | 附开源代码](https://zhuanlan.zhihu.com/p/35295839)    
+
 #### 教程     
 
 * [卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
