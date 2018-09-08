@@ -350,6 +350,10 @@
 * [如何用简单易懂的例子解释条件随机场（CRF）模型？它和HMM有什么区别？](https://www.zhihu.com/question/35866596)
 * [HMM ,MHMM,CRF 优缺点与区别](https://blog.csdn.net/u013378306/article/details/55213029)
 
+### TSNE
+* [流形学习-高维数据的降维与可视化](https://blog.csdn.net/u012162613/article/details/45920827)
+* [tSNE](https://blog.csdn.net/flyingzhan/article/details/79521765)
+
 ## 工具平台使用  
 
 ### Tensorflow		
