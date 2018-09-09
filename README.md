@@ -102,6 +102,7 @@
 * [人群计数](http://chuansong.me/n/443237851736), [1](https://www.cnblogs.com/wmr95/p/8134692.html), [2](https://blog.csdn.net/u011285477/article/details/51954989), [3](https://blog.csdn.net/qingqingdeaini/article/details/79922549)
 * [RelationNetwork](https://www.zhihu.com/question/60784169)
 * [ShuffleNet V2和四个网络架构设计准则](https://zhuanlan.zhihu.com/p/40980942)
+* [深度卷积及TF实现](https://blog.csdn.net/mao_xiao_feng/article/details/78003476)			
 
 #### Action			
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
