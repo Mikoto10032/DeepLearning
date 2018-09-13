@@ -25,6 +25,8 @@
 * [16. CS20:Tensorflow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
 * [17. CS321-Hinton](http://www.cs.toronto.edu/~tijmen/csc321/)
 * [18. 深度学习思维导图](https://github.com/dformoso/deeplearning-mindmap)		
+* [19. CS230: Deep Learning](https://web.stanford.edu/class/cs230/)		
+* [20. CS294-112](http://rail.eecs.berkeley.edu/deeprlcourse/resources/)
 
 ## 神经网络模型概览		
 
