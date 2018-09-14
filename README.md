@@ -70,6 +70,7 @@
 * [各种卷积](https://www.cnblogs.com/cvtoEyes/p/8848815.html)
 * [反卷积](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/) 
 * [Convolution Network及其变种（反卷积、扩展卷积、因果卷积、图卷积）](https://www.cnblogs.com/yangperasd/p/7071657.html)
+* [Dilated/Atrous conv 空洞卷积/多孔卷积](https://blog.csdn.net/silence2015/article/details/79748729)
 * [CNN模型之ShuffleNet](https://zhuanlan.zhihu.com/p/32304419)  
 * [一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680)
 * [ResNet解析](https://blog.csdn.net/lanran2/article/details/79057994)
