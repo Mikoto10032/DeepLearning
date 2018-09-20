@@ -227,7 +227,10 @@
 * [梯度下降优化算法回顾](http://ruder.io/optimizing-gradient-descent/)
 * [论文笔记之数据增广：mixup](https://blog.csdn.net/ly244855983/article/details/78938667#%E8%AE%A8%E8%AE%BA)
 * [避坑指南：数据科学家新手常犯的13个错误](https://zhuanlan.zhihu.com/p/44331706)	
-
+* [凭什么相信CNN的结果?--可视化](https://bindog.github.io/blog/2018/02/10/model-explanation/)				
+	* [凭什么相信你，我的CNN模型？（篇一：CAM和Grad-CAM)](https://bindog.github.io/blog/2018/02/10/model-explanation/)
+	* [凭什么相信你，我的CNN模型？（篇二：万金油LIME)](http://bindog.github.io/blog/2018/02/11/model-explanation-2/)
+	
 ## 机器学习、深度学习基础理论    
 
 ### 信息论				
