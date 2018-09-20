@@ -230,6 +230,8 @@
 * [凭什么相信CNN的结果?--可视化](https://bindog.github.io/blog/2018/02/10/model-explanation/)				
 	* [凭什么相信你，我的CNN模型？（篇一：CAM和Grad-CAM)](https://bindog.github.io/blog/2018/02/10/model-explanation/)
 	* [凭什么相信你，我的CNN模型？（篇二：万金油LIME)](http://bindog.github.io/blog/2018/02/11/model-explanation-2/)
+	* [论文笔记:Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://www.jianshu.com/p/294ad9ae2e50)
+	* [CV：基于Keras利用训练好的hdf5模型进行目标检测实现输出模型中的表情或性别的gradcam(可视化)](https://blog.csdn.net/qq_41185868/article/details/80323646)
 	
 ## 机器学习、深度学习基础理论    
 
