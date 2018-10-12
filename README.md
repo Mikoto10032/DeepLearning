@@ -232,7 +232,7 @@
 	* [凭什么相信你，我的CNN模型？（篇二：万金油LIME)](http://bindog.github.io/blog/2018/02/11/model-explanation-2/)
 	* [论文笔记:Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://www.jianshu.com/p/294ad9ae2e50)
 	* [CV：基于Keras利用训练好的hdf5模型进行目标检测实现输出模型中的表情或性别的gradcam(可视化)](https://blog.csdn.net/qq_41185868/article/details/80323646)
-* 大卷积核还是小卷积核? [1](https://www.jianshu.com/p/d75375dd7ebd), [2](https://blog.csdn.net/kuangtun9713/article/details/79475457)	
+* [大卷积核还是小卷积核?]() [1](https://www.jianshu.com/p/d75375dd7ebd), [2](https://blog.csdn.net/kuangtun9713/article/details/79475457)	
 	
 ## 机器学习、深度学习基础理论    
 
