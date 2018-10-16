@@ -22,6 +22,11 @@
 * [13. 《自然语言处理》Jacob Eisenstein](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.Jacob%20Eisenstein.pdf)		
 * [14. 《强化学习》](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Reinforcement%20Learning.Sutton.pdf)	
 * [15. hangdong的深度学习博客,论文推荐](https://handong1587.github.io/categories.html#deep_learning-ref)
+* [16. CS20:Tensorflow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+* [17. CS321-Hinton](http://www.cs.toronto.edu/~tijmen/csc321/)
+* [18. 深度学习思维导图](https://github.com/dformoso/deeplearning-mindmap)		
+* [19. CS230: Deep Learning](https://web.stanford.edu/class/cs230/)		
+* [20. CS294-112](http://rail.eecs.berkeley.edu/deeprlcourse/resources/)
 
 ## 神经网络模型概览		
 
@@ -56,13 +61,16 @@
 ](https://zhuanlan.zhihu.com/p/40047760)
 	* [基于深度学习的目标检测算法综述（二）](https://zhuanlan.zhihu.com/p/40020809)
 	* [基于深度学习的目标检测算法综述（三）](https://zhuanlan.zhihu.com/p/40102001)
-     
+* [如何走近深度学习人脸识别？你需要这篇超长综述 | 附开源代码](https://zhuanlan.zhihu.com/p/35295839)    
+
 #### 教程     
 
 * [卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
 * [变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)
 * [各种卷积](https://www.cnblogs.com/cvtoEyes/p/8848815.html)
 * [反卷积](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/) 
+* [Convolution Network及其变种（反卷积、扩展卷积、因果卷积、图卷积）](https://www.cnblogs.com/yangperasd/p/7071657.html)
+* [Dilated/Atrous conv 空洞卷积/多孔卷积](https://blog.csdn.net/silence2015/article/details/79748729)
 * [CNN模型之ShuffleNet](https://zhuanlan.zhihu.com/p/32304419)  
 * [一文简述ResNet及其多种变体](https://zhuanlan.zhihu.com/p/35985680)
 * [ResNet解析](https://blog.csdn.net/lanran2/article/details/79057994)
@@ -95,6 +103,14 @@
 	* 最后一个程序利用存储器的内容顺序地执行任务,每个时间步聚焦于某个存储
 器元素的内容(或几个,具有不同权重)。
 * [一文读懂卷积神经网络中的1x1卷积核](https://zhuanlan.zhihu.com/p/40050371)		
+* [目标检测之CornerNet](https://arxiv.org/abs/1808.01244), [1](https://zhuanlan.zhihu.com/p/41825737), [2](https://blog.csdn.net/Hibercraft/article/details/81637451), [3](https://zhuanlan.zhihu.com/p/41759548)
+* [人群计数](http://chuansong.me/n/443237851736), [1](https://www.cnblogs.com/wmr95/p/8134692.html), [2](https://blog.csdn.net/u011285477/article/details/51954989), [3](https://blog.csdn.net/qingqingdeaini/article/details/79922549)
+* [RelationNetwork](https://www.zhihu.com/question/60784169)
+* [ShuffleNet V2和四个网络架构设计准则](https://zhuanlan.zhihu.com/p/40980942)
+* [【Tensorflow】tf.nn.depthwise_conv2d如何实现深度卷积?](https://blog.csdn.net/mao_xiao_feng/article/details/78003476)	
+* [Tensorflow】tf.nn.atrous_conv2d如何实现空洞卷积？](https://blog.csdn.net/mao_xiao_feng/article/details/78003730)
+* [【Tensorflow】tf.nn.separable_conv2d如何实现深度可分卷积?](https://blog.csdn.net/mao_xiao_feng/article/details/78002811)	
+* [【TensorFlow】tf.nn.conv2d_transpose是怎样实现反卷积的？](https://blog.csdn.net/mao_xiao_feng/article/details/71713358)
 
 #### Action			
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
@@ -111,6 +127,7 @@
 
 * [千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)      
 * [The GAN Landscape：Losses, Architectures, Regularization, and Normalization](https://arxiv.org/pdf/1807.04720.pdf)
+* [深度学习新星：GAN的基本原理、应用和走向](https://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html)
 
 #### 教程     
 
@@ -201,8 +218,26 @@
 * [19. 详解深度学习中的Normalization，不只是BN](https://zhuanlan.zhihu.com/p/33173246)
 * [20. BFGS](https://blog.csdn.net/philosophyatmath/article/details/70173128)
 * [21. 详解深度学习中的梯度消失、爆炸原因及其解决方法](https://zhuanlan.zhihu.com/p/33006526)
+* [22. Dropout](https://arxiv.org/pdf/1207.0580.pdf), [1](https://blog.csdn.net/stdcoutzyx/article/details/49022443), [2](https://blog.csdn.net/hjimce/article/details/50413257), [3](https://blog.csdn.net/shuzfan/article/details/50580915)
 
-## 机器学习、深度学习基础理论    
+## 炼丹术士那些事
+* [训练的神经网络不工作？一文带你跨过这37个坑](https://blog.csdn.net/jiandanjinxin/article/details/77190687)
+* [深度学习与计算机视觉系列(8)_神经网络训练与注意点](https://blog.csdn.net/han_xiaoyang/article/details/50521064)
+* [神经网络训练loss不下降原因集合](https://blog.csdn.net/liuweiyuxiang/article/details/80856991)
+* [机器学习：如何找到最优学习率](https://blog.csdn.net/whut_ldz/article/details/78882871)及[实现](https://github.com/L1aoXingyu/torchlib)
+* [不平衡数据集处理方法](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
+* [同一个神经网络使用不同激活函数的表达能力是否一致](https://www.zhihu.com/question/41841299)
+* [梯度下降优化算法回顾](http://ruder.io/optimizing-gradient-descent/)
+* [论文笔记之数据增广：mixup](https://blog.csdn.net/ly244855983/article/details/78938667#%E8%AE%A8%E8%AE%BA)
+* [避坑指南：数据科学家新手常犯的13个错误](https://zhuanlan.zhihu.com/p/44331706)	
+* [凭什么相信CNN的结果?--可视化](https://bindog.github.io/blog/2018/02/10/model-explanation/)				
+	* [凭什么相信你，我的CNN模型？（篇一：CAM和Grad-CAM)](https://bindog.github.io/blog/2018/02/10/model-explanation/)
+	* [凭什么相信你，我的CNN模型？（篇二：万金油LIME)](http://bindog.github.io/blog/2018/02/11/model-explanation-2/)
+	* [论文笔记:Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://www.jianshu.com/p/294ad9ae2e50)
+	* [CV：基于Keras利用训练好的hdf5模型进行目标检测实现输出模型中的表情或性别的gradcam(可视化)](https://blog.csdn.net/qq_41185868/article/details/80323646)
+* [大卷积核还是小卷积核?]() [1](https://www.jianshu.com/p/d75375dd7ebd), [2](https://blog.csdn.net/kuangtun9713/article/details/79475457)	
+	
+## 机器学习、深度学习基础理论    
 
 ### 信息论				
 
@@ -288,8 +323,7 @@
   * [当我们在谈论GBDT：其他 Ensemble Learning 算法](https://zhuanlan.zhihu.com/p/25443980)
 * [集成学习之bagging,stacking,boosting概念理解](https://zhuanlan.zhihu.com/p/41809927)
 
-### 决策树(Decision Tree)    
-  
+### 决策树(Decision Tree)   
 * [Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](https://blog.csdn.net/c406495762/article/details/75663451)
 * [Python3《机器学习实战》学习笔记（三）：决策树实战篇之为自己配个隐形眼镜](https://blog.csdn.net/c406495762/article/details/76262487)
 * [机器学习实战教程（十三）：树回归基础篇之CART算法与树剪枝](http://cuijiahua.com/blog/2017/12/ml_13_regtree_1.html)
@@ -306,6 +340,9 @@
 * [svm核函数的理解和选择](https://blog.csdn.net/leonis_v/article/details/50688766)
 * [核函数和径向基核函数 (Radial Basis Function)--RBF](https://blog.csdn.net/huang1024rui/article/details/51510611)                        
 * [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)        
+
+### LDA
+* [教科书上的LDA为什么长这个样子？](https://zhuanlan.zhihu.com/p/42238953)
 
 ### 标签传播算法(Label Propagation Algorithm)    
 
@@ -329,6 +366,15 @@
 * [集成学习法之bagging方法和boosting方法](https://blog.csdn.net/qq_30189255/article/details/51532442)
 * [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853)
 * [人人都懂的EM算法 ](https://zhuanlan.zhihu.com/p/36331115)                      
+
+### 条件随机场(CRF, 判别式模型)
+* [如何轻松愉快地理解条件随机场（CRF）？](https://www.jianshu.com/p/55755fc649b1)
+* [如何用简单易懂的例子解释条件随机场（CRF）模型？它和HMM有什么区别？](https://www.zhihu.com/question/35866596)
+* [HMM ,MHMM,CRF 优缺点与区别](https://blog.csdn.net/u013378306/article/details/55213029)
+
+### TSNE
+* [流形学习-高维数据的降维与可视化](https://blog.csdn.net/u012162613/article/details/45920827)
+* [tSNE](https://blog.csdn.net/flyingzhan/article/details/79521765)
 
 ## 工具平台使用  
 
@@ -364,6 +410,9 @@
 * [8. 数据集】计算机视觉，深度学习，数据挖掘数据集整理](https://blog.csdn.net/c20081052/article/details/79814082)
 * [9. 计算机视觉著名数据集CV Datasets](https://blog.csdn.net/accepthjp/article/details/51831026)
 * [10. 计算机视觉相关数据集和比赛](https://blog.csdn.net/NNNNNNNNNNNNY/article/details/68485160)
+* [11. 这是一份非常全面的开源数据集，你，真的不想要吗？](https://zhuanlan.zhihu.com/p/43846002)
+* [12. 人群密度估计现有主要数据集特点及其比较](https://blog.csdn.net/weixin_40516558/article/details/81564464)
+* [13. DANBOORU2017: A LARGE-SCALE CROWDSOURCED AND TAGGED ANIME ILLUSTRATION DATASET](https://www.gwern.net/Danbooru2017)
 
 ## To do list:		
 * [Inter Covariate shift](https://blog.csdn.net/mao_xiao_feng/article/details/54317852)     
