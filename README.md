@@ -224,7 +224,7 @@
 * [训练的神经网络不工作？一文带你跨过这37个坑](https://blog.csdn.net/jiandanjinxin/article/details/77190687)
 * [深度学习与计算机视觉系列(8)_神经网络训练与注意点](https://blog.csdn.net/han_xiaoyang/article/details/50521064)
 * [神经网络训练loss不下降原因集合](https://blog.csdn.net/liuweiyuxiang/article/details/80856991)
-* [机器学习：如何找到最优学习率](https://blog.csdn.net/whut_ldz/article/details/78882871)
+* [机器学习：如何找到最优学习率](https://blog.csdn.net/whut_ldz/article/details/78882871), [实现](https://github.com/L1aoXingyu/torchlib)
 * [不平衡数据集处理方法](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 * [同一个神经网络使用不同激活函数的表达能力是否一致](https://www.zhihu.com/question/41841299)
 * [梯度下降优化算法回顾](http://ruder.io/optimizing-gradient-descent/)
