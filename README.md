@@ -376,6 +376,10 @@
 * [流形学习-高维数据的降维与可视化](https://blog.csdn.net/u012162613/article/details/45920827)
 * [tSNE](https://blog.csdn.net/flyingzhan/article/details/79521765)
 
+### 谱聚类
+* [谱聚类（Spectral Clustering）算法介绍](https://blog.csdn.net/qq_24519677/article/details/82291867)
+* [聚类5--谱和谱聚类](https://blog.csdn.net/xueyingxue001/article/details/51966980)
+
 ## 工具平台使用  
 
 ### Tensorflow		
