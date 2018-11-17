@@ -418,17 +418,3 @@
 * [11. 这是一份非常全面的开源数据集，你，真的不想要吗？](https://zhuanlan.zhihu.com/p/43846002)
 * [12. 人群密度估计现有主要数据集特点及其比较](https://blog.csdn.net/weixin_40516558/article/details/81564464)
 * [13. DANBOORU2017: A LARGE-SCALE CROWDSOURCED AND TAGGED ANIME ILLUSTRATION DATASET](https://www.gwern.net/Danbooru2017)
-
-## To do list:		
-* [Inter Covariate shift](https://blog.csdn.net/mao_xiao_feng/article/details/54317852)     
-*  - [x] [Transposed Convolution, Fractionally Strided Convolution or Deconvolution](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/)
-* - [ ] 2014机器学习个人笔记、cs231、2011机器学习个人笔记、深度学习
-* 将收藏过的文章转移到此项目（一直持续）     
-* **准备新建个论文索引项目，将看过的论文保存（按照方向、年份、名称排序）**            
-* **重新调整本项目的结构（该方向的综述或者迅速纵览，详细解释文章，实战（包括测试和训练））**
-* **将看过的论文的模型的test代码和train代码跑通**
-	*	准备跑通YOLO系列模型
-		*	- [x] YOLOv1 tensorflow版本test代码跑通
-		*	- [x] YOLOv1 tensorlfow版本train代码跑通
-		*	- [x] YOLOv3 darknet版本test跑通
-		*	- [x] YOLOv3 darknet版本train跑通 
