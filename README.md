@@ -67,6 +67,7 @@
 
 * [卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
 * [变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)
+* [对深度可分离卷积、分组卷积、扩张卷积、转置卷积（反卷积）的理解](https://blog.csdn.net/chaolei3/article/details/79374563)
 * [各种卷积](https://www.cnblogs.com/cvtoEyes/p/8848815.html)
 * [反卷积](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/) 
 * [Convolution Network及其变种（反卷积、扩展卷积、因果卷积、图卷积）](https://www.cnblogs.com/yangperasd/p/7071657.html)
