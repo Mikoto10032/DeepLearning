@@ -419,3 +419,7 @@
 * [11. 这是一份非常全面的开源数据集，你，真的不想要吗？](https://zhuanlan.zhihu.com/p/43846002)
 * [12. 人群密度估计现有主要数据集特点及其比较](https://blog.csdn.net/weixin_40516558/article/details/81564464)
 * [13. DANBOORU2017: A LARGE-SCALE CROWDSOURCED AND TAGGED ANIME ILLUSTRATION DATASET](https://www.gwern.net/Danbooru2017)
+
+## 会议列表
+* [国际会议日期表](https://github.com/JackieTseng/conference_call_for_paper)
+* [Keep Up With New Trends](https://handong1587.github.io/deep_learning/2017/12/18/keep-up-with-new-trends.html)
