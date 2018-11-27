@@ -413,7 +413,7 @@
 * [5. ACL 2018资源：100+ 预训练的中文词向量](https://zhuanlan.zhihu.com/p/36835964)
 * [6. 预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 * [7. 公开数据集种子库](http://academictorrents.com)
-* [8. 数据集】计算机视觉，深度学习，数据挖掘数据集整理](https://blog.csdn.net/c20081052/article/details/79814082)
+* [8. 计算机视觉，深度学习，数据挖掘数据集整理](https://blog.csdn.net/c20081052/article/details/79814082)
 * [9. 计算机视觉著名数据集CV Datasets](https://blog.csdn.net/accepthjp/article/details/51831026)
 * [10. 计算机视觉相关数据集和比赛](https://blog.csdn.net/NNNNNNNNNNNNY/article/details/68485160)
 * [11. 这是一份非常全面的开源数据集，你，真的不想要吗？](https://zhuanlan.zhihu.com/p/43846002)
