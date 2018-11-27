@@ -424,3 +424,4 @@
 ## 会议列表
 * [国际会议日期表](https://github.com/JackieTseng/conference_call_for_paper)
 * [Keep Up With New Trends](https://handong1587.github.io/deep_learning/2017/12/18/keep-up-with-new-trends.html)
+* [计算机会议排名等级](https://blog.csdn.net/cserchen/article/details/40508181)
