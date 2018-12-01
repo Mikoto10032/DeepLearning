@@ -246,7 +246,10 @@
 * [1. 机器学习中的各种熵](https://zhuanlan.zhihu.com/p/35423404)    
 * [2. 从香农熵到手推KL散度：纵览机器学习中的信息论](https://zhuanlan.zhihu.com/p/32985487)
 
-## 深度学习相关算法    
+## 深度学习相关算法
+
+### 零次学习(Zero Shot Learning)
+* [零次学习（Zero-Shot Learning）入门](https://zhuanlan.zhihu.com/p/34656727)
 
 ### SVD			
 
