@@ -251,6 +251,13 @@
 ### 零次学习(Zero Shot Learning)
 * [零次学习（Zero-Shot Learning）入门](https://zhuanlan.zhihu.com/p/34656727)
 
+### word2vec
+* [词嵌入（word2vec）](https://zh.diveintodeeplearning.org/chapter_natural-language-processing/word2vec.html)
+* [谈谈谷歌word2vec的原理](https://blog.csdn.net/wangyangzhizhou/article/details/77073023)
+* [如何用TensorFlow训练词向量](https://blog.csdn.net/wangyangzhizhou/article/details/77530479?locationNum=1&fps=1)
+* [自然语言处理入门 word2vec 使用tensorflow自己训练词向量](https://blog.csdn.net/wzdjsgf/article/details/79541492)
+
+
 ### SVD			
 
 * [1. 关于奇异值分解SVD的总结（PCA、LDI）](https://zhuanlan.zhihu.com/p/30482640)
