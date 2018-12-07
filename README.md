@@ -238,6 +238,7 @@
 	* [论文笔记:Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://www.jianshu.com/p/294ad9ae2e50)
 	* [CV：基于Keras利用训练好的hdf5模型进行目标检测实现输出模型中的表情或性别的gradcam(可视化)](https://blog.csdn.net/qq_41185868/article/details/80323646)
 * [大卷积核还是小卷积核?]() [1](https://www.jianshu.com/p/d75375dd7ebd), [2](https://blog.csdn.net/kuangtun9713/article/details/79475457)	
+* [模型可解释性差？你考虑了各种不确定性了吗？](https://baijiahao.baidu.com/s?id=1608193373391996908)
 	
 ## 机器学习、深度学习基础理论    
 
