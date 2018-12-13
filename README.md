@@ -249,6 +249,10 @@
 
 ## 深度学习相关算法
 
+### 多任务学习
+* [模型汇总-14 多任务学习-Multitask Learning概述](https://zhuanlan.zhihu.com/p/27421983)
+* [[译]深度神经网络的多任务学习概览(An Overview of Multi-task Learning in Deep Neural Networks)](http://www.cnblogs.com/shuzirank/p/7141017.html)
+
 ### 零次学习(Zero Shot Learning)
 * [零次学习（Zero-Shot Learning）入门](https://zhuanlan.zhihu.com/p/34656727)
 
@@ -257,7 +261,6 @@
 * [谈谈谷歌word2vec的原理](https://blog.csdn.net/wangyangzhizhou/article/details/77073023)
 * [如何用TensorFlow训练词向量](https://blog.csdn.net/wangyangzhizhou/article/details/77530479?locationNum=1&fps=1)
 * [自然语言处理入门 word2vec 使用tensorflow自己训练词向量](https://blog.csdn.net/wzdjsgf/article/details/79541492)
-
 
 ### SVD			
 
