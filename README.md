@@ -215,7 +215,7 @@
 * [15. 损失函数整理](https://zhuanlan.zhihu.com/p/35027284)
 * [16. 详解残差块为何有助于解决梯度弥散问题](https://zhuanlan.zhihu.com/p/28124810)
 * [17. FAIR何恺明等人提出组归一化：替代批归一化，不受批量大小限制](https://zhuanlan.zhihu.com/p/34858971)
-* [18. Batch Normalization（BN）]():[1 ](https://zhuanlan.zhihu.com/p/26702482),[2 ](https://blog.csdn.net/hjimce/article/details/50866313),[3 ](https://blog.csdn.net/malefactor/article/details/51476961),[4 ](https://blog.csdn.net/edogawachia/article/details/80040456), [5](https://zhuanlan.zhihu.com/p/38176412), [6](https://www.zhihu.com/question/38102762)
+* [18. Batch Normalization（BN）]():[1 ](https://zhuanlan.zhihu.com/p/26702482),[2 ](https://blog.csdn.net/hjimce/article/details/50866313),[3 ](http://www.cvmart.net/community/article/detail/368),[4 ](https://blog.csdn.net/edogawachia/article/details/80040456), [5](https://zhuanlan.zhihu.com/p/38176412), [6](https://www.zhihu.com/question/38102762), [7](https://zhuanlan.zhihu.com/p/52132614)
 * [19. 详解深度学习中的Normalization，不只是BN](https://zhuanlan.zhihu.com/p/33173246)
 * [20. BFGS](https://blog.csdn.net/philosophyatmath/article/details/70173128)
 * [21. 详解深度学习中的梯度消失、爆炸原因及其解决方法](https://zhuanlan.zhihu.com/p/33006526)
