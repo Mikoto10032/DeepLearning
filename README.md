@@ -256,6 +256,10 @@
 ### 零次学习(Zero Shot Learning)
 * [零次学习（Zero-Shot Learning）入门](https://zhuanlan.zhihu.com/p/34656727)
 
+### 多视觉学习(Multi-View Learning)
+* [Multi-view Learning 多视角学习入门](https://blog.csdn.net/danliwoo/article/details/79278574)
+* [多视角学习 (Multi-View Learning)](https://blog.csdn.net/shine19930820/article/details/77426599)
+
 ### word2vec
 * [词嵌入（word2vec）](https://zh.diveintodeeplearning.org/chapter_natural-language-processing/word2vec.html)
 * [谈谈谷歌word2vec的原理](https://blog.csdn.net/wangyangzhizhou/article/details/77073023)
