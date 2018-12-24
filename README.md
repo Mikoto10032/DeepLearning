@@ -205,7 +205,7 @@
 * [5. 最优化算法系列（math）](https://blog.csdn.net/chunyun0716/article/category/6188191/2)
 * [6. 神经网络训练中的梯度消失与梯度爆炸](https://zhuanlan.zhihu.com/p/25631496)        
 * [7. 神经网络的优化及训练](https://zhuanlan.zhihu.com/p/36050743)
-* [8. 通俗讲解查全率和查准率](https://zhuanlan.zhihu.com/p/35888543)
+* [8. 通俗讲解查全率和查准率](https://zhuanlan.zhihu.com/p/35888543), [全面梳理：准确率,精确率,召回率,查准率,查全率,假阳性,真阳性,PRC,ROC,AUC,F1](https://zhuanlan.zhihu.com/p/34079183)
 * [9. 激活函数一览](https://zhuanlan.zhihu.com/p/30567264)
 * [10. Coursera吴恩达《优化深度神经网络》课程笔记（3）-- 超参数调试、Batch正则化和编程框架](https://zhuanlan.zhihu.com/p/30922689)
 * [11. 机器学习各种熵](https://zhuanlan.zhihu.com/p/35423404)
