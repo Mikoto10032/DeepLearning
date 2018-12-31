@@ -400,6 +400,9 @@
 * [谱聚类（Spectral Clustering）算法介绍](https://blog.csdn.net/qq_24519677/article/details/82291867)
 * [聚类5--谱和谱聚类](https://blog.csdn.net/xueyingxue001/article/details/51966980)
 
+## 年度教程
+* [新年大礼包：机器之心2018高分教程合集](https://zhuanlan.zhihu.com/p/53717510)
+
 ## 工具平台使用  
 
 ### Tensorflow		
