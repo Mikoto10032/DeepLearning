@@ -205,7 +205,7 @@
 * [5. 最优化算法系列（math）](https://blog.csdn.net/chunyun0716/article/category/6188191/2)
 * [6. 神经网络训练中的梯度消失与梯度爆炸](https://zhuanlan.zhihu.com/p/25631496)        
 * [7. 神经网络的优化及训练](https://zhuanlan.zhihu.com/p/36050743)
-* [8. 通俗讲解查全率和查准率](https://zhuanlan.zhihu.com/p/35888543)
+* [8. 通俗讲解查全率和查准率](https://zhuanlan.zhihu.com/p/35888543), [全面梳理：准确率,精确率,召回率,查准率,查全率,假阳性,真阳性,PRC,ROC,AUC,F1](https://zhuanlan.zhihu.com/p/34079183)
 * [9. 激活函数一览](https://zhuanlan.zhihu.com/p/30567264)
 * [10. Coursera吴恩达《优化深度神经网络》课程笔记（3）-- 超参数调试、Batch正则化和编程框架](https://zhuanlan.zhihu.com/p/30922689)
 * [11. 机器学习各种熵](https://zhuanlan.zhihu.com/p/35423404)
@@ -255,6 +255,10 @@
 
 ### 零次学习(Zero Shot Learning)
 * [零次学习（Zero-Shot Learning）入门](https://zhuanlan.zhihu.com/p/34656727)
+
+### 多视觉学习(Multi-View Learning)
+* [Multi-view Learning 多视角学习入门](https://blog.csdn.net/danliwoo/article/details/79278574)
+* [多视角学习 (Multi-View Learning)](https://blog.csdn.net/shine19930820/article/details/77426599)
 
 ### word2vec
 * [词嵌入（word2vec）](https://zh.diveintodeeplearning.org/chapter_natural-language-processing/word2vec.html)
@@ -396,6 +400,9 @@
 * [谱聚类（Spectral Clustering）算法介绍](https://blog.csdn.net/qq_24519677/article/details/82291867)
 * [聚类5--谱和谱聚类](https://blog.csdn.net/xueyingxue001/article/details/51966980)
 
+## 年度教程
+* [新年大礼包：机器之心2018高分教程合集](https://zhuanlan.zhihu.com/p/53717510)
+
 ## 工具平台使用  
 
 ### Tensorflow		
@@ -411,6 +418,9 @@
 
 * [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)                        
+
+### Python Matplotlib可视化
+* [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
 
 ### 标注工具
 * BoundingBox
@@ -437,6 +447,10 @@
 
 ## 会议列表
 * [国际会议日期表](https://github.com/JackieTseng/conference_call_for_paper)
+* [ai-deadlines](https://github.com/abhshkdz/ai-deadlines/)
 * [Keep Up With New Trends](https://handong1587.github.io/deep_learning/2017/12/18/keep-up-with-new-trends.html)
 * [计算机会议排名等级](https://blog.csdn.net/cserchen/article/details/40508181)
 * [中国计算机学会(CCF)推荐国际学术刊物和会议](https://www.ccf.org.cn/xspj/rgzn/)
+
+## 有生之年系列
+- [ ] 有空再整理下整个列表的结构, 再收集下深度学习和机器学习入门的系列教程, 并附以代码实现, 争取全面而简单上手(咕咕咕)
