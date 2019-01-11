@@ -451,3 +451,6 @@
 * [Keep Up With New Trends](https://handong1587.github.io/deep_learning/2017/12/18/keep-up-with-new-trends.html)
 * [计算机会议排名等级](https://blog.csdn.net/cserchen/article/details/40508181)
 * [中国计算机学会(CCF)推荐国际学术刊物和会议](https://www.ccf.org.cn/xspj/rgzn/)
+
+## 有生之年系列
+- [] 有空再整理下整个列表的结构, 再收集下深度学习和机器学习入门的系列教程, 并附以代码实现, 争取全面而简单上手(咕咕咕)
