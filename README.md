@@ -11,6 +11,7 @@
 * [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
 * [深度学习 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884)        
     * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+* [百页机器学习](http://themlbook.com/wiki/doku.php)
 
 ### 仔细研读
 * [1. 《深度学习》 Yoshua Bengio.Ian GoodFellow](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf)      
