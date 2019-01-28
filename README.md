@@ -3,26 +3,25 @@
 ## 入门资料   
 
 ### 快速入门
-* [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
 * [《斯坦福大学深度学习基础教程》 Andrew Ng（吴恩达）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/斯坦福大学-深度学习基础教程.pdf)  
+* [机器学习 吴恩达 Coursera个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-Coursera%5D%5B2014%5D%5BAndrew%20Ng%5D/%5B2014%5D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88v5.1.pdf)  
+    * [视频（含官方笔记）](https://www.coursera.org/learn/machine-learning)  
+* [深度学习 吴恩达 个人笔记](http://www.ai-start.com/dl2017/)  
+    * [视频](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+* [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
+* [深度学习 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884)        
+    * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
 
 ### 仔细研读
 * [1. 《深度学习》 Yoshua Bengio.Ian GoodFellow](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf)      
 * [2. 《机器学习》 周志华](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习周志华.pdf)        
-* [3. 《神经网络与深度学习》 Michael Nielsen](https://github.com/Mikoto10032/DeepLearning/blob/master/books/神经网络和深度学习neural%20networks%20and%20deep-learning-中文_ALL.pdf)    
-    
+* [3. 《神经网络与深度学习》 Michael Nielsen](https://github.com/Mikoto10032/DeepLearning/blob/master/books/神经网络和深度学习neural%20networks%20and%20deep-learning-中文_ALL.pdf)      
 * [5. 《模式识别与机器学习》 Christopher Bishop](https://github.com/Mikoto10032/DeepLearning/blob/master/books/模式识别与机器学习PRML_Chinese_vision.pdf)
 * [6. 《Tensorflow实战Google深度学习框架》 郑泽宇 顾思宇](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Tensorflow%20实战Google深度学习框架.pdf)
 * [7. 《机器学习实战》 PelerHarrington](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习实战%20中文双页版.pdf)
 * [8. 机器学习 吴恩达 cs229个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-CS229%5D%5B2011%5D%5BAndrew%20NG%5D/%5B2011%5D%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94.pdf)
    * [官网（笔记）](http://cs229.stanford.edu/)  
-   * [视频（中文字幕）](http://open.163.com/special/opencourse/machinelearning.html)
-* [9. 机器学习 吴恩达 Coursera个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-Coursera%5D%5B2014%5D%5BAndrew%20Ng%5D/%5B2014%5D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88v5.1.pdf)  
-    * [视频（含官方笔记）](https://www.coursera.org/learn/machine-learning)      
-* [10. 深度学习 吴恩达 个人笔记](http://www.ai-start.com/dl2017/)  
-    * [视频](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
-* [11. 深度学习 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884)        
-    * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+   * [视频（中文字幕）](http://open.163.com/special/opencourse/machinelearning.html)    
 * [12. 台湾大学（NTU）李宏毅教授课程](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)	
 * [13. 《自然语言处理》Jacob Eisenstein](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.Jacob%20Eisenstein.pdf)		
 * [14. 《强化学习》](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Reinforcement%20Learning.Sutton.pdf)	
