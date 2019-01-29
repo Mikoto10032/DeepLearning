@@ -326,7 +326,8 @@
 
 * [基于word2vec训练词向量(一)](https://zhuanlan.zhihu.com/p/35648927)
 * [基于word2vec训练词向量(二)](https://zhuanlan.zhihu.com/p/35889385)
-* [自然语言处理中的自注意力机制（Self-Attention Mechanism）](https://zhuanlan.zhihu.com/p/35041012)      
+* [自然语言处理中的自注意力机制（Self-Attention Mechanism）](https://zhuanlan.zhihu.com/p/35041012)    
+* [自然语言处理中注意力机制综述](https://zhuanlan.zhihu.com/p/54491016)
 * [YJango的Word Embedding--介绍](https://zhuanlan.zhihu.com/p/27830489)          
 * [CMU&谷歌大脑提出新型问答模型QANet](https://zhuanlan.zhihu.com/p/37168143)          
 
