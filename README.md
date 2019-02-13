@@ -453,6 +453,7 @@
 * [14. 行人重识别数据集](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)
 * [15. 自然语言处理常见数据集、论文最全整理分享](https://zhuanlan.zhihu.com/p/56144877)
 * [16. paper, code, sota](https://paperswithcode.com/)
+* [17. 旷视RPC大型商品数据集发布！](https://zhuanlan.zhihu.com/p/55627416)
 
 ## 会议列表
 * [国际会议日期表](https://github.com/JackieTseng/conference_call_for_paper)
