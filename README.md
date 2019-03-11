@@ -466,7 +466,8 @@
 * [中国计算机学会(CCF)推荐国际学术刊物和会议](https://www.ccf.org.cn/xspj/rgzn/)
 
 ## 论文写作
-* [如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
+* [刘知远_如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
+* [刘洋_如何写论文_V7](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 
 ## 生活使我健步如飞.jpg
 - [ ] 有空再整理下整个列表的结构, 再收集下深度学习和机器学习入门的系列教程, 并附以代码实现, 争取全面而简单上手
