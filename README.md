@@ -321,9 +321,10 @@
 * [马尔科夫决策过程之Markov Decision Process(马尔科夫决策过程)](https://zhuanlan.zhihu.com/p/35354956)
 * [马尔科夫决策过程之最优价值函数与最优策略](https://zhuanlan.zhihu.com/p/35373905)
 
-### 推荐算法      	
+### 推荐系统      	
 
-* [推荐算法相关的文档整理](https://zhuanlan.zhihu.com/p/29969721)              
+* [推荐算法相关的文档整理](https://zhuanlan.zhihu.com/p/29969721)
+* [Embedding从入门到专家必读的十篇论文](https://zhuanlan.zhihu.com/p/58805184)
 
 ### 自然语言处理（NLP）		
 
