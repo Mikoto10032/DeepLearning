@@ -470,6 +470,7 @@
 ## 论文写作
 * [刘知远_如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
 * [刘洋_如何写论文_V7](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+* [论文Introduction写作三连](), [其一](https://zhuanlan.zhihu.com/p/33876355), [其二](https://zhuanlan.zhihu.com/p/52494933), [其三](https://zhuanlan.zhihu.com/p/52494879)
 
 ## 生活使我健步如飞.jpg
 - [ ] 有空再整理下整个列表的结构, 再收集下深度学习和机器学习入门的系列教程, 并附以代码实现, 争取全面而简单上手
