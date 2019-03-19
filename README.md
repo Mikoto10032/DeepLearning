@@ -90,6 +90,7 @@
 * [R-CNN论文详解](https://blog.csdn.net/u014696921/article/details/52824097)         
 * [深度学习（六十四）Faster R-CNN物体检测](https://blog.csdn.net/hjimce/article/details/73382553)
 * [先理解Mask R-CNN的工作原理，然后构建颜色填充器应用](https://zhuanlan.zhihu.com/p/34816076)
+* [实例分割--Mask RCNN详解（ROI Align / Loss Function]）](https://www.codetd.com/article/2554465)
 * [人脸检测和识别算法综述]()      
     * [人脸检测算法综述 ](https://zhuanlan.zhihu.com/p/36621308)          
     * [人脸检测背景介绍和发展现状](https://zhuanlan.zhihu.com/p/32702868)
