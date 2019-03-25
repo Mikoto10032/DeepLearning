@@ -181,6 +181,7 @@
     * [word2vec原理(二) 基于Hierarchical Softmax的模型](http://www.cnblogs.com/pinard/p/7243513.html)        
     * [word2vec原理(三) 基于Negative Sampling的模型 ](http://www.cnblogs.com/pinard/p/7249903.html)        
     * [用gensim学习word2vec ](http://www.cnblogs.com/pinard/p/7278324.html)        
+* [[整理] 聊聊 Transformer](https://zhuanlan.zhihu.com/p/47812375)
 
 #### Action     
 
