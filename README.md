@@ -22,6 +22,7 @@
     * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
     
 #### 自然语言处理
+* [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
 * [NLP入门推荐书目（2019版）](https://zhuanlan.zhihu.com/p/58874484)
 
 #### 深度强化学习
