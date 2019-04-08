@@ -3,18 +3,30 @@
 ## 入门资料   
 
 ### 快速入门
-* [《斯坦福大学深度学习基础教程》 Andrew Ng（吴恩达）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/斯坦福大学-深度学习基础教程.pdf)  
+
+#### 机器学习
 * [机器学习 吴恩达 Coursera个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-Coursera%5D%5B2014%5D%5BAndrew%20Ng%5D/%5B2014%5D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88v5.1.pdf)  
     * [视频（含官方笔记）](https://www.coursera.org/learn/machine-learning)  
+* [百页机器学习](http://themlbook.com/wiki/doku.php)
+
+#### 深度学习
+* [《斯坦福大学深度学习基础教程》 Andrew Ng（吴恩达）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/斯坦福大学-深度学习基础教程.pdf)  
 * [深度学习 吴恩达 个人笔记](http://www.ai-start.com/dl2017/)  
     * [视频](http://mooc.study.163.com/smartSpec/detail/1001319001.htm)
-* [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
-* [深度学习 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884)        
-    * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
-* [百页机器学习](http://themlbook.com/wiki/doku.php)
 * [MIT深度学习基础-2019视频课程](https://deeplearning.mit.edu/)
-* [NLP入门推荐书目（2019版）](https://zhuanlan.zhihu.com/p/58874484)
 * [图解深度学习_Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
+* [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
+
+#### 计算机视觉
+* [CS231 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884)        
+    * [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+    
+#### 自然语言处理
+* [NLP入门推荐书目（2019版）](https://zhuanlan.zhihu.com/p/58874484)
+
+#### 深度强化学习
+* [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
+
 
 ### 仔细研读
 * [1. 《深度学习》 Yoshua Bengio.Ian GoodFellow](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf)      
