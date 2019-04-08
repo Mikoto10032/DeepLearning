@@ -14,6 +14,7 @@
 * [百页机器学习](http://themlbook.com/wiki/doku.php)
 * [MIT深度学习基础-2019视频课程](https://deeplearning.mit.edu/)
 * [NLP入门推荐书目（2019版）](https://zhuanlan.zhihu.com/p/58874484)
+* [图解深度学习_Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning)
 
 ### 仔细研读
 * [1. 《深度学习》 Yoshua Bengio.Ian GoodFellow](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf)      
