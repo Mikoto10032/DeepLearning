@@ -254,7 +254,7 @@
 * [神经网络训练loss不下降原因集合](https://blog.csdn.net/liuweiyuxiang/article/details/80856991)
 * [深度学习：欠拟合问题的几种解决方案](https://blog.csdn.net/ningyanggege/article/details/82183666)
 * [机器学习：如何找到最优学习率](https://blog.csdn.net/whut_ldz/article/details/78882871)及[实现](https://github.com/L1aoXingyu/torchlib)
-* [不平衡数据集处理方法](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/), [其二](https://www.zhihu.com/question/285824343)
+* [不平衡数据集处理方法](): [其一](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/), [其二](https://www.zhihu.com/question/285824343), [其三](https://blog.csdn.net/songhk0209/article/details/71484469)
 * [同一个神经网络使用不同激活函数的表达能力是否一致](https://www.zhihu.com/question/41841299)
 * [梯度下降优化算法纵览](http://ruder.io/optimizing-gradient-descent/), [1](https://blog.csdn.net/qq_23269761/article/details/80901411), [2](https://www.cnblogs.com/guoyaohua/p/8542554.html)
 * [论文笔记之数据增广：mixup](https://blog.csdn.net/ly244855983/article/details/78938667#%E8%AE%A8%E8%AE%BA)
