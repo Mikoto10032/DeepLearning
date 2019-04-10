@@ -138,6 +138,7 @@
 * [Tensorflow】tf.nn.atrous_conv2d如何实现空洞卷积？](https://blog.csdn.net/mao_xiao_feng/article/details/78003730)
 * [【Tensorflow】tf.nn.separable_conv2d如何实现深度可分卷积?](https://blog.csdn.net/mao_xiao_feng/article/details/78002811)	
 * [【TensorFlow】tf.nn.conv2d_transpose是怎样实现反卷积的？](https://blog.csdn.net/mao_xiao_feng/article/details/71713358)
+* [Focal Loss」，如何更好地理解？](https://zhuanlan.zhihu.com/p/32423092)
 
 #### Action			
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
