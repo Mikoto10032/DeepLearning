@@ -266,7 +266,15 @@
 	* [CV：基于Keras利用训练好的hdf5模型进行目标检测实现输出模型中的表情或性别的gradcam(可视化)](https://blog.csdn.net/qq_41185868/article/details/80323646)
 * [大卷积核还是小卷积核?]() [1](https://www.jianshu.com/p/d75375dd7ebd), [2](https://blog.csdn.net/kuangtun9713/article/details/79475457)	
 * [模型可解释性差？你考虑了各种不确定性了吗？](https://baijiahao.baidu.com/s?id=1608193373391996908)
-	
+* [炼丹笔记系列]()
+	* [炼丹笔记一：样本不平衡问题](https://zhuanlan.zhihu.com/p/56882616)
+	* [炼丹笔记二：数据清洗](https://zhuanlan.zhihu.com/p/56022212)
+	* [炼丹笔记三：数据增强](https://zhuanlan.zhihu.com/p/56139575)
+	* [炼丹笔记四：小样本问题](https://zhuanlan.zhihu.com/p/56365469)
+	* [炼丹笔记五：数据标注](https://zhuanlan.zhihu.com/p/56443169)
+	* [炼丹笔记六 : 调参技巧](https://zhuanlan.zhihu.com/p/56745640)
+	* [炼丹笔记七：卷积神经网络模型设计](https://zhuanlan.zhihu.com/p/57738934)
+
 ## 机器学习、深度学习基础理论    
 
 ### 信息论				
