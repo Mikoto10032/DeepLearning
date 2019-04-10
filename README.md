@@ -437,6 +437,10 @@
 * [谱聚类（Spectral Clustering）算法介绍](https://blog.csdn.net/qq_24519677/article/details/82291867)
 * [聚类5--谱和谱聚类](https://blog.csdn.net/xueyingxue001/article/details/51966980)
 
+### 异常点检测
+* [数据挖掘中常见的「异常检测」算法有哪些？](https://www.zhihu.com/question/280696035/answer/417091151)
+* [异常点检测算法综述](https://zhuanlan.zhihu.com/p/30169110)
+
 ## 年度总结
 * [新年大礼包：机器之心2018高分教程合集](https://zhuanlan.zhihu.com/p/53717510)   
 * [CVPR2019目标检测方法进展综述](https://zhuanlan.zhihu.com/p/59376548)
