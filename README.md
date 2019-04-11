@@ -1,4 +1,4 @@
-# DeepLearning
+# DeepLearning Tutorial
 ## 入门资料   
 
 ### 机器学习基础
@@ -286,7 +286,7 @@
 * [1. 机器学习中的各种熵](https://zhuanlan.zhihu.com/p/35423404)    
 * [2. 从香农熵到手推KL散度：纵览机器学习中的信息论](https://zhuanlan.zhihu.com/p/32985487)
 
-## 深度学习某些研究领域
+## 深度学习一些研究领域
 
 ### 多任务学习
 * [模型汇总-14 多任务学习-Multitask Learning概述](https://zhuanlan.zhihu.com/p/27421983)
