@@ -1,5 +1,5 @@
 # DeepLearning Tutorial
-## 入门资料   
+## 一. 入门资料   
 
 ### 机器学习基础
 
@@ -54,7 +54,7 @@
 * [算法工程师面试](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 
-## 神经网络模型概览		
+## 二. 神经网络模型概览		
 
 * [1. 一文看懂25个神经网络模型](https://blog.csdn.net/qq_35082030/article/details/73368962)
 * [2. DNN概述论文：详解前馈、卷积和循环神经网络技术](https://zhuanlan.zhihu.com/p/29141828)
@@ -200,7 +200,7 @@
     * [word2vec原理(二) 基于Hierarchical Softmax的模型](http://www.cnblogs.com/pinard/p/7243513.html)        
     * [word2vec原理(三) 基于Negative Sampling的模型 ](http://www.cnblogs.com/pinard/p/7249903.html)        
     * [用gensim学习word2vec ](http://www.cnblogs.com/pinard/p/7278324.html)        
-* [[整理] 聊聊 Transformer](https://zhuanlan.zhihu.com/p/47812375)
+* [聊聊 Transformer](https://zhuanlan.zhihu.com/p/47812375)
 
 #### Action     
 
@@ -226,7 +226,7 @@
 * [TensorFlow的多层LSTM实践](https://zhuanlan.zhihu.com/p/29797089)
 * [《安娜卡列尼娜》文本生成——利用TensorFlow构建LSTM模型](https://zhuanlan.zhihu.com/p/27087310)
 
-## 深度模型的优化    
+## 三. 深度模型的优化    
 
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)
 * [2. 从梯度下降到Adam](https://zhuanlan.zhihu.com/p/27449596)
@@ -253,7 +253,7 @@
 * [21. 详解深度学习中的梯度消失、爆炸原因及其解决方法](https://zhuanlan.zhihu.com/p/33006526)
 * [22. Dropout](https://arxiv.org/pdf/1207.0580.pdf), [1](https://blog.csdn.net/stdcoutzyx/article/details/49022443), [2](https://blog.csdn.net/hjimce/article/details/50413257), [3](https://blog.csdn.net/shuzfan/article/details/50580915)
 
-## 炼丹术士那些事
+## 四. 炼丹术士那些事
 * [训练的神经网络不工作？一文带你跨过这37个坑](https://blog.csdn.net/jiandanjinxin/article/details/77190687)
 * [深度学习与计算机视觉系列(8)_神经网络训练与注意点](https://blog.csdn.net/han_xiaoyang/article/details/50521064)
 * [神经网络训练loss不下降原因集合](https://blog.csdn.net/liuweiyuxiang/article/details/80856991)
@@ -279,6 +279,87 @@
 	* [炼丹笔记五：数据标注](https://zhuanlan.zhihu.com/p/56443169)
 	* [炼丹笔记六 : 调参技巧](https://zhuanlan.zhihu.com/p/56745640)
 	* [炼丹笔记七：卷积神经网络模型设计](https://zhuanlan.zhihu.com/p/57738934)
+
+## 五. 年度总结
+* [新年大礼包：机器之心2018高分教程合集](https://zhuanlan.zhihu.com/p/53717510)   
+* [CVPR2019目标检测方法进展综述](https://zhuanlan.zhihu.com/p/59376548)
+
+## 六. 科研相关
+
+### 深度学习框架
+
+#### Python3.x(前提)			
+* [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)     
+
+#### Tensorflow		
+* [中文教程](http://www.tensorfly.cn/tfdoc/tutorials/overview.html)
+* [TensorFlow官方文档](https://www.w3cschool.cn/tensorflow_python/)
+* [CS20:Tensorflow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
+* [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)
+* [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)  
+
+#### MXNet		
+* [Gluon](http://zh.gluon.ai/#)
+* [GluonCV](https://gluon-cv.mxnet.io/index.html#)
+* [GluonNLP](http://gluon-nlp.mxnet.io/)
+
+#### PyTorch
+* [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
+* [WELCOME TO PYTORCH TUTORIALS](https://pytorch.org/tutorials/index.html)
+
+### Python可视化
+* [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+
+### 标注工具
+* 目标检测标注工具
+	* [labelImg](https://github.com/tzutalin/labelImg)
+* 语义分割标注工具
+	* [labelme](https://github.com/wkentaro/labelme)
+
+### 数据集  		
+* [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)
+* [2. 自然语言处理（NLP）数据集](https://zhuanlan.zhihu.com/p/35423943)
+* [3.全唐诗(43030首)](https://pan.baidu.com/s/1o7QlUhO)
+* [4. 伯克利大学公开数据集](https://people.eecs.berkeley.edu/~taesung_park/)
+* [5. ACL 2018资源：100+ 预训练的中文词向量](https://zhuanlan.zhihu.com/p/36835964)
+* [6. 预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
+* [7. 公开数据集种子库](http://academictorrents.com)
+* [8. 计算机视觉，深度学习，数据挖掘数据集整理](https://blog.csdn.net/c20081052/article/details/79814082)
+* [9. 计算机视觉著名数据集CV Datasets](https://blog.csdn.net/accepthjp/article/details/51831026)
+* [10. 计算机视觉相关数据集和比赛](https://blog.csdn.net/NNNNNNNNNNNNY/article/details/68485160)
+* [11. 这是一份非常全面的开源数据集，你，真的不想要吗？](https://zhuanlan.zhihu.com/p/43846002)
+* [12. 人群密度估计现有主要数据集特点及其比较](https://blog.csdn.net/weixin_40516558/article/details/81564464)
+* [13. DANBOORU2017: A LARGE-SCALE CROWDSOURCED AND TAGGED ANIME ILLUSTRATION DATASET](https://www.gwern.net/Danbooru2017)
+* [14. 行人重识别数据集](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)
+* [15. 自然语言处理常见数据集、论文最全整理分享](https://zhuanlan.zhihu.com/p/56144877)
+* [16. paper, code, sota](https://paperswithcode.com/)
+* [17. 旷视RPC大型商品数据集发布！](https://zhuanlan.zhihu.com/p/55627416)
+* [18. CVPR 2019「准满分」论文：英伟达推出首个跨摄像头汽车跟踪数据集(汽车Re-ID)](https://zhuanlan.zhihu.com/p/60617001)
+
+### 会议列表
+* [国际会议日期表](https://github.com/JackieTseng/conference_call_for_paper)
+* [ai-deadlines](https://github.com/abhshkdz/ai-deadlines/)
+* [Keep Up With New Trends](https://handong1587.github.io/deep_learning/2017/12/18/keep-up-with-new-trends.html)
+* [计算机会议排名等级](https://blog.csdn.net/cserchen/article/details/40508181)
+* [中国计算机学会(CCF)推荐国际学术刊物和会议](https://www.ccf.org.cn/xspj/rgzn/)
+
+### 论文写作工具
+* [Windows: Texlive+Texstudio](https://jingyan.baidu.com/article/b2c186c83c9b40c46ff6ff4f.html)
+* [Ubuntu: Texlive+Texmaker](https://jingyan.baidu.com/article/7c6fb4280b024180642c90e4.html)
+
+### 论文画图工具
+* Visio2016
+* [Matplotlib](Python可视化)
+
+### 论文写作教程
+* [刘知远_如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
+* [刘洋_如何写论文_V7](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+* [论文Introduction写作其一](https://zhuanlan.zhihu.com/p/33876355), [论文Introduction写作其二](https://zhuanlan.zhihu.com/p/52494933), [论文Introduction写作其三](https://zhuanlan.zhihu.com/p/52494879)
+
+_____
+
+______
 
 ## 机器学习、深度学习基础理论
 
@@ -441,74 +522,6 @@
 * [十分钟上手sklearn：安装，获取数据，数据预处理](http://blackblog.tech/2018/02/05/%E5%8D%81%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8Bsklearn-1/) && [十分钟上手sklearn：特征提取，常用模型，交叉验证](http://blackblog.tech/2018/02/05/%E5%8D%81%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8Bsklearn-2/)
 * [Python3机器学习](https://blog.csdn.net/c406495762/column/info/16415)
 
-## 年度总结
-* [新年大礼包：机器之心2018高分教程合集](https://zhuanlan.zhihu.com/p/53717510)   
-* [CVPR2019目标检测方法进展综述](https://zhuanlan.zhihu.com/p/59376548)
-
-## 科研相关
-
-### 深度学习框架
-
-#### Python3.x(前提)			
-* [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
-* [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)     
-
-#### Tensorflow		
-* [中文教程](http://www.tensorfly.cn/tfdoc/tutorials/overview.html)
-* [TensorFlow官方文档](https://www.w3cschool.cn/tensorflow_python/)
-* [CS20:Tensorflow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
-* [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)
-* [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)  
-
-#### MXNet		
-* [Gluon](http://zh.gluon.ai/#)
-* [GluonCV](https://gluon-cv.mxnet.io/index.html#)
-* [GluonNLP](http://gluon-nlp.mxnet.io/)
-
-#### PyTorch
-* [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
-* [WELCOME TO PYTORCH TUTORIALS](https://pytorch.org/tutorials/index.html)
-
-### Python可视化
-* [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
-
-### 标注工具
-* 目标检测标注工具
-	* [labelImg](https://github.com/tzutalin/labelImg)
-* 语义分割标注工具
-	* [labelme](https://github.com/wkentaro/labelme)
-
-### 数据集  		
-* [1. 25个深度学习相关公开数据集](https://zhuanlan.zhihu.com/p/35449783)
-* [2. 自然语言处理（NLP）数据集](https://zhuanlan.zhihu.com/p/35423943)
-* [3.全唐诗(43030首)](https://pan.baidu.com/s/1o7QlUhO)
-* [4. 伯克利大学公开数据集](https://people.eecs.berkeley.edu/~taesung_park/)
-* [5. ACL 2018资源：100+ 预训练的中文词向量](https://zhuanlan.zhihu.com/p/36835964)
-* [6. 预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
-* [7. 公开数据集种子库](http://academictorrents.com)
-* [8. 计算机视觉，深度学习，数据挖掘数据集整理](https://blog.csdn.net/c20081052/article/details/79814082)
-* [9. 计算机视觉著名数据集CV Datasets](https://blog.csdn.net/accepthjp/article/details/51831026)
-* [10. 计算机视觉相关数据集和比赛](https://blog.csdn.net/NNNNNNNNNNNNY/article/details/68485160)
-* [11. 这是一份非常全面的开源数据集，你，真的不想要吗？](https://zhuanlan.zhihu.com/p/43846002)
-* [12. 人群密度估计现有主要数据集特点及其比较](https://blog.csdn.net/weixin_40516558/article/details/81564464)
-* [13. DANBOORU2017: A LARGE-SCALE CROWDSOURCED AND TAGGED ANIME ILLUSTRATION DATASET](https://www.gwern.net/Danbooru2017)
-* [14. 行人重识别数据集](http://robustsystems.coe.neu.edu/sites/robustsystems.coe.neu.edu/files/systems/projectpages/reiddataset.html)
-* [15. 自然语言处理常见数据集、论文最全整理分享](https://zhuanlan.zhihu.com/p/56144877)
-* [16. paper, code, sota](https://paperswithcode.com/)
-* [17. 旷视RPC大型商品数据集发布！](https://zhuanlan.zhihu.com/p/55627416)
-* [18. CVPR 2019「准满分」论文：英伟达推出首个跨摄像头汽车跟踪数据集(汽车Re-ID)](https://zhuanlan.zhihu.com/p/60617001)
-
-### 会议列表
-* [国际会议日期表](https://github.com/JackieTseng/conference_call_for_paper)
-* [ai-deadlines](https://github.com/abhshkdz/ai-deadlines/)
-* [Keep Up With New Trends](https://handong1587.github.io/deep_learning/2017/12/18/keep-up-with-new-trends.html)
-* [计算机会议排名等级](https://blog.csdn.net/cserchen/article/details/40508181)
-* [中国计算机学会(CCF)推荐国际学术刊物和会议](https://www.ccf.org.cn/xspj/rgzn/)
-
-### 论文写作教程
-* [刘知远_如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
-* [刘洋_如何写论文_V7](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
-* [论文Introduction写作其一](https://zhuanlan.zhihu.com/p/33876355), [论文Introduction写作其二](https://zhuanlan.zhihu.com/p/52494933), [论文Introduction写作其三](https://zhuanlan.zhihu.com/p/52494879)
 
 ## 生活使我健步如飞.jpg
 - [ ] 有空再整理下整个列表的结构, 再收集下深度学习和机器学习入门的系列教程, 并附以代码实现, 争取全面而简单上手
