@@ -364,7 +364,7 @@
 * [CMU&谷歌大脑提出新型问答模型QANet](https://zhuanlan.zhihu.com/p/37168143)          
 
 ### 语义分割相关算法    		
-      
+
 * [干货 | 一文概览主要语义分割网络](https://blog.csdn.net/qq_20084101/article/details/80432960)
 * [深度学习中IU、IoU(Intersection over Union)](https://blog.csdn.net/iamoldpan/article/details/78799857)
 * [Selective Search for Object Detection ](https://www.learnopencv.com/selective-search-for-object-detection-cpp-python/)[（译文）](https://blog.csdn.net/guoyunfei20/article/details/78723646)
@@ -450,12 +450,21 @@
 
 ### Tensorflow		
 
+* [中文教程](http://www.tensorfly.cn/tfdoc/tutorials/overview.html)
+
+* [TensorFlow官方文档](https://www.w3cschool.cn/tensorflow_python/)
+
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)
 * [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)  
 
 ### MXNet		
 
 * [Gluon](https://github.com/Mikoto10032/DeepLearning/blob/master/books/gluon_tutorials_zh（基于MXNet）.pdf)
+
+### Pytorch
+
+* [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
+* [WELCOME TO PYTORCH TUTORIALS](https://pytorch.org/tutorials/index.html)
 
 ### Python3.x			
 
