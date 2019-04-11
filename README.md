@@ -49,8 +49,8 @@
 * [《Tensorflow实战Google深度学习框架》 郑泽宇 顾思宇](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Tensorflow%20实战Google深度学习框架.pdf)
 
 ### 工程能力
-* [机器学习算法实战](#ml-action)
-* [深度学习框架](#dl-framework)
+* [机器学习算法实战](#机器学习实战篇)
+* [深度学习框架](#深度学习框架)
 * [算法工程师面试](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 
@@ -436,7 +436,7 @@
 * [数据挖掘中常见的「异常检测」算法有哪些？](https://www.zhihu.com/question/280696035/answer/417091151)
 * [异常点检测算法综述](https://zhuanlan.zhihu.com/p/30169110)
 
-### [机器学习实战篇](#ml-action)
+### 机器学习实战篇
 * [15分钟带你入门sklearn与机器学习——分类算法篇](https://mp.weixin.qq.com/s?__biz=Mzg5NzAxMDgwNg==&mid=2247484110&idx=1&sn=b016e270d7b7707e6ad41a81ca45fc28&chksm=c0791fd7f70e96c103a8a2aebee166ce14f5648b3b889dd85dd9786f48b6b8269f11e5e27e1c&scene=21#wechat_redirect) && [如何为你的回归问题选择最合适的机器学习方法？](https://zhuanlan.zhihu.com/p/62034592)
 * [十分钟上手sklearn：安装，获取数据，数据预处理](http://blackblog.tech/2018/02/05/%E5%8D%81%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8Bsklearn-1/) && [十分钟上手sklearn：特征提取，常用模型，交叉验证](http://blackblog.tech/2018/02/05/%E5%8D%81%E5%88%86%E9%92%9F%E4%B8%8A%E6%89%8Bsklearn-2/)
 * [Python3机器学习](https://blog.csdn.net/c406495762/column/info/16415)
@@ -447,7 +447,7 @@
 
 ## 科研相关
 
-### [深度学习框架](#dl-framework)
+### 深度学习框架
 
 #### Python3.x(前提)			
 * [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
