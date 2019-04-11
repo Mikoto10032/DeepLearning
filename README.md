@@ -254,6 +254,8 @@
 * [22. Dropout](https://arxiv.org/pdf/1207.0580.pdf), [1](https://blog.csdn.net/stdcoutzyx/article/details/49022443), [2](https://blog.csdn.net/hjimce/article/details/50413257), [3](https://blog.csdn.net/shuzfan/article/details/50580915)
 
 ## 四. 炼丹术士那些事
+
+### 调参经验
 * [训练的神经网络不工作？一文带你跨过这37个坑](https://blog.csdn.net/jiandanjinxin/article/details/77190687)
 * [深度学习与计算机视觉系列(8)_神经网络训练与注意点](https://blog.csdn.net/han_xiaoyang/article/details/50521064)
 * [神经网络训练loss不下降原因集合](https://blog.csdn.net/liuweiyuxiang/article/details/80856991)
@@ -279,6 +281,12 @@
 	* [炼丹笔记五：数据标注](https://zhuanlan.zhihu.com/p/56443169)
 	* [炼丹笔记六 : 调参技巧](https://zhuanlan.zhihu.com/p/56745640)
 	* [炼丹笔记七：卷积神经网络模型设计](https://zhuanlan.zhihu.com/p/57738934)
+
+### 刷排行榜的奇技淫巧(待更新)
+
+#### 图像分类
+
+#### 目标检测
 
 ## 五. 年度总结
 * [新年大礼包：机器之心2018高分教程合集](https://zhuanlan.zhihu.com/p/53717510)   
@@ -526,3 +534,4 @@ ______
 ## 生活使我健步如飞.jpg
 - [ ] 有空再整理下整个列表的结构, 再收集下深度学习和机器学习入门的系列教程, 并附以代码实现, 争取全面而简单上手
 - [ ] 本学期学完《docker_practice》
+- [ ] 更新完刷[排行榜的奇技淫巧](排行榜的奇技淫巧)
