@@ -299,6 +299,7 @@
   * [识别座头鲸，Kaggle竞赛第一名解决方案解读](https://zhuanlan.zhihu.com/p/58496385)
   * [kaggle 首战拿金牌总结](https://zhuanlan.zhihu.com/p/60953933)
   * [16岁高中生夺冠Kaggle地标检索挑战赛！而且竟然是Kaggle老兵](https://zhuanlan.zhihu.com/p/37522227)
+  * [6次Kaggle计算机视觉类比赛赛后感](https://zhuanlan.zhihu.com/p/37663895)
 
 #### 目标检测
 
