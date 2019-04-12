@@ -53,6 +53,7 @@
 * [深度学习框架](#深度学习框架)
 * [算法工程师面试](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
+* [Kaggle实战]()：[分分钟带你杀入Kaggle Top 1%](https://zhuanlan.zhihu.com/p/27424282) && [如何达到Kaggle竞赛top 2%？这里有一篇特征探索经验帖](https://zhuanlan.zhihu.com/p/48758045) && [如何在 Kaggle 首战中进入前 10%？](https://zhuanlan.zhihu.com/p/27486736)
 
 ## 二. 神经网络模型概览		
 
@@ -75,8 +76,7 @@
 * [6. 深度学习目标检测模型全面综述：Faster R-CNN、R-FCN和SSD](https://zhuanlan.zhihu.com/p/29434605)      
 * [7. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)
 * [7. 从RCNN到SSD，这应该是最全的一份目标检测算法盘点](https://zhuanlan.zhihu.com/p/36184131)    
-* [8. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)      
-* [9. 语义分割 发展综述](https://zhuanlan.zhihu.com/p/37618829)       
+* [8. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)  * [9. 语义分割 发展综述](https://zhuanlan.zhihu.com/p/37618829)       
 * [深度学习分类网络](https://blog.csdn.net/PeaceInMind/article/details/78079263)
 * [卷积神经网络结构演变（form Hubel and Wiesel to SENet）](https://zhuanlan.zhihu.com/p/34621135)
 * [从VGG到NASNet，一文概览图像分类网络](https://zhuanlan.zhihu.com/p/35221368)
@@ -88,6 +88,12 @@
   * [基于深度学习的目标检测算法综述（二）](https://zhuanlan.zhihu.com/p/40020809)
   * [基于深度学习的目标检测算法综述（三）](https://zhuanlan.zhihu.com/p/40102001)
 * [如何走近深度学习人脸识别？你需要这篇超长综述 | 附开源代码](https://zhuanlan.zhihu.com/p/35295839)    
+* [人脸检测和识别算法综述]()      
+    * [人脸检测算法综述 ](https://zhuanlan.zhihu.com/p/36621308)          
+    * [人脸检测背景介绍和发展现状](https://zhuanlan.zhihu.com/p/32702868)
+    * [人脸识别算法演化史](https://zhuanlan.zhihu.com/p/36416906)
+    * [CascadeCNN](https://blog.csdn.net/shuzfan/article/details/50358809)  
+    * [MTCNN](https://blog.csdn.net/qq_14845119/article/details/52680940)
 * [深度学习图像超分辨率综述](https://zhuanlan.zhihu.com/p/57564211)
 * [目标检测进化史](https://zhuanlan.zhihu.com/p/60590369)
 * [Anchor-Free目标检测算法](): [第一篇：arxiv2015_baidu_DenseBox](https://zhuanlan.zhihu.com/p/40221183)， [如何评价最新的anchor-free目标检测模型FoveaBox？](https://www.zhihu.com/question/319605567/answer/647844997), [FCOS: 最新的one-stage逐像素目标检测算法](https://zhuanlan.zhihu.com/p/61644900) && [最新的Anchor-Free目标检测模型FCOS，现已开源！](https://zhuanlan.zhihu.com/p/62198865)
@@ -111,13 +117,7 @@
 * [R-CNN论文详解](https://blog.csdn.net/u014696921/article/details/52824097)         
 * [深度学习（六十四）Faster R-CNN物体检测](https://blog.csdn.net/hjimce/article/details/73382553)
 * [先理解Mask R-CNN的工作原理，然后构建颜色填充器应用](https://zhuanlan.zhihu.com/p/34816076)
-* [实例分割--Mask RCNN详解（ROI Align / Loss Function](https://www.codetd.com/article/2554465)
-* [人脸检测和识别算法综述]()      
-    * [人脸检测算法综述 ](https://zhuanlan.zhihu.com/p/36621308)          
-    * [人脸检测背景介绍和发展现状](https://zhuanlan.zhihu.com/p/32702868)
-    * [人脸识别算法演化史](https://zhuanlan.zhihu.com/p/36416906)
-    * [CascadeCNN](https://blog.csdn.net/shuzfan/article/details/50358809)  
-    * [MTCNN](https://blog.csdn.net/qq_14845119/article/details/52680940)
+* [实例分割--Mask RCNN详解(ROI Align / Loss Function)](https://www.codetd.com/article/2554465)
 * [语义分割卷积神经网络快速入门](https://blog.csdn.net/qq_20084101/article/details/80455877)          
 * [图像语义分割的工作原理和CNN架构变迁](https://zhuanlan.zhihu.com/p/38033032)                 
 * [CapsNet入门系列](http://mp.weixin.qq.com/s?__biz=MzI3ODkxODU3Mg==&mid=2247484099&idx=1&sn=97e209f1a9860c8d8c51e81d98fc8a0a&chksm=eb4ee600dc396f16624a33cdfc0ead905e62ae9447b49b20146020e6cbd7d71f089101512a40&scene=21#wechat_redirect)
@@ -288,7 +288,17 @@
 
 #### 图像分类
 
-
+* [炼丹笔记三：数据增强](https://zhuanlan.zhihu.com/p/56139575) && [数据增强(Data Augmentation)](https://zhuanlan.zhihu.com/p/41679153)
+* [【技术综述】 深度学习中的数据增强（上）](https://zhuanlan.zhihu.com/p/38345420) && [【技术综述】深度学习中的数据增强（下）](https://zhuanlan.zhihu.com/p/38437739)
+* [《Bag of Tricks for Image Classification with CNN》](https://zhuanlan.zhihu.com/p/53324148)&& [pdf](https://arxiv.org/pdf/1812.01187.pdf)
+* [神经网络训练trick](https://zhuanlan.zhihu.com/p/59918821)
+* [Kaggle解决方案分享]()
+  * [从0上手Kaggle图像分类挑战：冠军解决方案详解](https://www.itcodemonkey.com/article/4898.html)
+  * [Kaggle 冰山图像分类大赛近日落幕，看冠军团队方案有何亮点](https://www.leiphone.com/news/201803/u40cjEZWArBfFaBm.html)
+  * [【Kaggle冠军分享】图像识别和分类竞赛，数据增强及优化算法](https://mp.weixin.qq.com/s/_S8EBBJ-u9g_fHp7I3ChMQ?)
+  * [识别座头鲸，Kaggle竞赛第一名解决方案解读](https://zhuanlan.zhihu.com/p/58496385)
+  * [kaggle 首战拿金牌总结](https://zhuanlan.zhihu.com/p/60953933)
+  * [16岁高中生夺冠Kaggle地标检索挑战赛！而且竟然是Kaggle老兵](https://zhuanlan.zhihu.com/p/37522227)
 
 #### 目标检测
 
@@ -374,6 +384,17 @@
 * [刘知远_如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
 * [刘洋_如何写论文_V7](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 * [论文Introduction写作其一](https://zhuanlan.zhihu.com/p/33876355), [论文Introduction写作其二](https://zhuanlan.zhihu.com/p/52494933), [论文Introduction写作其三](https://zhuanlan.zhihu.com/p/52494879)
+
+### ResearchGo
+
+* [ResearchGo:研究生活第一帖——文献检索与管理](https://zhuanlan.zhihu.com/p/22323250?refer=wjdml)
+* [ResearchGo:研究生活第二贴——文献阅读](https://zhuanlan.zhihu.com/p/22402393?refer=wjdml)
+* [ResearchGo:研究生活第三帖——阅读辅助](https://zhuanlan.zhihu.com/p/22622502?refer=wjdml)
+* [ResearchGo:研究生活第四帖——文献调研](https://zhuanlan.zhihu.com/p/23178836?refer=wjdml)
+* [ResearchGo:研究生活第五帖——文献综述](https://zhuanlan.zhihu.com/p/23356843?refer=wjdml)
+* [ResearchGo:研究生活第六帖——如何讲论文](https://zhuanlan.zhihu.com/p/23872063?refer=wjdml)
+* [ResearchGo:研究生活第七帖——专利检索与申请](https://zhuanlan.zhihu.com/p/25191025)
+* [ResearchGo:研究生活第八帖——写论文、做PPT、写文档必备工具集锦](https://zhuanlan.zhihu.com/p/62100815)
 
 _____
 
