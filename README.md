@@ -286,6 +286,10 @@
 
 ### 刷排行榜的奇技淫巧
 
+* [Kaggle 六大比赛最全面解析（上）](https://www.leiphone.com/news/201803/XBjvQriKTyTMPLcz.html)
+
+* [Kaggle 六大比赛最全面解析（下）](https://www.leiphone.com/news/201803/chz1DNHqgVWNEm5t.html)
+
 #### 图像分类
 
 * [炼丹笔记三：数据增强](https://zhuanlan.zhihu.com/p/56139575) && [数据增强(Data Augmentation)](https://zhuanlan.zhihu.com/p/41679153)
@@ -304,10 +308,14 @@
 #### 目标检测
 
 * ensemble
-
 * deformable
 * sync bn
 * ms train/test
+* [目标检测任务的优化策略tricks](https://zhuanlan.zhihu.com/p/56792817)
+* [目标检测小tricks--样本不均衡处理](https://zhuanlan.zhihu.com/p/60612064)
+* [目标检测算法中的常见trick](https://zhuanlan.zhihu.com/p/39262769)
+* [Kaggle：肺癌自动诊断系统3D Deep Leaky Noisy-or Network 论文阅读](https://www.jianshu.com/p/50158f8daf0d)
+* [干货|大神教你如何参加kaggle比赛——根据CT扫描图预测肺癌](https://yq.aliyun.com/articles/89312)
 
 ## 五. 年度总结
 * [新年大礼包：机器之心2018高分教程合集](https://zhuanlan.zhihu.com/p/53717510)   
