@@ -373,6 +373,7 @@
 * [16. paper, code, sota](https://paperswithcode.com/)
 * [17. 旷视RPC大型商品数据集发布！](https://zhuanlan.zhihu.com/p/55627416)
 * [18. CVPR 2019「准满分」论文：英伟达推出首个跨摄像头汽车跟踪数据集(汽车Re-ID)](https://zhuanlan.zhihu.com/p/60617001)
+* [19.【OCR技术】大批量生成文字训练集](https://zhuanlan.zhihu.com/p/59052013)
 
 ### 会议列表
 * [国际会议日期表](https://github.com/JackieTseng/conference_call_for_paper)
