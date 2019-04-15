@@ -515,7 +515,13 @@ ______
 * [核函数和径向基核函数 (Radial Basis Function)--RBF](https://blog.csdn.net/huang1024rui/article/details/51510611)                        
 * [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)        
 
+#### PCA
+
+* [主成分分析（PCA）原理详解](https://blog.csdn.net/program_developer/article/details/80632779)
+* [图文并茂的PCA教程](https://blog.csdn.net/hustqb/article/details/78394058)
+
 #### SVD			
+
 * [1. 关于奇异值分解SVD的总结（PCA、LDI）](https://zhuanlan.zhihu.com/p/30482640)
 * [2. 奇异值分解（SVD）](https://zhuanlan.zhihu.com/p/29846048)
 * [3. 奇异值分解(SVD)原理详解及推导](https://blog.csdn.net/zhongkejingwang/article/details/43053513)    
@@ -566,6 +572,10 @@ ______
 #### 异常点检测
 * [数据挖掘中常见的「异常检测」算法有哪些？](https://www.zhihu.com/question/280696035/answer/417091151)
 * [异常点检测算法综述](https://zhuanlan.zhihu.com/p/30169110)
+
+#### 降维算法
+
+* [数据降维算法-从PCA到LargeVis](https://zhuanlan.zhihu.com/p/62470700)
 
 ### 机器学习实战篇
 * [15分钟带你入门sklearn与机器学习——分类算法篇](https://mp.weixin.qq.com/s?__biz=Mzg5NzAxMDgwNg==&mid=2247484110&idx=1&sn=b016e270d7b7707e6ad41a81ca45fc28&chksm=c0791fd7f70e96c103a8a2aebee166ce14f5648b3b889dd85dd9786f48b6b8269f11e5e27e1c&scene=21#wechat_redirect) && [如何为你的回归问题选择最合适的机器学习方法？](https://zhuanlan.zhihu.com/p/62034592)
