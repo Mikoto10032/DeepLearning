@@ -396,6 +396,7 @@
 * [刘知远_如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
 * [刘洋_如何写论文_V7](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 * [论文Introduction写作其一](https://zhuanlan.zhihu.com/p/33876355), [论文Introduction写作其二](https://zhuanlan.zhihu.com/p/52494933), [论文Introduction写作其三](https://zhuanlan.zhihu.com/p/52494879)
+* [毕业论文怎么写](https://zhuanlan.zhihu.com/c_179195484)
 
 ### ResearchGo
 
@@ -407,6 +408,11 @@
 * [ResearchGo:研究生活第六帖——如何讲论文](https://zhuanlan.zhihu.com/p/23872063?refer=wjdml)
 * [ResearchGo:研究生活第七帖——专利检索与申请](https://zhuanlan.zhihu.com/p/25191025)
 * [ResearchGo:研究生活第八帖——写论文、做PPT、写文档必备工具集锦](https://zhuanlan.zhihu.com/p/62100815)
+
+### 毕业论文排版
+
+* [吐血推荐收藏的学位论文排版教程（完整版）](https://zhuanlan.zhihu.com/p/52495345)
+* [论文怎么写——如何修改毕业论文格式](https://zhuanlan.zhihu.com/p/35951260)
 
 _____
 
