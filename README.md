@@ -14,6 +14,7 @@
 * [《模式识别与机器学习》 Christopher Bishop](https://github.com/Mikoto10032/DeepLearning/blob/master/books/模式识别与机器学习PRML_Chinese_vision.pdf)
 * [《机器学习》 周志华](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习周志华.pdf)   
 * [《机器学习实战》 PelerHarrington](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习实战%20中文双页版.pdf)
+* [机器学习与深度学习书单](https://mp.weixin.qq.com/s?__biz=MzAxMjcyNjE5MQ==&mid=2650488718&idx=1&sn=815a79d27d500f0fb8db1fe1fc6cfe48&chksm=83a2e54eb4d56c58a0989654f920d64ad2784ce52e4b2bc6883974257cf475c9983f05fb88c1&scene=0&xtrack=1&ascene=14&devicetype=android-28&version=27000339&nettype=WIFI&abtest_cookie=AwABAAoACwATAAQAI5ceAFaZHgDQmR4A3JkeAAAA&lang=zh_CN&pass_ticket=oEB1108Pes6HkdxEITmBjTb2Glju5%2BEGqHZKz50fMg0rgK4l9Fodlbe%2FDm96iX57&wx_header=1)
 
 ### 深度学习基础
 
