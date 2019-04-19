@@ -165,6 +165,7 @@
 * [千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)      
 * [The GAN Landscape：Losses, Architectures, Regularization, and Normalization](https://arxiv.org/pdf/1807.04720.pdf)
 * [深度学习新星：GAN的基本原理、应用和走向](https://www.leiphone.com/news/201701/Kq6FvnjgbKK8Lh8N.html)
+* [GAN生成图像综述](https://zhuanlan.zhihu.com/p/62746494)
 
 #### 教程     
 
