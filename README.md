@@ -99,6 +99,7 @@
 * [目标检测进化史](https://zhuanlan.zhihu.com/p/60590369)
 * [一文看尽21篇目标检测最新论文（腾讯/Google/商汤/旷视/清华/浙大/CMU/华科/中科院等](https://zhuanlan.zhihu.com/p/61080508)
 * [Anchor-Free目标检测算法](): [第一篇：arxiv2015_baidu_DenseBox](https://zhuanlan.zhihu.com/p/40221183)， [如何评价最新的anchor-free目标检测模型FoveaBox？](https://www.zhihu.com/question/319605567/answer/647844997), [FCOS: 最新的one-stage逐像素目标检测算法](https://zhuanlan.zhihu.com/p/61644900) && [最新的Anchor-Free目标检测模型FCOS，现已开源！](https://zhuanlan.zhihu.com/p/62198865) && [中科院牛津华为诺亚提出CenterNet，one-stage detector可达47AP，已开源！](https://zhuanlan.zhihu.com/p/62789701)
+* [目标检测算法综述之FPN优化篇](https://zhuanlan.zhihu.com/p/62975854)
 * [【CVPR2019正式公布】行人重识别论文](https://zhuanlan.zhihu.com/p/62843442)
 
 #### 教程     
