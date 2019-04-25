@@ -337,6 +337,9 @@
 * [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)     
 
 #### Tensorflow		
+
+* [如何高效地学习 TensorFlow 代码](https://www.zhihu.com/question/41667903)
+
 * [中文教程](http://www.tensorfly.cn/tfdoc/tutorials/overview.html)
 * [TensorFlow官方文档](https://www.w3cschool.cn/tensorflow_python/)
 * [CS20:Tensorflow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
