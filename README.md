@@ -311,6 +311,7 @@
   * [kaggle 首战拿金牌总结](https://zhuanlan.zhihu.com/p/60953933)
   * [16岁高中生夺冠Kaggle地标检索挑战赛！而且竟然是Kaggle老兵](https://zhuanlan.zhihu.com/p/37522227)
   * [6次Kaggle计算机视觉类比赛赛后感](https://zhuanlan.zhihu.com/p/37663895)
+  * [Kaggle首战斩获第三-卫星图像识别](https://zhuanlan.zhihu.com/p/63275166)
 
 #### 目标检测
 
