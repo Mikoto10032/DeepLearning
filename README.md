@@ -64,6 +64,7 @@
 * [4. Model Zoom](https://modelzoo.co/)
 * [5. DNN概述](https://zhuanlan.zhihu.com/p/29141828)
 * [6. 从基本原理到梯度下降，小白都能看懂的神经网络教程](https://zhuanlan.zhihu.com/p/59385110)
+* [GitHub上的机器学习/深度学习综述项目合集](https://zhuanlan.zhihu.com/p/60245227)
 
 ### CNN     
 
