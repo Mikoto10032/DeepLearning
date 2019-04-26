@@ -49,6 +49,10 @@
 * [Practical Deep Learning for Coders, v3](https://course.fast.ai/)
 * [《Tensorflow实战Google深度学习框架》 郑泽宇 顾思宇](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Tensorflow%20实战Google深度学习框架.pdf)
 
+#### 一些书单
+
+* [2019年最新-深度学习、生成对抗、Pytorch优秀教材推荐](https://zhuanlan.zhihu.com/p/63784033)
+
 ### 工程能力
 * [机器学习算法实战](#机器学习实战篇)
 * [深度学习框架](#深度学习框架)
