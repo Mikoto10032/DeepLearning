@@ -103,6 +103,7 @@
     * [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
     * [异质人脸识别研究综述](https://zhuanlan.zhihu.com/p/64191484)
     * [老板来了：人脸识别+手机推送，老板来了你立刻知道。](https://zhuanlan.zhihu.com/p/26431250)&& [手把手教你用Python实现人脸识别](https://zhuanlan.zhihu.com/p/33456076) && [人脸识别项目，网络模型，损失函数，数据集相关总结](https://www.jianshu.com/p/e57205edc364)
+    * [基于深度学习的人脸识别技术综述](https://zhuanlan.zhihu.com/p/24816781) && [如何走近深度学习人脸识别？你需要这篇超长综述](https://zhuanlan.zhihu.com/p/35295839) && [人脸识别损失函数综述（附开源实现）](https://zhuanlan.zhihu.com/p/51324547)
 * [深度学习图像超分辨率综述](https://zhuanlan.zhihu.com/p/57564211)
 * [目标检测进化史](https://zhuanlan.zhihu.com/p/60590369)
 * [一文看尽21篇目标检测最新论文（腾讯/Google/商汤/旷视/清华/浙大/CMU/华科/中科院等](https://zhuanlan.zhihu.com/p/61080508)
