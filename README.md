@@ -278,7 +278,7 @@
 * [神经网络训练trick](https://zhuanlan.zhihu.com/p/59918821)
 * [深度学习与计算机视觉系列(8)_神经网络训练与注意点](https://blog.csdn.net/han_xiaoyang/article/details/50521064)
 * [神经网络训练loss不下降原因集合](https://blog.csdn.net/liuweiyuxiang/article/details/80856991)
-* [深度学习：欠拟合问题的几种解决方案](https://blog.csdn.net/ningyanggege/article/details/82183666)
+* [深度学习：欠拟合问题的几种解决方案](https://blog.csdn.net/ningyanggege/article/details/82183666) &&[过拟合和欠拟合问题](https://blog.csdn.net/mzpmzk/article/details/79741682)
 * [机器学习：如何找到最优学习率](https://blog.csdn.net/whut_ldz/article/details/78882871)及[实现](https://github.com/L1aoXingyu/torchlib)
 * [不平衡数据集处理方法](): [其一](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/), [其二](https://www.zhihu.com/question/285824343), [其三](https://blog.csdn.net/songhk0209/article/details/71484469)
 * [同一个神经网络使用不同激活函数的表达能力是否一致](https://www.zhihu.com/question/41841299)
