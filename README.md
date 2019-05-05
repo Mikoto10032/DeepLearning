@@ -350,13 +350,13 @@
 #### Tensorflow		
 
 * [如何高效地学习 TensorFlow 代码](https://www.zhihu.com/question/41667903)
-
 * [中文教程](http://www.tensorfly.cn/tfdoc/tutorials/overview.html)
 * [TensorFlow官方文档](https://www.w3cschool.cn/tensorflow_python/)
 * [CS20:Tensorflow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
 * [吴恩达TensorFlow专项课程](https://zhuanlan.zhihu.com/p/62981537)
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)
 * [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)  
+* [最全Tensorflow2.0 入门教程持续更新](https://zhuanlan.zhihu.com/p/59507137)
 
 #### MXNet		
 * [Gluon](http://zh.gluon.ai/#)
