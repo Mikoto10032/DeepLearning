@@ -111,6 +111,7 @@
 * [目标检测算法综述之FPN优化篇](https://zhuanlan.zhihu.com/p/62975854)
 * [https://zhuanlan.zhihu.com/p/63273342](聊聊Anchor的"前世今生"（上）)
 * [【CVPR2019正式公布】行人重识别论文](https://zhuanlan.zhihu.com/p/62843442)
+* [自然场景文本检测识别技术综述](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247485142&idx=1&sn=c0e01da30eb5e750be453eabe4be2bf4&chksm=fdb69b41cac11257ae22c7dac395e9651dab628fc35dd6d3c02d9566a8c7f5f2b56353d58a64&token=1065243837&lang=zh_CN#rd)
 
 #### 教程     
 
