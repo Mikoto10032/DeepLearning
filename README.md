@@ -497,6 +497,9 @@ ______
 
 * [推荐算法相关的文档整理](https://zhuanlan.zhihu.com/p/29969721)
 * [Embedding从入门到专家必读的十篇论文](https://zhuanlan.zhihu.com/p/58805184)
+* 推荐系统之路
+  * [推荐系统之路 (1)：走上推荐系统这条路](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650760136&idx=2&sn=afc75d6bf614bc7929b6ea9cb1abb260&chksm=871aa7b6b06d2ea0129ec7b06bf7b2448c3a55d485d6b80a066d622709066242fe7c925160c3&scene=21#wechat_redirect)
+  * [推荐系统之路 (2)：产品聚类](https://zhuanlan.zhihu.com/p/64722876)
 
 ### 自然语言处理（NLP）		
 
