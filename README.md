@@ -1,6 +1,8 @@
 # DeepLearning Tutorial
 ## 一. 入门资料   
 
+[**完备的 AI 学习路线，最详细的中英文资源整理**](https://zhuanlan.zhihu.com/p/64080846)
+
 ### 机器学习基础
 
 #### 快速入门
