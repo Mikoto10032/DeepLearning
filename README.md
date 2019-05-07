@@ -350,9 +350,33 @@
 
 ### 深度学习框架
 
-#### Python3.x(前提)			
+#### Python3.x(先修)		
+
+* [The Python Tutorial](https://docs.python.org/3/tutorial/)
+
 * [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)     
+* [给深度学习入门者的Python快速教程 - 基础篇](https://zhuanlan.zhihu.com/p/24162430)
+
+#### Numpy(先修)
+
+* [Quickstart tutorial](https://www.numpy.org/devdocs/user/quickstart.html)
+
+* [Numpy快速入门(Numpy 1.14 官方文档中文翻译)](https://www.jianshu.com/p/3e566f09a0cf)
+* [Numpy中文文档](https://www.numpy.org.cn/index.html)
+* [给深度学习入门者的Python快速教程 - numpy和Matplotlib篇](https://zhuanlan.zhihu.com/p/24309547)
+
+#### Opencv-python
+
+* [OpenCV-Python Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
+* [OpenCV官方教程中文版（For Python）](https://www.cnblogs.com/Undo-self-blog/p/8423851.html)
+* [数字图像处理系列](https://blog.csdn.net/feilong_csdn/article/category/8037591)
+* [python+OpenCV图像处理](https://blog.csdn.net/qq_40962368/article/category/7688903)
+* [给深度学习入门者的Python快速教程 - 番外篇之Python-OpenCV](https://zhuanlan.zhihu.com/p/24425116)
+
+#### Pandas
+
+* [Python 数据科学入门教程：Pandas](https://www.jianshu.com/p/d9774cf1fea5?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 
 #### Tensorflow		
 
@@ -377,6 +401,8 @@
 
 ### Python可视化
 * [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+* [Python之MatPlotLib使用教程](https://www.jianshu.com/p/92e1a4497505)
+* [给深度学习入门者的Python快速教程 - numpy和Matplotlib篇](https://zhuanlan.zhihu.com/p/24309547)
 
 ### 标注工具
 * 目标检测标注工具
