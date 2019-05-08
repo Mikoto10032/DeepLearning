@@ -73,7 +73,7 @@
   * [Kaggle入门系列：（一）机器学习环境搭建](https://zhuanlan.zhihu.com/p/29086448) && [Kaggle入门系列：（二）Kaggle简介](https://zhuanlan.zhihu.com/p/29417603) && [Kaggle入门系列（三）Titanic初试身手](https://zhuanlan.zhihu.com/p/29086614)
   * [从 0 到 1 走进 Kaggle](https://zhuanlan.zhihu.com/p/61660061) 
   * [Kaggle 入门指南](https://zhuanlan.zhihu.com/p/25742261) 
-  * [一个框架解决几乎所有机器学习问题](https://zhuanlan.zhihu.com/p/61657532)
+  * [一个框架解决几乎所有机器学习问题](https://zhuanlan.zhihu.com/p/61657532) && [Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
   * [分分钟带你杀入Kaggle Top 1%](https://zhuanlan.zhihu.com/p/27424282)
   * [如何达到Kaggle竞赛top 2%？这里有一篇特征探索经验帖](https://zhuanlan.zhihu.com/p/48758045) 
   * [如何在 Kaggle 首战中进入前 10%？](https://zhuanlan.zhihu.com/p/27486736)
