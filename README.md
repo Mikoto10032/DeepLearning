@@ -64,7 +64,19 @@
 * [深度学习框架](#深度学习框架)
 * [算法工程师面试](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
-* [Kaggle实战]()：[分分钟带你杀入Kaggle Top 1%](https://zhuanlan.zhihu.com/p/27424282) && [如何达到Kaggle竞赛top 2%？这里有一篇特征探索经验帖](https://zhuanlan.zhihu.com/p/48758045) && [如何在 Kaggle 首战中进入前 10%？](https://zhuanlan.zhihu.com/p/27486736)
+* [Kaggle实战]()
+  * 常用算法：
+    * Feature Engineering：continue variable && categorical variable
+    * Classic machine learning algorithm：LR, KNN, SVM, Random Forest, GBDT(XGBoost&&LightGBM), Factorization Machine, Field-aware Factorization Machine, Neural Network
+    * Cross validation, model selection：grid search, random search, hyper-opt
+    * Ensemble learning
+  * [Kaggle入门系列：（一）机器学习环境搭建](https://zhuanlan.zhihu.com/p/29086448) && [Kaggle入门系列：（二）Kaggle简介](https://zhuanlan.zhihu.com/p/29417603) && [Kaggle入门系列（三）Titanic初试身手](https://zhuanlan.zhihu.com/p/29086614)
+  * [从 0 到 1 走进 Kaggle](https://zhuanlan.zhihu.com/p/61660061) 
+  * [Kaggle 入门指南](https://zhuanlan.zhihu.com/p/25742261) 
+  * [一个框架解决几乎所有机器学习问题](https://zhuanlan.zhihu.com/p/61657532)
+  * [分分钟带你杀入Kaggle Top 1%](https://zhuanlan.zhihu.com/p/27424282)
+  * [如何达到Kaggle竞赛top 2%？这里有一篇特征探索经验帖](https://zhuanlan.zhihu.com/p/48758045) 
+  * [如何在 Kaggle 首战中进入前 10%？](https://zhuanlan.zhihu.com/p/27486736)
 
 ## 二. 神经网络模型概览		
 
@@ -576,6 +588,10 @@ ______
 * [决策树值ID3、C4.5实现](https://blog.csdn.net/u014688145/article/details/53212112)
 * [决策树值CART实现](https://blog.csdn.net/u014688145/article/details/53326910)
 
+#### 随机森林
+
+* [随机森林（Random Forest）入门与实战](https://blog.csdn.net/sb19931201/article/details/52601058)
+
 #### 支持向量机(SVM)    
 * [SVM通俗导论 July（本文章是我看过最好的SVM导论）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%E9%80%9A%E4%BF%97%E5%AF%BC%E8%AE%BA%EF%BC%88%E7%90%86%E8%A7%A3SVM%E7%9A%84%E4%B8%89%E5%B1%82%E5%A2%83%E7%95%8C%EF%BC%89LaTeX%E6%9C%80%E6%96%B0%E7%89%88_2015.1.9.pdf)      
 * [Python3《机器学习实战》学习笔记（八）：支持向量机原理篇之手撕线性SVM （SMO训练过程总结得清晰易懂）](https://blog.csdn.net/c406495762/article/details/78072313)      
@@ -618,8 +634,10 @@ ______
 * [梯度提升决策树](https://zhuanlan.zhihu.com/p/36339161)
 * [GBDT原理及应用](https://zhuanlan.zhihu.com/p/30339807)
 * [XGBOOST原理篇](https://zhuanlan.zhihu.com/p/31654000)
+* [xgboost入门与实战（原理篇）](https://blog.csdn.net/sb19931201/article/details/52557382) && [xgboost入门与实战（实战调参篇）](https://blog.csdn.net/sb19931201/article/details/52577592)
+* [【干货合集】通俗理解kaggle比赛大杀器xgboost](https://zhuanlan.zhihu.com/p/41417638)
 
-#### 集成
+#### 集成(Ensemble)
 
 - [集成学习法之bagging方法和boosting方法](https://blog.csdn.net/qq_30189255/article/details/51532442)
 - [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853)
