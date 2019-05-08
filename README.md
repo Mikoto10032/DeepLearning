@@ -277,6 +277,7 @@
 * [20. BFGS](https://blog.csdn.net/philosophyatmath/article/details/70173128)
 * [21. 详解深度学习中的梯度消失、爆炸原因及其解决方法](https://zhuanlan.zhihu.com/p/33006526)
 * [22. Dropout](https://arxiv.org/pdf/1207.0580.pdf), [1](https://blog.csdn.net/stdcoutzyx/article/details/49022443), [2](https://blog.csdn.net/hjimce/article/details/50413257), [3](https://blog.csdn.net/shuzfan/article/details/50580915)
+* [23.谱归一化（Spectral Normalization）的理解](https://blog.csdn.net/StreamRock/article/details/83590347)
 
 ## 四. 炼丹术士那些事
 
