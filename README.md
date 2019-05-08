@@ -1,11 +1,11 @@
-# DeepLearning Tutorial
+# 		DeepLearning Tutorial
 ## 一. 入门资料   
 
 [**完备的 AI 学习路线，最详细的中英文资源整理**](https://zhuanlan.zhihu.com/p/64080846)
 
 ### 数学基础
 
-![preview](https://pic2.zhimg.com/v2-d98e5adcceef8aaf485083214dde3abd_r.jpg)
+![](/home/haozanliang/HaozanLiang/Notes/DeepLearning/notes/Images/机器学习和深度学习的数学基础.png)
 
 ### 机器学习基础
 
