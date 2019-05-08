@@ -179,6 +179,8 @@
 
 ### GAN     
 
+* [苏剑林博客，讲解得淋漓尽致](https://kexue.fm/category/Big-Data)
+
 #### 发展史      
 
 * [千奇百怪的GAN变体](https://zhuanlan.zhihu.com/p/26491601)      
