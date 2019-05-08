@@ -5,7 +5,7 @@
 
 ### 数学基础
 
-![](/home/haozanliang/HaozanLiang/Notes/DeepLearning/notes/Images/机器学习和深度学习的数学基础.png)
+![](notes/Images/机器学习和深度学习的数学基础.png)
 
 ### 机器学习基础
 
