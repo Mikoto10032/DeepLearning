@@ -636,6 +636,9 @@ ______
 * [XGBOOST原理篇](https://zhuanlan.zhihu.com/p/31654000)
 * [xgboost入门与实战（原理篇）](https://blog.csdn.net/sb19931201/article/details/52557382) && [xgboost入门与实战（实战调参篇）](https://blog.csdn.net/sb19931201/article/details/52577592)
 * [【干货合集】通俗理解kaggle比赛大杀器xgboost](https://zhuanlan.zhihu.com/p/41417638)
+* [GBDT分类的原理及Python实现](https://blog.csdn.net/bf02jgtrs00xktcx/article/details/82719765)
+* [GBDT原理及利用GBDT构造新的特征-Python实现](https://blog.csdn.net/shine19930820/article/details/71713680)
+* [Python+GBDT算法实战——预测实现100%准确率](https://www.jianshu.com/p/47e73a985ba1)
 
 #### 集成(Ensemble)
 
