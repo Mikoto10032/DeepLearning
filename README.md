@@ -1,5 +1,11 @@
-# DeepLearning Tutorial
+# 		DeepLearning Tutorial
 ## 一. 入门资料   
+
+[**完备的 AI 学习路线，最详细的中英文资源整理**](https://zhuanlan.zhihu.com/p/64080846)
+
+### 数学基础
+
+![](notes/Images/机器学习和深度学习的数学基础.png)
 
 ### 机器学习基础
 
@@ -56,9 +62,22 @@
 ### 工程能力
 * [机器学习算法实战](#机器学习实战篇)
 * [深度学习框架](#深度学习框架)
+* [《AI算法工程师手册》](http://www.huaxiaozhuan.com/)
 * [算法工程师面试](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
-* [Kaggle实战]()：[分分钟带你杀入Kaggle Top 1%](https://zhuanlan.zhihu.com/p/27424282) && [如何达到Kaggle竞赛top 2%？这里有一篇特征探索经验帖](https://zhuanlan.zhihu.com/p/48758045) && [如何在 Kaggle 首战中进入前 10%？](https://zhuanlan.zhihu.com/p/27486736)
+* [Kaggle实战]()
+  * 常用算法：
+    * Feature Engineering：continue variable && categorical variable
+    * Classic machine learning algorithm：LR, KNN, SVM, Random Forest, GBDT(XGBoost&&LightGBM), Factorization Machine, Field-aware Factorization Machine, Neural Network
+    * Cross validation, model selection：grid search, random search, hyper-opt
+    * Ensemble learning
+  * [Kaggle入门系列：（一）机器学习环境搭建](https://zhuanlan.zhihu.com/p/29086448) && [Kaggle入门系列：（二）Kaggle简介](https://zhuanlan.zhihu.com/p/29417603) && [Kaggle入门系列（三）Titanic初试身手](https://zhuanlan.zhihu.com/p/29086614)
+  * [从 0 到 1 走进 Kaggle](https://zhuanlan.zhihu.com/p/61660061) 
+  * [Kaggle 入门指南](https://zhuanlan.zhihu.com/p/25742261) 
+  * [一个框架解决几乎所有机器学习问题](https://zhuanlan.zhihu.com/p/61657532) && [Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
+  * [分分钟带你杀入Kaggle Top 1%](https://zhuanlan.zhihu.com/p/27424282)
+  * [如何达到Kaggle竞赛top 2%？这里有一篇特征探索经验帖](https://zhuanlan.zhihu.com/p/48758045) 
+  * [如何在 Kaggle 首战中进入前 10%？](https://zhuanlan.zhihu.com/p/27486736)
 
 ## 二. 神经网络模型概览		
 
@@ -100,14 +119,23 @@
     * [人脸识别算法演化史](https://zhuanlan.zhihu.com/p/36416906)
     * [CascadeCNN](https://blog.csdn.net/shuzfan/article/details/50358809)  
     * [MTCNN](https://blog.csdn.net/qq_14845119/article/details/52680940)
+    * [awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+    * [异质人脸识别研究综述](https://zhuanlan.zhihu.com/p/64191484)
+    * [老板来了：人脸识别+手机推送，老板来了你立刻知道。](https://zhuanlan.zhihu.com/p/26431250)&& [手把手教你用Python实现人脸识别](https://zhuanlan.zhihu.com/p/33456076) && [人脸识别项目，网络模型，损失函数，数据集相关总结](https://www.jianshu.com/p/e57205edc364)
+    * [基于深度学习的人脸识别技术综述](https://zhuanlan.zhihu.com/p/24816781) && [如何走近深度学习人脸识别？你需要这篇超长综述](https://zhuanlan.zhihu.com/p/35295839) && [人脸识别损失函数综述（附开源实现）](https://zhuanlan.zhihu.com/p/51324547)
 * [深度学习图像超分辨率综述](https://zhuanlan.zhihu.com/p/57564211)
 * [目标检测进化史](https://zhuanlan.zhihu.com/p/60590369)
 * [一文看尽21篇目标检测最新论文（腾讯/Google/商汤/旷视/清华/浙大/CMU/华科/中科院等](https://zhuanlan.zhihu.com/p/61080508)
 * [Anchor-Free目标检测算法](): [第一篇：arxiv2015_baidu_DenseBox](https://zhuanlan.zhihu.com/p/40221183)， [如何评价最新的anchor-free目标检测模型FoveaBox？](https://www.zhihu.com/question/319605567/answer/647844997), [FCOS: 最新的one-stage逐像素目标检测算法](https://zhuanlan.zhihu.com/p/61644900) && [最新的Anchor-Free目标检测模型FCOS，现已开源！](https://zhuanlan.zhihu.com/p/62198865) && [中科院牛津华为诺亚提出CenterNet，one-stage detector可达47AP，已开源！](https://zhuanlan.zhihu.com/p/62789701)
 * [目标检测算法综述之FPN优化篇](https://zhuanlan.zhihu.com/p/62975854)
 * [https://zhuanlan.zhihu.com/p/63273342](聊聊Anchor的"前世今生"（上）)
+<<<<<<< HEAD
 * [【CVPR2019正式公布】行人重识别论文](https://zhuanlan.zhihu.com/p/62843442)，[2019 行人再识别年度进展回顾](https://zhuanlan.zhihu.com/p/64004977)
 * [从SRCNN到EDSR，总结深度学习端到端超分辨率方法发展历程](https://zhuanlan.zhihu.com/p/31664818)
+=======
+* [【CVPR2019正式公布】行人重识别论文](https://zhuanlan.zhihu.com/p/62843442)
+* [自然场景文本检测识别技术综述](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247485142&idx=1&sn=c0e01da30eb5e750be453eabe4be2bf4&chksm=fdb69b41cac11257ae22c7dac395e9651dab628fc35dd6d3c02d9566a8c7f5f2b56353d58a64&token=1065243837&lang=zh_CN#rd)
+>>>>>>> 4942f011e134a9b9b77d78755ed8f06ddcf91462
 
 #### 教程     
 
@@ -168,6 +196,8 @@
 	* [TensorFlow 对象检测 API 教程5](https://blog.csdn.net/qq_36148847/article/details/79307933)
 
 ### GAN     
+
+* [苏剑林博客，讲解得淋漓尽致](https://kexue.fm/category/Big-Data)
 
 #### 发展史      
 
@@ -267,6 +297,9 @@
 * [20. BFGS](https://blog.csdn.net/philosophyatmath/article/details/70173128)
 * [21. 详解深度学习中的梯度消失、爆炸原因及其解决方法](https://zhuanlan.zhihu.com/p/33006526)
 * [22. Dropout](https://arxiv.org/pdf/1207.0580.pdf), [1](https://blog.csdn.net/stdcoutzyx/article/details/49022443), [2](https://blog.csdn.net/hjimce/article/details/50413257), [3](https://blog.csdn.net/shuzfan/article/details/50580915)
+* [23.谱归一化（Spectral Normalization）的理解](https://blog.csdn.net/StreamRock/article/details/83590347)，[常见向量范数和矩阵范数](https://blog.csdn.net/left_la/article/details/9159949)，[谱范数正则（Spectral Norm Regularization）的理解](https://blog.csdn.net/StreamRock/article/details/83539937)
+* [24.L1正则化与L2正则化](https://zhuanlan.zhihu.com/p/35356992)
+* [25.为什么选用交叉熵而不是MSE](https://zhuanlan.zhihu.com/p/61944055)
 
 ## 四. 炼丹术士那些事
 
@@ -275,7 +308,7 @@
 * [神经网络训练trick](https://zhuanlan.zhihu.com/p/59918821)
 * [深度学习与计算机视觉系列(8)_神经网络训练与注意点](https://blog.csdn.net/han_xiaoyang/article/details/50521064)
 * [神经网络训练loss不下降原因集合](https://blog.csdn.net/liuweiyuxiang/article/details/80856991)
-* [深度学习：欠拟合问题的几种解决方案](https://blog.csdn.net/ningyanggege/article/details/82183666)
+* [深度学习：欠拟合问题的几种解决方案](https://blog.csdn.net/ningyanggege/article/details/82183666) &&[过拟合和欠拟合问题](https://blog.csdn.net/mzpmzk/article/details/79741682)
 * [机器学习：如何找到最优学习率](https://blog.csdn.net/whut_ldz/article/details/78882871)及[实现](https://github.com/L1aoXingyu/torchlib)
 * [不平衡数据集处理方法](): [其一](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/), [其二](https://www.zhihu.com/question/285824343), [其三](https://blog.csdn.net/songhk0209/article/details/71484469)
 * [同一个神经网络使用不同激活函数的表达能力是否一致](https://www.zhihu.com/question/41841299)
@@ -340,20 +373,44 @@
 
 ### 深度学习框架
 
-#### Python3.x(前提)			
+#### Python3.x(先修)		
+
+* [The Python Tutorial](https://docs.python.org/3/tutorial/)
+
 * [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)     
+* [给深度学习入门者的Python快速教程 - 基础篇](https://zhuanlan.zhihu.com/p/24162430)
+
+#### Numpy(先修)
+
+* [Quickstart tutorial](https://www.numpy.org/devdocs/user/quickstart.html)
+
+* [Numpy快速入门(Numpy 1.14 官方文档中文翻译)](https://www.jianshu.com/p/3e566f09a0cf)
+* [Numpy中文文档](https://www.numpy.org.cn/index.html)
+* [给深度学习入门者的Python快速教程 - numpy和Matplotlib篇](https://zhuanlan.zhihu.com/p/24309547)
+
+#### Opencv-python
+
+* [OpenCV-Python Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
+* [OpenCV官方教程中文版（For Python）](https://www.cnblogs.com/Undo-self-blog/p/8423851.html)
+* [数字图像处理系列](https://blog.csdn.net/feilong_csdn/article/category/8037591)
+* [python+OpenCV图像处理](https://blog.csdn.net/qq_40962368/article/category/7688903)
+* [给深度学习入门者的Python快速教程 - 番外篇之Python-OpenCV](https://zhuanlan.zhihu.com/p/24425116)
+
+#### Pandas
+
+* [Python 数据科学入门教程：Pandas](https://www.jianshu.com/p/d9774cf1fea5?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
 
 #### Tensorflow		
 
 * [如何高效地学习 TensorFlow 代码](https://www.zhihu.com/question/41667903)
-
 * [中文教程](http://www.tensorfly.cn/tfdoc/tutorials/overview.html)
 * [TensorFlow官方文档](https://www.w3cschool.cn/tensorflow_python/)
 * [CS20:Tensorflow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html)
 * [吴恩达TensorFlow专项课程](https://zhuanlan.zhihu.com/p/62981537)
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)
 * [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)  
+* [最全Tensorflow2.0 入门教程持续更新](https://zhuanlan.zhihu.com/p/59507137)
 
 #### MXNet		
 * [Gluon](http://zh.gluon.ai/#)
@@ -363,9 +420,12 @@
 #### PyTorch
 * [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
 * [WELCOME TO PYTORCH TUTORIALS](https://pytorch.org/tutorials/index.html)
+* [史上最全的PyTorch学习资源汇总](https://zhuanlan.zhihu.com/p/64895011)
 
 ### Python可视化
 * [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
+* [Python之MatPlotLib使用教程](https://www.jianshu.com/p/92e1a4497505)
+* [给深度学习入门者的Python快速教程 - numpy和Matplotlib篇](https://zhuanlan.zhihu.com/p/24309547)
 
 ### 标注工具
 * 目标检测标注工具
@@ -494,6 +554,9 @@ ______
 
 * [推荐算法相关的文档整理](https://zhuanlan.zhihu.com/p/29969721)
 * [Embedding从入门到专家必读的十篇论文](https://zhuanlan.zhihu.com/p/58805184)
+* 推荐系统之路
+  * [推荐系统之路 (1)：走上推荐系统这条路](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650760136&idx=2&sn=afc75d6bf614bc7929b6ea9cb1abb260&chksm=871aa7b6b06d2ea0129ec7b06bf7b2448c3a55d485d6b80a066d622709066242fe7c925160c3&scene=21#wechat_redirect)
+  * [推荐系统之路 (2)：产品聚类](https://zhuanlan.zhihu.com/p/64722876)
 
 ### 自然语言处理（NLP）		
 
@@ -522,7 +585,12 @@ ______
 
 ### 机器学习理论篇
 
+#### 逻辑回归
+
+* [【机器学习面试题】逻辑回归篇](https://zhuanlan.zhihu.com/p/62653034)
+
 #### 决策树(Decision Tree)
+
 * [Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](https://blog.csdn.net/c406495762/article/details/75663451)
 * [Python3《机器学习实战》学习笔记（三）：决策树实战篇之为自己配个隐形眼镜](https://blog.csdn.net/c406495762/article/details/76262487)
 * [机器学习实战教程（十三）：树回归基础篇之CART算法与树剪枝](http://cuijiahua.com/blog/2017/12/ml_13_regtree_1.html)
@@ -531,6 +599,10 @@ ______
 * [机器学习实战 第九章 树回归](https://blog.csdn.net/namelessml/article/details/52595066)
 * [决策树值ID3、C4.5实现](https://blog.csdn.net/u014688145/article/details/53212112)
 * [决策树值CART实现](https://blog.csdn.net/u014688145/article/details/53326910)
+
+#### 随机森林
+
+* [随机森林（Random Forest）入门与实战](https://blog.csdn.net/sb19931201/article/details/52601058)
 
 #### 支持向量机(SVM)    
 * [SVM通俗导论 July（本文章是我看过最好的SVM导论）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%E9%80%9A%E4%BF%97%E5%AF%BC%E8%AE%BA%EF%BC%88%E7%90%86%E8%A7%A3SVM%E7%9A%84%E4%B8%89%E5%B1%82%E5%A2%83%E7%95%8C%EF%BC%89LaTeX%E6%9C%80%E6%96%B0%E7%89%88_2015.1.9.pdf)      
@@ -574,10 +646,19 @@ ______
 * [梯度提升决策树](https://zhuanlan.zhihu.com/p/36339161)
 * [GBDT原理及应用](https://zhuanlan.zhihu.com/p/30339807)
 * [XGBOOST原理篇](https://zhuanlan.zhihu.com/p/31654000)
+* [xgboost入门与实战（原理篇）](https://blog.csdn.net/sb19931201/article/details/52557382) && [xgboost入门与实战（实战调参篇）](https://blog.csdn.net/sb19931201/article/details/52577592)
+* [【干货合集】通俗理解kaggle比赛大杀器xgboost](https://zhuanlan.zhihu.com/p/41417638)
+* [GBDT分类的原理及Python实现](https://blog.csdn.net/bf02jgtrs00xktcx/article/details/82719765)
+* [GBDT原理及利用GBDT构造新的特征-Python实现](https://blog.csdn.net/shine19930820/article/details/71713680)
+* [Python+GBDT算法实战——预测实现100%准确率](https://www.jianshu.com/p/47e73a985ba1)
 
-#### 集成(EM)			
-* [集成学习法之bagging方法和boosting方法](https://blog.csdn.net/qq_30189255/article/details/51532442)
-* [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853)
+#### 集成(Ensemble)
+
+- [集成学习法之bagging方法和boosting方法](https://blog.csdn.net/qq_30189255/article/details/51532442)
+- [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853)
+
+#### EM(期望最大化)			
+
 * [人人都懂的EM算法 ](https://zhuanlan.zhihu.com/p/36331115)
 * [EM算法入门文章](https://zhuanlan.zhihu.com/p/61768577)                      
 
