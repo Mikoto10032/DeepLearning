@@ -294,6 +294,7 @@
 * [22. Dropout](https://arxiv.org/pdf/1207.0580.pdf), [1](https://blog.csdn.net/stdcoutzyx/article/details/49022443), [2](https://blog.csdn.net/hjimce/article/details/50413257), [3](https://blog.csdn.net/shuzfan/article/details/50580915)
 * [23.谱归一化（Spectral Normalization）的理解](https://blog.csdn.net/StreamRock/article/details/83590347)，[常见向量范数和矩阵范数](https://blog.csdn.net/left_la/article/details/9159949)，[谱范数正则（Spectral Norm Regularization）的理解](https://blog.csdn.net/StreamRock/article/details/83539937)
 * [24.L1正则化与L2正则化](https://zhuanlan.zhihu.com/p/35356992)
+* [25.为什么选用交叉熵而不是MSE](https://zhuanlan.zhihu.com/p/61944055)
 
 ## 四. 炼丹术士那些事
 
