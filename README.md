@@ -62,6 +62,7 @@
 ### 工程能力
 * [机器学习算法实战](#机器学习实战篇)
 * [深度学习框架](#深度学习框架)
+* [《AI算法工程师手册》](http://www.huaxiaozhuan.com/)
 * [算法工程师面试](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 * [Kaggle实战]()
