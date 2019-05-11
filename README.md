@@ -173,12 +173,6 @@
 * [目标检测|YOLOv2原理与实现(附YOLOv3)](https://zhuanlan.zhihu.com/p/35325884?group_id=966229905398362112)
 * [目标检测模型YOLO v3问世](https://zhuanlan.zhihu.com/p/34995629)
 * [Attention](http://www.cnblogs.com/shouhuxianjian/p/7903097.html)， [1](https://zhuanlan.zhihu.com/p/31547842)，[2](https://blog.csdn.net/yideqianfenzhiyi/article/details/79422857)，[3](https://blog.csdn.net/Wayne2019/article/details/78488142)，[4](https://zhuanlan.zhihu.com/p/37601161)，[5](https://blog.csdn.net/bvl10101111/article/details/78470716)		
-  * 读取器读取原始数据(例如源语句中的源词)并将其转换为分布式表示,其中
-  一个特征向量与每个词的位置相关联。
-  * 存储器存储读取器输出的特征向量列表。这可以被理解为包含事实序列的存储
-  器,而之后不必以相同的顺序从中检索,也不必访问全部。
-  * 最后一个程序利用存储器的内容顺序地执行任务,每个时间步聚焦于某个存储
-  器元素的内容(或几个,具有不同权重)。
 * [一文读懂卷积神经网络中的1x1卷积核](https://zhuanlan.zhihu.com/p/40050371)		
 * [目标检测之CornerNet](https://arxiv.org/abs/1808.01244), [1](https://zhuanlan.zhihu.com/p/41825737), [2](https://blog.csdn.net/Hibercraft/article/details/81637451), [3](https://zhuanlan.zhihu.com/p/41759548)
 * [人群计数](http://chuansong.me/n/443237851736), [1](https://www.cnblogs.com/wmr95/p/8134692.html), [2](https://blog.csdn.net/u011285477/article/details/51954989), [3](https://blog.csdn.net/qingqingdeaini/article/details/79922549)
