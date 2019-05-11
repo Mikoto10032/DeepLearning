@@ -60,11 +60,18 @@
 * [2019年最新-深度学习、生成对抗、Pytorch优秀教材推荐](https://zhuanlan.zhihu.com/p/63784033)
 
 ### 工程能力
+
+![](https://pic4.zhimg.com/v2-009013278688f520c070b27910255cb1_r.jpg)
+
+* [LeetCode](https://leetcode.com/) && [leetcode题解](https://github.com/azl397985856/leetcode) && [《算法导论》中算法的C++实现](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)
 * [机器学习算法实战](#机器学习实战篇)
 * [深度学习框架](#深度学习框架)
 * [《AI算法工程师手册》](http://www.huaxiaozhuan.com/)
+* [ 计算机相关技术面试必备](https://github.com/CyC2018/CS-Notes)
 * [算法工程师面试](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+* [深度学习面试题目](https://github.com/ShanghaiTechAIClub/DLInterview)
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
+* [AI算法岗求职攻略](https://github.com/amusi/AI-Job-Notes#Strategy)
 * [Kaggle实战]()
   * 常用算法：
     * Feature Engineering：continue variable && categorical variable
@@ -374,10 +381,10 @@
 #### Python3.x(先修)		
 
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
-
 * [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 * [菜鸟教程](http://www.runoob.com/python3/python3-tutorial.html)     
 * [给深度学习入门者的Python快速教程 - 基础篇](https://zhuanlan.zhihu.com/p/24162430)
+* [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 
 #### Numpy(先修)
 
