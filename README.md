@@ -85,6 +85,7 @@
   * [分分钟带你杀入Kaggle Top 1%](https://zhuanlan.zhihu.com/p/27424282)
   * [如何达到Kaggle竞赛top 2%？这里有一篇特征探索经验帖](https://zhuanlan.zhihu.com/p/48758045) 
   * [如何在 Kaggle 首战中进入前 10%？](https://zhuanlan.zhihu.com/p/27486736)
+* [大数据&机器学习相关竞赛推荐](https://blog.csdn.net/weixin_33739541/article/details/87565983)
 
 ## 二. 神经网络模型概览		
 
