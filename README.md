@@ -196,6 +196,8 @@
 	* [TensorFlow 对象检测 API 教程 4](https://blog.csdn.net/qq_36148847/article/details/79307931)
 	* [TensorFlow 对象检测 API 教程5](https://blog.csdn.net/qq_36148847/article/details/79307933)
 * [在TensorFlow+Keras环境下使用RoI池化一步步实现注意力机制](https://zhuanlan.zhihu.com/p/65327747)
+* [mxnet如何查看参数数量](https://discuss.gluon.ai/t/topic/7216)
+* [mxnet查看FLOPS](https://github.com/likelyzhao/CalFLOPS-Mxnet)
 
 ### GAN     
 
