@@ -275,6 +275,18 @@
 * [TensorFlow的多层LSTM实践](https://zhuanlan.zhihu.com/p/29797089)
 * [《安娜卡列尼娜》文本生成——利用TensorFlow构建LSTM模型](https://zhuanlan.zhihu.com/p/27087310)
 
+### GNN
+
+#### 发展史
+
+* [Graph Neural Network（GNN）综述](https://zhuanlan.zhihu.com/p/65539782)
+
+#### 教程
+
+#### Action
+
+* [图卷积网络到底怎么做，这是一份极简的Numpy实现](https://zhuanlan.zhihu.com/p/57235377)
+
 ## 三. 深度模型的优化    
 
 * [1. 优化算法纵览](http://fa.bianp.net/teaching/2018/eecs227at/)
