@@ -439,6 +439,7 @@
 * [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
 * [WELCOME TO PYTORCH TUTORIALS](https://pytorch.org/tutorials/index.html)
 * [史上最全的PyTorch学习资源汇总](https://zhuanlan.zhihu.com/p/64895011)
+* [【干货】史上最全的PyTorch学习资源汇总](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
 
 ### Python可视化
 * [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
