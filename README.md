@@ -144,6 +144,7 @@
 * [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
 * [Awesome-Edge-Detection-Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)
 * [OCR文字处理](https://zhuanlan.zhihu.com/p/65707543)
+* [awesome-point-cloud-analysis](https://zhuanlan.zhihu.com/p/65690433)
 
 #### 教程     
 
