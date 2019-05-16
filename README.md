@@ -188,18 +188,18 @@
 * [【Tensorflow】tf.nn.separable_conv2d如何实现深度可分卷积?](https://blog.csdn.net/mao_xiao_feng/article/details/78002811)	
 * [【TensorFlow】tf.nn.conv2d_transpose是怎样实现反卷积的？](https://blog.csdn.net/mao_xiao_feng/article/details/71713358)
 * [何恺明大神的「Focal Loss」，如何更好地理解？](https://zhuanlan.zhihu.com/p/32423092)
+* [CNN 模型所需的计算力（flops）和参数（parameters）数量是怎么计算的？](https://www.zhihu.com/question/65305385)
 
 #### Action			
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
 * [TensorFlow Object Detection API 教程](https://blog.csdn.net/qq_36148847/article/details/79306762)
-	* [TensorFlow 对象检测 API 教程1](https://blog.csdn.net/qq_36148847/article/details/79306762)
-	* [TensorFlow 对象检测 API 教程2](https://blog.csdn.net/qq_36148847/article/details/79307598)
-	* [TensorFlow 对象检测 API 教程3](https://blog.csdn.net/qq_36148847/article/details/79307751)
-	* [TensorFlow 对象检测 API 教程 4](https://blog.csdn.net/qq_36148847/article/details/79307931)
-	* [TensorFlow 对象检测 API 教程5](https://blog.csdn.net/qq_36148847/article/details/79307933)
+  * [TensorFlow 对象检测 API 教程1](https://blog.csdn.net/qq_36148847/article/details/79306762)
+  * [TensorFlow 对象检测 API 教程2](https://blog.csdn.net/qq_36148847/article/details/79307598)
+  * [TensorFlow 对象检测 API 教程3](https://blog.csdn.net/qq_36148847/article/details/79307751)
+  * [TensorFlow 对象检测 API 教程 4](https://blog.csdn.net/qq_36148847/article/details/79307931)
+  * [TensorFlow 对象检测 API 教程5](https://blog.csdn.net/qq_36148847/article/details/79307933)
 * [在TensorFlow+Keras环境下使用RoI池化一步步实现注意力机制](https://zhuanlan.zhihu.com/p/65327747)
-* [mxnet如何查看参数数量](https://discuss.gluon.ai/t/topic/7216)
-* [mxnet查看FLOPS](https://github.com/likelyzhao/CalFLOPS-Mxnet)
+* [mxnet如何查看参数数量](https://discuss.gluon.ai/t/topic/7216) && [mxnet查看FLOPS](https://github.com/likelyzhao/CalFLOPS-Mxnet)
 
 ### GAN     
 
