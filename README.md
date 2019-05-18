@@ -145,6 +145,7 @@
 * [Awesome-Edge-Detection-Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)
 * [OCR文字处理](https://zhuanlan.zhihu.com/p/65707543)
 * [awesome-point-cloud-analysis](https://zhuanlan.zhihu.com/p/65690433)
+* [Graph Neural Network（GNN）综述](https://zhuanlan.zhihu.com/p/65539782)
 
 #### 教程     
 
