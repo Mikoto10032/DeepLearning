@@ -39,6 +39,7 @@
 
 ##### 计算机视觉
 * [CS231 李飞飞 已授权个人翻译笔记](https://zhuanlan.zhihu.com/p/21930884) && [视频](http://study.163.com/course/courseMain.htm?courseId=1003223001)
+* [计算机视觉研究方向](https://mp.weixin.qq.com/s/WNkzfvYtEO5zJoe_-yAPow)
 
 ##### 自然语言处理
 * [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
