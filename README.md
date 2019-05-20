@@ -68,6 +68,7 @@
 * [LeetCode](https://leetcode.com/) && [leetcode题解](https://github.com/azl397985856/leetcode) && [《算法导论》中算法的C++实现](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)
 * [机器学习算法实战](#机器学习实战篇)
 * [深度学习框架](#深度学习框架)
+* [如何成为一名算法工程师](https://mp.weixin.qq.com/s/YMtnBAVDZepsMTO4h-VRtQ)
 * [《AI算法工程师手册》](http://www.huaxiaozhuan.com/)
 * [ 计算机相关技术面试必备](https://github.com/CyC2018/CS-Notes)
 * [算法工程师面试](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
