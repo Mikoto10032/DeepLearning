@@ -83,6 +83,7 @@
     * Classic machine learning algorithm：LR, KNN, SVM, Random Forest, GBDT(XGBoost&&LightGBM), Factorization Machine, Field-aware Factorization Machine, Neural Network
     * Cross validation, model selection：grid search, random search, hyper-opt
     * Ensemble learning
+  * [Kaggle 项目实战（教程） = 文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
   * [Kaggle入门系列：（一）机器学习环境搭建](https://zhuanlan.zhihu.com/p/29086448) && [Kaggle入门系列：（二）Kaggle简介](https://zhuanlan.zhihu.com/p/29417603) && [Kaggle入门系列（三）Titanic初试身手](https://zhuanlan.zhihu.com/p/29086614)
   * [从 0 到 1 走进 Kaggle](https://zhuanlan.zhihu.com/p/61660061) 
   * [Kaggle 入门指南](https://zhuanlan.zhihu.com/p/25742261) 
