@@ -52,7 +52,7 @@
 * [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/index.html)
 
 #### 深入理解
-* [《深度学习》 Yoshua Bengio.Ian GoodFellow](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf)       
+* [《深度学习》 Yoshua Bengio.Ian GoodFellow](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.Yoshua%20Bengio%2BIan%20GoodFellow.pdf):star:       
 * [《自然语言处理》Jacob Eisenstein](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.Jacob%20Eisenstein.pdf)		
 * [《强化学习》](https://github.com/Mikoto10032/DeepLearning/blob/master/books/Reinforcement%20Learning.Sutton.pdf) && [第二版](http://incompleteideas.net/book/RLbook2018trimmed.pdf)	
 * [hangdong的深度学习博客,论文推荐](https://handong1587.github.io/categories.html#deep_learning-ref)
@@ -603,7 +603,7 @@ ______
 * [边框回归(Bounding Box Regression)详解](https://blog.csdn.net/zijin0802034/article/details/77685438)
 
 ## 机器学习理论与实战
-* [机器学习原理](https://github.com/shunliz/Machine-Learning)
+* [机器学习原理](https://github.com/shunliz/Machine-Learning):star:
 * [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)
 * [数据挖掘十大算法简要说明](http://www.cnblogs.com/en-heng/p/5013995.html)
 * [AdaBoost到GBDT系列]()
