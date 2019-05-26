@@ -3,6 +3,8 @@
 
 [**完备的 AI 学习路线，最详细的中英文资源整理**](https://zhuanlan.zhihu.com/p/64052743) :star:
 
+[AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NL](https://github.com/apachecn/AiLearning)
+
 ### 数学基础
 
 ![](notes/Images/机器学习和深度学习的数学基础.png)
