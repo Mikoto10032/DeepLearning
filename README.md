@@ -156,6 +156,7 @@
 #### 教程     
 
 * [卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
+* [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215) && 翻译：[上](https://www.leiphone.com/news/201902/biIqSBpehsaXFwpN.html?uniqueCode=OTEsp9649VqJfUcO)、[下](https://www.leiphone.com/news/201902/D2Mkv61w9IPq9qGh.html)
 * [变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)
 * [对深度可分离卷积、分组卷积、扩张卷积、转置卷积（反卷积）的理解](https://blog.csdn.net/chaolei3/article/details/79374563)
 * [各种卷积](https://www.cnblogs.com/cvtoEyes/p/8848815.html)
