@@ -600,6 +600,7 @@ ______
 * [边框回归(Bounding Box Regression)详解](https://blog.csdn.net/zijin0802034/article/details/77685438)
 
 ## 机器学习理论与实战
+* [机器学习原理](https://github.com/shunliz/Machine-Learning)
 * [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)
 * [数据挖掘十大算法简要说明](http://www.cnblogs.com/en-heng/p/5013995.html)
 * [AdaBoost到GBDT系列]()
