@@ -75,7 +75,7 @@
 * [ 计算机相关技术面试必备](https://github.com/CyC2018/CS-Notes)
 * [算法工程师面试](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [深度学习面试题目](https://github.com/ShanghaiTechAIClub/DLInterview)
-* [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)ss
+* [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
 * [AI算法岗求职攻略](https://github.com/amusi/AI-Job-Notes#Strategy)
 * [Kaggle实战]()
   * 常用算法：
