@@ -502,6 +502,7 @@
 ### 论文写作教程
 * [刘知远_如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
 * [刘洋_如何写论文_V7](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+* [如何端到端地写科研论文-邱锡鹏](https://xpqiu.github.io/slides/20181019-PaperWriting.pdf)
 * [论文Introduction写作其一](https://zhuanlan.zhihu.com/p/33876355), [论文Introduction写作其二](https://zhuanlan.zhihu.com/p/52494933), [论文Introduction写作其三](https://zhuanlan.zhihu.com/p/52494879)
 * [毕业论文怎么写](https://zhuanlan.zhihu.com/c_179195484)
 
