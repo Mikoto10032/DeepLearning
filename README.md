@@ -551,10 +551,21 @@ ______
 * [多视角学习 (Multi-View Learning)](https://blog.csdn.net/shine19930820/article/details/77426599)
 
 ### word2vec
-* [词嵌入（word2vec）](https://zh.diveintodeeplearning.org/chapter_natural-language-processing/word2vec.html)
-* [谈谈谷歌word2vec的原理](https://blog.csdn.net/wangyangzhizhou/article/details/77073023)
-* [如何用TensorFlow训练词向量](https://blog.csdn.net/wangyangzhizhou/article/details/77530479?locationNum=1&fps=1)
-* [自然语言处理入门 word2vec 使用tensorflow自己训练词向量](https://blog.csdn.net/wzdjsgf/article/details/79541492)
+
+* 原理
+  * [NLP 秒懂词向量Word2vec的本质](https://zhuanlan.zhihu.com/p/26306795)
+  * [一篇通俗易懂的word2vec](https://zhuanlan.zhihu.com/p/35500923)
+  * [YJango的Word Embedding--介绍](https://zhuanlan.zhihu.com/p/27830489)
+  * [nlp中的词向量对比：word2vec/glove/fastText/elmo/GPT/bert](https://zhuanlan.zhihu.com/p/56382372)
+  * [词嵌入（word2vec）](https://zh.diveintodeeplearning.org/chapter_natural-language-processing/word2vec.html)
+  * [谈谈谷歌word2vec的原理](https://blog.csdn.net/wangyangzhizhou/article/details/77073023)
+  * [Word2Vec中为什么使用负采样？](https://zhuanlan.zhihu.com/p/67117737)
+* 训练词向量
+  * [练习-word2vec](https://zhuanlan.zhihu.com/p/29200034)
+  * [word2vec方法的实现和应用](https://zhuanlan.zhihu.com/p/31886824)
+  * [自然语言处理入门 word2vec 使用tensorflow自己训练词向量](https://blog.csdn.net/wzdjsgf/article/details/79541492)
+  * [使用tensorflow实现word2vec中文词向量的训练](https://zhuanlan.zhihu.com/p/28979653)
+  * [如何用TensorFlow训练词向量](https://blog.csdn.net/wangyangzhizhou/article/details/77530479?locationNum=1&fps=1)
 
 ### 迁移学习			
 * [1. 迁移学习：经典算法解析](https://blog.csdn.net/linolzhang/article/details/73358219)
