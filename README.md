@@ -295,6 +295,10 @@
 
 #### 教程
 
+* [如何理解 Graph Convolutional Network（GCN）](https://www.zhihu.com/question/54504471/answer/611222866)
+* [图卷积网络(Graph Convolutional networks, GCN) 简述](https://zhuanlan.zhihu.com/p/38612863)
+* [图卷积网络(GCN)新手村完全指南](https://zhuanlan.zhihu.com/p/54505069)
+
 #### Action
 
 * [图卷积网络到底怎么做，这是一份极简的Numpy实现](https://zhuanlan.zhihu.com/p/57235377)
