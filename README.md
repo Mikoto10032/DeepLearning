@@ -550,6 +550,11 @@ ______
 * [Multi-view Learning 多视角学习入门](https://blog.csdn.net/danliwoo/article/details/79278574)
 * [多视角学习 (Multi-View Learning)](https://blog.csdn.net/shine19930820/article/details/77426599)
 
+### Embedding
+
+* [万物皆Embedding，从经典的word2vec到深度学习基本操作item2vec](https://zhuanlan.zhihu.com/p/53194407)
+* [YJango的Word Embedding--介绍](https://zhuanlan.zhihu.com/p/27830489)
+
 ### word2vec
 
 * 原理
