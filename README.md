@@ -145,6 +145,7 @@
 * [目标检测算法综述之FPN优化篇](https://zhuanlan.zhihu.com/p/62975854)
 * [聊聊Anchor的"前世今生"（上）](https://zhuanlan.zhihu.com/p/63273342)
 * [【CVPR2019正式公布】行人重识别论文](https://zhuanlan.zhihu.com/p/62843442)，[2019 行人再识别年度进展回顾](https://zhuanlan.zhihu.com/p/64004977)
+* [2019CVPR文本检测综述](https://zhuanlan.zhihu.com/p/67319122)
 * [从SRCNN到EDSR，总结深度学习端到端超分辨率方法发展历程](https://zhuanlan.zhihu.com/p/31664818)
 * [【CVPR2019正式公布】行人重识别论文](https://zhuanlan.zhihu.com/p/62843442)
 * [自然场景文本检测识别技术综述](https://mp.weixin.qq.com/s?__biz=MzU4MjQ3MDkwNA==&mid=2247485142&idx=1&sn=c0e01da30eb5e750be453eabe4be2bf4&chksm=fdb69b41cac11257ae22c7dac395e9651dab628fc35dd6d3c02d9566a8c7f5f2b56353d58a64&token=1065243837&lang=zh_CN#rd)
@@ -502,7 +503,7 @@
 
 ### 论文画图工具
 * Visio2016
-* [Matplotlib](Python可视化)
+* [Matplotlib](#Python可视化)
 
 ### 论文写作教程
 * [刘知远_如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
