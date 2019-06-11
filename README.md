@@ -154,6 +154,7 @@
 * [OCR文字处理](https://zhuanlan.zhihu.com/p/65707543)
 * [awesome-point-cloud-analysis](https://zhuanlan.zhihu.com/p/65690433)
 * [Graph Neural Network（GNN）综述](https://zhuanlan.zhihu.com/p/65539782)
+* [小样本学习（Few-shot Learning）综述](https://zhuanlan.zhihu.com/p/61215293)
 
 #### 教程     
 
