@@ -462,6 +462,7 @@
 ### Python可视化
 * [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
 * [Python之MatPlotLib使用教程](https://www.jianshu.com/p/92e1a4497505)
+* [十分钟上手matplotlib，开启你的python可视化](https://mp.weixin.qq.com/s/UfvEdzr-ZGmyT08yKDOchA)
 * [给深度学习入门者的Python快速教程 - numpy和Matplotlib篇](https://zhuanlan.zhihu.com/p/24309547)
 
 ### 标注工具
