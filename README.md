@@ -295,6 +295,7 @@
 #### 发展史
 
 * [Graph Neural Network（GNN）综述](https://zhuanlan.zhihu.com/p/65539782)
+* [GNN最全文献资料整理](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 
 #### 教程
 
