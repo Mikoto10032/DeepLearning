@@ -556,6 +556,7 @@ ______
 * [few-shot learning是什么](https://blog.csdn.net/xhw205/article/details/79491649)
 * [小样本学习（Few-shot Learning）综述](https://zhuanlan.zhihu.com/p/61215293)
 * [Few-Shot Learning in CVPR 2019](https://towardsdatascience.com/few-shot-learning-in-cvpr19-6c6892fc8c5)
+* [当小样本遇上机器学习 fewshot learning](https://blog.csdn.net/mao_feng/article/details/78939864)
 
 ### 多视觉学习(Multi-View Learning)
 * [Multi-view Learning 多视角学习入门](https://blog.csdn.net/danliwoo/article/details/79278574)
