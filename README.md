@@ -551,6 +551,12 @@ ______
 ### 零次学习(Zero Shot Learning)
 * [零次学习（Zero-Shot Learning）入门](https://zhuanlan.zhihu.com/p/34656727)
 
+### 小样本学习(Few-Shot Learning)
+
+* [few-shot learning是什么](https://blog.csdn.net/xhw205/article/details/79491649)
+* [小样本学习（Few-shot Learning）综述](https://zhuanlan.zhihu.com/p/61215293)
+* [Few-Shot Learning in CVPR 2019](https://towardsdatascience.com/few-shot-learning-in-cvpr19-6c6892fc8c5)
+
 ### 多视觉学习(Multi-View Learning)
 * [Multi-view Learning 多视角学习入门](https://blog.csdn.net/danliwoo/article/details/79278574)
 * [多视角学习 (Multi-View Learning)](https://blog.csdn.net/shine19930820/article/details/77426599)
@@ -662,7 +668,7 @@ ______
 
 * [随机森林（Random Forest）入门与实战](https://blog.csdn.net/sb19931201/article/details/52601058)
 
-#### 支持向量机(SVM)    
+#### 支持向量机(SVM)   
 * [SVM通俗导论 July（本文章是我看过最好的SVM导论）](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%E9%80%9A%E4%BF%97%E5%AF%BC%E8%AE%BA%EF%BC%88%E7%90%86%E8%A7%A3SVM%E7%9A%84%E4%B8%89%E5%B1%82%E5%A2%83%E7%95%8C%EF%BC%89LaTeX%E6%9C%80%E6%96%B0%E7%89%88_2015.1.9.pdf)      
 * [Python3《机器学习实战》学习笔记（八）：支持向量机原理篇之手撕线性SVM （SMO训练过程总结得清晰易懂）](https://blog.csdn.net/c406495762/article/details/78072313)      
 * [svm核函数的理解和选择](https://blog.csdn.net/leonis_v/article/details/50688766)
