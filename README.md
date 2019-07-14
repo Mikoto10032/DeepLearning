@@ -156,6 +156,7 @@
 * [awesome-point-cloud-analysis](https://zhuanlan.zhihu.com/p/65690433)
 * [Graph Neural Network（GNN）综述](https://zhuanlan.zhihu.com/p/65539782)
 * [小样本学习（Few-shot Learning）综述](https://zhuanlan.zhihu.com/p/61215293)
+* [超全深度学习细粒度图像分析：项目、综述、教程一网打尽](https://zhuanlan.zhihu.com/p/73542103)
 
 #### 教程     
 
