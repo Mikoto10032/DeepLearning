@@ -73,6 +73,7 @@
 * [深度学习框架](#深度学习框架)
 * [如何成为一名算法工程师](https://mp.weixin.qq.com/s/YMtnBAVDZepsMTO4h-VRtQ) && [从小白到入门算法，我的经验分享给你～](https://mp.weixin.qq.com/s?__biz=MzAxMjcyNjE5MQ==&mid=2650488786&idx=1&sn=68b9536d0b0b3105ab8d79f8efcb0a4b&chksm=83a2e512b4d56c045c6ab0349108842e6a5b26e8f3e507ff5d19ee50e3bd63ef149a36d23eef&scene=0&xtrack=1&ascene=14&devicetype=android-28&version=27000437&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABgAjlx4AVpkeANCZHgDcmR4A8ZkeAAOaHgAAAA%3D%3D&lang=zh_CN&pass_ticket=4yovfEr0v09yZCvvQ1NEy12qGIonnRpGi774X09Mh5EZD2oL%2BRz6FTtX9R5gALB1&wx_header=1) && [我的研究生这三年](https://zhuanlan.zhihu.com/p/54161673) :star:
 * [《AI算法工程师手册》](http://www.huaxiaozhuan.com/)
+* [【完结】深度学习CV算法工程师从入门到初级面试有多远，大概是25篇文章的距离](https://mp.weixin.qq.com/s/HZ3Cd2jHuikyFN9ydvcMTw)
 * [ 计算机相关技术面试必备](https://github.com/CyC2018/CS-Notes)
 * [算法工程师面试](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 * [深度学习面试题目](https://github.com/ShanghaiTechAIClub/DLInterview)
