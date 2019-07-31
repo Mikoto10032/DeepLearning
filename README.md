@@ -298,7 +298,10 @@
 #### 发展史
 
 * [Graph Neural Network（GNN）综述](https://zhuanlan.zhihu.com/p/65539782)
-* [GNN最全文献资料整理](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
+* [深度学习时代的图模型，清华发文综述图网络](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650754422&idx=4&sn=0dc881487f362322a875b4ce06e645f7&chksm=871a8908b06d001ef7386ccc752827c20711877a4a23d6a8318978095dd241d118257c607b22&scene=21#wechat_redirect)
+* [清华大学图神经网络综述：模型与应用](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650754558&idx=2&sn=7d79191b9ed30679d5d40e22d9cabdf8&chksm=871a8980b06d00962e0dbe984e1d3469214db31cb402b4725a0dfe330249a830b45cb26932b5&scene=21#wechat_redirect)
+* [图神经网络概述第三弹：来自IEEE Fellow的GNN综述](https://zhuanlan.zhihu.com/p/54241746)
+* [GNN最全文献资料整理](https://github.com/DeepGraphLearning/LiteratureDL4Graph) && [Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks)
 
 #### 教程
 
