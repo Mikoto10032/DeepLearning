@@ -195,7 +195,7 @@
 * [Attention](http://www.cnblogs.com/shouhuxianjian/p/7903097.html)， [1](https://zhuanlan.zhihu.com/p/31547842)，[2](https://blog.csdn.net/yideqianfenzhiyi/article/details/79422857)，[3](https://blog.csdn.net/Wayne2019/article/details/78488142)，[4](https://zhuanlan.zhihu.com/p/37601161)，[5](https://blog.csdn.net/bvl10101111/article/details/78470716)		
 * [一文读懂卷积神经网络中的1x1卷积核](https://zhuanlan.zhihu.com/p/40050371)		
 * [目标检测之CornerNet](https://arxiv.org/abs/1808.01244), [1](https://zhuanlan.zhihu.com/p/41825737), [2](https://blog.csdn.net/Hibercraft/article/details/81637451), [3](https://zhuanlan.zhihu.com/p/41759548)
-* [目标检测的性能评价指标](https://zhuanlan.zhihu.com/p/70306015) && [NMS和计算mAP时的置信度阈值和IoU阈值](https://zhuanlan.zhihu.com/p/75348108)
+* [目标检测的性能评价指标](https://zhuanlan.zhihu.com/p/70306015) && [NMS和计算mAP时的置信度阈值和IoU阈值 ](https://zhuanlan.zhihu.com/p/75348108) && [白话mAP](https://zhuanlan.zhihu.com/p/60834912)
 * [人群计数](http://chuansong.me/n/443237851736), [1](https://www.cnblogs.com/wmr95/p/8134692.html), [2](https://blog.csdn.net/u011285477/article/details/51954989), [3](https://blog.csdn.net/qingqingdeaini/article/details/79922549)
 * [RelationNetwork](https://www.zhihu.com/question/60784169)
 * [ShuffleNet V2和四个网络架构设计准则](https://zhuanlan.zhihu.com/p/40980942)
