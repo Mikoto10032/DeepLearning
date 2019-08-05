@@ -117,7 +117,8 @@
 * [6. 深度学习目标检测模型全面综述：Faster R-CNN、R-FCN和SSD](https://zhuanlan.zhihu.com/p/29434605)      
 * [7. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)
 * [7. 从RCNN到SSD，这应该是最全的一份目标检测算法盘点](https://zhuanlan.zhihu.com/p/36184131)    
-* [8. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)  * [9. 语义分割 发展综述](https://zhuanlan.zhihu.com/p/37618829)       
+* [8. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)  
+* [9. 语义分割 发展综述](https://zhuanlan.zhihu.com/p/37618829)       
 * [深度学习分类网络](https://blog.csdn.net/PeaceInMind/article/details/78079263)
 * [CNN网络结构的发展](https://zhuanlan.zhihu.com/p/68411179)
 * [卷积神经网络结构演变（form Hubel and Wiesel to SENet）](https://zhuanlan.zhihu.com/p/34621135)
@@ -163,6 +164,7 @@
 #### 教程     
 
 * [卷积神经网络工作原理](https://www.zhihu.com/question/39022858)
+* [「七夕的礼物」: 一日搞懂卷积神经网络](https://zhuanlan.zhihu.com/p/28863709)
 * [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215) && 翻译：[上](https://www.leiphone.com/news/201902/biIqSBpehsaXFwpN.html?uniqueCode=OTEsp9649VqJfUcO)、[下](https://www.leiphone.com/news/201902/D2Mkv61w9IPq9qGh.html)
 * [变形卷积核、可分离卷积](https://zhuanlan.zhihu.com/p/28749411)
 * [对深度可分离卷积、分组卷积、扩张卷积、转置卷积（反卷积）的理解](https://blog.csdn.net/chaolei3/article/details/79374563)
