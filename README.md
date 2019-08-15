@@ -690,13 +690,15 @@ ______
 
 * [主成分分析（PCA）原理详解](https://blog.csdn.net/program_developer/article/details/80632779)
 * [图文并茂的PCA教程](https://blog.csdn.net/hustqb/article/details/78394058)
+* [PCA数学原理](http://www.360doc.com/content/13/1124/02/9482_331688889.shtml)
 
 #### SVD			
 
-* [1. 关于奇异值分解SVD的总结（PCA、LDI）](https://zhuanlan.zhihu.com/p/30482640)
-* [2. 奇异值分解（SVD）](https://zhuanlan.zhihu.com/p/29846048)
-* [3. 奇异值分解(SVD)原理详解及推导](https://blog.csdn.net/zhongkejingwang/article/details/43053513)    
-* [4. SVD在推荐系统中的应用详解以及算法推导](https://blog.csdn.net/zhongkejingwang/article/details/43083603)
+* [强大的矩阵奇异值分解(SVD)及其应用](https://www.cnblogs.com/LeftNotEasy/archive/2011/01/19/svd-and-applications.html)
+
+* [奇异值分解（SVD）](https://zhuanlan.zhihu.com/p/29846048)
+* [奇异值分解(SVD)原理详解及推导](https://blog.csdn.net/zhongkejingwang/article/details/43053513)    
+* [SVD在推荐系统中的应用详解以及算法推导](https://blog.csdn.net/zhongkejingwang/article/details/43083603)
 
 #### LDA
 * [教科书上的LDA为什么长这个样子？](https://zhuanlan.zhihu.com/p/42238953)
