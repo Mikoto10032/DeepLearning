@@ -554,6 +554,14 @@ ______
 * [1. 机器学习中的各种熵](https://zhuanlan.zhihu.com/p/35423404)    
 * [2. 从香农熵到手推KL散度：纵览机器学习中的信息论](https://zhuanlan.zhihu.com/p/32985487)
 
+### 傅里叶变换
+
+* [傅里叶分析之掐死教程（完整版）更新于2014.06.06](https://zhuanlan.zhihu.com/p/19763358)
+* [如何简明的总结傅里叶变换？](https://www.zhihu.com/question/34899574/answer/612923473)
+* [从连续时间傅里叶级数到快速傅里叶变换](https://blog.csdn.net/clover13/article/details/79469851)
+* [十分简明易懂的FFT（快速傅里叶变换）](https://blog.csdn.net/enjoy_pascal/article/details/81478582)
+* [傅里叶级数推导过程](https://blog.csdn.net/hanxiaohu88/article/details/8245687)
+
 ## 深度学习一些研究领域
 
 ### 多任务学习
