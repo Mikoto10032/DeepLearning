@@ -9,14 +9,17 @@
 
 ![](notes/Images/机器学习和深度学习的数学基础.png)
 
+* [机器学习的数学基础](https://github.com/fengdu78/Data-Science-Notes/tree/master/0.math/0.basic)
+* [CS229线性代数月概率论基础](https://github.com/fengdu78/Data-Science-Notes/tree/master/0.math/1.CS229)
+
 ### 机器学习基础
 
 #### 快速入门
 * 推荐顺序由前到后
 * [机器学习算法地图](http://www.tensorinfinity.com/paper_18.html)
 * [机器学习 吴恩达 Coursera个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-Coursera%5D%5B2014%5D%5BAndrew%20Ng%5D/%5B2014%5D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88v5.1.pdf)  && [视频（含官方笔记）](https://www.coursera.org/learn/machine-learning)  
+* [CS229 课程讲义中文翻译](https://kivy-cn.github.io/Stanford-CS-229-CN/#/) && [机器学习 吴恩达 cs229个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-CS229%5D%5B2011%5D%5BAndrew%20NG%5D/%5B2011%5D%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94.pdf) && [官网（笔记）](http://cs229.stanford.edu/)  && [视频（中文字幕）](http://open.163.com/special/opencourse/machinelearning.html)   
 * [百页机器学习](http://themlbook.com/wiki/doku.php)
-* [机器学习 吴恩达 cs229个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-CS229%5D%5B2011%5D%5BAndrew%20NG%5D/%5B2011%5D%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94.pdf) && [官网（笔记）](http://cs229.stanford.edu/)  && [视频（中文字幕）](http://open.163.com/special/opencourse/machinelearning.html)   
 
 #### 深入理解
 * 推荐顺序由前到后
