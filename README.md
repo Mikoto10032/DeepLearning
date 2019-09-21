@@ -469,6 +469,9 @@
 * [GluonNLP](http://gluon-nlp.mxnet.io/)
 
 #### PyTorch
+
+* [Pytorch版动手学深度学习](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+
 * [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
 * [WELCOME TO PYTORCH TUTORIALS](https://pytorch.org/tutorials/index.html)
 * [史上最全的PyTorch学习资源汇总](https://zhuanlan.zhihu.com/p/64895011)
