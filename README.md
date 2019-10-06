@@ -667,7 +667,7 @@ ______
 ## 机器学习理论与实战
 * [机器学习原理](https://github.com/shunliz/Machine-Learning):star:
 * [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)
-* [数据挖掘十大算法简要说明](http://www.cnblogs.com/en-heng/p/5013995.html)
+* [数据挖掘十大算法简要说明](http://www.cnblogs.com/en-heng/p/5013995.html)，[机器学习十大经典算法入门](https://blog.csdn.net/qq_42379006/article/details/80741808)， [【算法模型】轻松看懂机器学习十大常用算法](https://www.cnblogs.com/ljt1412451704/p/9678248.html)
 * [AdaBoost到GBDT系列]()
   * [当我们在谈论GBDT：从 AdaBoost 到 Gradient Boosting](https://zhuanlan.zhihu.com/p/25096501?refer=data-miner)
   * [当我们在谈论GBDT：Gradient Boosting 用于分类与回归](https://zhuanlan.zhihu.com/p/25257856?refer=data-miner)
