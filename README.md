@@ -755,7 +755,13 @@ ______
 * [人人都懂的EM算法 ](https://zhuanlan.zhihu.com/p/36331115)
 * [EM算法入门文章](https://zhuanlan.zhihu.com/p/61768577)                      
 
+#### 高斯混合模型（GMM）
+
+* [高斯混合模型与EM算法的数学原理及应用实例](https://zhuanlan.zhihu.com/p/67107370)
+* [高斯混合模型（GMM）](https://zhuanlan.zhihu.com/p/30483076)
+
 #### 条件随机场(CRF, 判别式模型)
+
 * [如何轻松愉快地理解条件随机场](https://www.jianshu.com/p/55755fc649b1)
 * [如何用简单易懂的例子解释条件随机场（CRF）模型？它和HMM有什么区别？](https://www.zhihu.com/question/35866596)
 * [HMM ,MHMM,CRF 优缺点与区别](https://blog.csdn.net/u013378306/article/details/55213029)
