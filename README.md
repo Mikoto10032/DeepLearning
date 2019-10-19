@@ -126,6 +126,7 @@
 * [8. 图像语义分割(Semantic segmentation) Survey](https://zhuanlan.zhihu.com/p/36801104)  
 * [9. 语义分割 发展综述](https://zhuanlan.zhihu.com/p/37618829)       
 * [深度学习分类网络](https://blog.csdn.net/PeaceInMind/article/details/78079263)
+* [深度学习笔记（十一）网络 Inception, Xception, MobileNet, ShuffeNet, ResNeXt, SqueezeNet, EfficientNet, MixConv](https://www.cnblogs.com/xuanyuyt/p/11329998.html)
 * [CNN网络结构的发展](https://zhuanlan.zhihu.com/p/68411179)
 * [卷积神经网络结构演变（form Hubel and Wiesel to SENet）](https://zhuanlan.zhihu.com/p/34621135)
 * [从VGG到NASNet，一文概览图像分类网络](https://zhuanlan.zhihu.com/p/35221368)
