@@ -7,7 +7,7 @@
 
 ### 数学基础
 
-![](notes/Images/机器学习和深度学习的数学基础.png)
+![](notes/Images/MathematicalBasis.png)
 
 * [矩阵微积分](https://zh.wikipedia.org/wiki/%E7%9F%A9%E9%98%B5%E5%BE%AE%E7%A7%AF%E5%88%86)
 * [机器学习的数学基础](https://github.com/fengdu78/Data-Science-Notes/tree/master/0.math/0.basic)
