@@ -354,6 +354,10 @@
 * [23.谱归一化（Spectral Normalization）的理解](https://blog.csdn.net/StreamRock/article/details/83590347)，[常见向量范数和矩阵范数](https://blog.csdn.net/left_la/article/details/9159949)，[谱范数正则（Spectral Norm Regularization）的理解](https://blog.csdn.net/StreamRock/article/details/83539937)
 * [24.L1正则化与L2正则化](https://zhuanlan.zhihu.com/p/35356992)
 * [25.为什么选用交叉熵而不是MSE](https://zhuanlan.zhihu.com/p/61944055)
+* [机器学习笔记四：线性回归回顾与logistic回归](https://blog.csdn.net/xierhacker/article/details/53316138)
+* [反向传播算法（过程及公式推导）](https://blog.csdn.net/u014313009/article/details/51039334)
+* [交叉熵代价函数（作用及公式推导）](https://blog.csdn.net/u014313009/article/details/51043064)
+* **Softmax**：[详解softmax函数以及相关求导过程](https://zhuanlan.zhihu.com/p/25723112)  &&  [softmax的log似然代价函数（公式求导）](https://blog.csdn.net/u014313009/article/details/51045303)
 
 ## 四. 炼丹术士那些事
 
