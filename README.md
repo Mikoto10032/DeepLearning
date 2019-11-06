@@ -73,7 +73,7 @@
 
 ![](https://pic4.zhimg.com/v2-009013278688f520c070b27910255cb1_r.jpg)
 
-* [LeetCode](https://leetcode.com/) && [leetcode题解](https://github.com/azl397985856/leetcode) && [《算法导论》中算法的C++实现](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)
+* [如何系统地学习算法？](https://www.zhihu.com/question/20588261/answer/798928056) && [LeetCode](https://leetcode.com/) && [leetcode题解](https://github.com/azl397985856/leetcode) && [《算法导论》中算法的C++实现](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)
 * [机器学习算法实战](#机器学习实战篇)
 * [深度学习框架](#深度学习框架)
 * [如何成为一名算法工程师](https://mp.weixin.qq.com/s/YMtnBAVDZepsMTO4h-VRtQ) && [从小白到入门算法，我的经验分享给你～](https://mp.weixin.qq.com/s?__biz=MzAxMjcyNjE5MQ==&mid=2650488786&idx=1&sn=68b9536d0b0b3105ab8d79f8efcb0a4b&chksm=83a2e512b4d56c045c6ab0349108842e6a5b26e8f3e507ff5d19ee50e3bd63ef149a36d23eef&scene=0&xtrack=1&ascene=14&devicetype=android-28&version=27000437&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABgAjlx4AVpkeANCZHgDcmR4A8ZkeAAOaHgAAAA%3D%3D&lang=zh_CN&pass_ticket=4yovfEr0v09yZCvvQ1NEy12qGIonnRpGi774X09Mh5EZD2oL%2BRz6FTtX9R5gALB1&wx_header=1) && [我的研究生这三年](https://zhuanlan.zhihu.com/p/54161673) :star:
