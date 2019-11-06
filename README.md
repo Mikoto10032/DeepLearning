@@ -469,6 +469,7 @@
 * [【干货】史上最全的Tensorflow学习资源汇总](https://zhuanlan.zhihu.com/p/35515805?group_id=967136289941897216)
 * [《21个项目玩转深度学习———基于TensorFlow的实践详解》](https://github.com/hzy46/Deep-Learning-21-Examples)  
 * [最全Tensorflow2.0 入门教程持续更新](https://zhuanlan.zhihu.com/p/59507137)
+* [Github优秀开源教程](https://github.com/search?o=desc&q=tensorflow+tutorial&s=&type=Repositories)
 
 #### MXNet		
 * [Gluon](http://zh.gluon.ai/#)
