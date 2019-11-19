@@ -640,6 +640,8 @@ ______
 
 #### 提升方法(Adaboost)
 
+* [当我们在谈论GBDT：从 AdaBoost 到 Gradient Boosting](https://zhuanlan.zhihu.com/p/25096501)
+
 #### 梯度提升决策树(GBDT)
 * [LightGBM大战XGBoost](https://zhuanlan.zhihu.com/p/35645973)
 * [概述XGBoost、Light GBM和CatBoost的同与不同](https://zhuanlan.zhihu.com/p/34698733)   
