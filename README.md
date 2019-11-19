@@ -599,12 +599,21 @@ ______
 * [2. 从香农熵到手推KL散度：纵览机器学习中的信息论](https://zhuanlan.zhihu.com/p/32985487)
 
 #### 多层感知机(MLP)
+* [多层感知机（MLP）学习与总结博客](https://blog.csdn.net/baidu_33718858/article/details/84972537)
 
 #### k近邻(KNN)
 
+* [机器学习之KNN（k近邻）算法详解](https://blog.csdn.net/sinat_30353259/article/details/80901746)
+
 #### k均值(K-means)
 
+* [Kmeans聚类算法详解](https://blog.csdn.net/qq_32892383/article/details/80107795)
+
 #### 朴素贝叶斯(Naive Bayesian)
+
+* [朴素贝叶斯分类器（Naive Bayesian Classifier）](https://blog.csdn.net/qq_32690999/article/details/78737393)
+
+* [朴素贝叶斯分类器 详细解析](https://blog.csdn.net/qq_17073497/article/details/81076250)
 
 #### 决策树(Decision Tree)
 * [Python3《机器学习实战》学习笔记（二）：决策树基础篇之让我们从相亲说起](https://blog.csdn.net/c406495762/article/details/75663451)
