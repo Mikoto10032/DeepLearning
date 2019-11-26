@@ -366,6 +366,12 @@
 * [反向传播算法（过程及公式推导）](https://blog.csdn.net/u014313009/article/details/51039334)
 * [交叉熵代价函数（作用及公式推导）](https://blog.csdn.net/u014313009/article/details/51043064)
 * **Softmax**：[详解softmax函数以及相关求导过程](https://zhuanlan.zhihu.com/p/25723112)  &&  [softmax的log似然代价函数（公式求导）](https://blog.csdn.net/u014313009/article/details/51045303)
+* **权重初始化**
+  * [神经网络中的权重初始化一览：从基础到Kaiming](https://zhuanlan.zhihu.com/p/62850258)
+  * [深度学习入门--权重初始值的优化](https://zhuanlan.zhihu.com/p/61641174)
+  * [谈谈神经网络权重为什么不能初始化为0](https://zhuanlan.zhihu.com/p/75879624)
+  * [神经网络中的偏置（bias）究竟有这么用？](https://www.zhihu.com/question/305340182)
+  * [深度学习里面的偏置为什么不加正则？](https://www.zhihu.com/question/66894061)
 
 ## 四. 炼丹术士那些事
 
