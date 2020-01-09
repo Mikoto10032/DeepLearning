@@ -329,6 +329,7 @@
 * [何时能懂你的心——图卷积神经网络（GCN）](https://zhuanlan.zhihu.com/p/71200936)
 * [图卷积网络GCN的理解与介绍](https://zhuanlan.zhihu.com/p/90470499)
 * [一文读懂图卷积GCN](https://zhuanlan.zhihu.com/p/89503068)
+* [2020 年 GNN 开卷有益与再谈图卷积](https://zhuanlan.zhihu.com/p/101310106)
 
 #### Action
 
