@@ -138,6 +138,7 @@
 - [From RCNN to YOLOv3]()：[上](https://zhuanlan.zhihu.com/p/35724768)，[下](https://zhuanlan.zhihu.com/p/35731743)
 - [后 R-CNN时代， Faster R-CNN、SSD、YOLO 各类变体统治下的目标检测综述：Faster R-CNN系列胜了吗？](https://zhuanlan.zhihu.com/p/38709522)
 - [目标检测进化史](https://zhuanlan.zhihu.com/p/60590369)
+- [CVPR2019目标检测方法进展综述](https://zhuanlan.zhihu.com/p/59376548)
 - [一文看尽21篇目标检测最新论文（腾讯/Google/商汤/旷视/清华/浙大/CMU/华科/中科院等](https://zhuanlan.zhihu.com/p/61080508)
 - [我这两年的目标检测](https://zhuanlan.zhihu.com/p/82491218)
 - [Anchor-Free目标检测算法](): [第一篇：arxiv2015_baidu_DenseBox](https://zhuanlan.zhihu.com/p/40221183)， [如何评价最新的anchor-free目标检测模型FoveaBox？](https://www.zhihu.com/question/319605567/answer/647844997), [FCOS: 最新的one-stage逐像素目标检测算法](https://zhuanlan.zhihu.com/p/61644900) && [最新的Anchor-Free目标检测模型FCOS，现已开源！](https://zhuanlan.zhihu.com/p/62198865) && [中科院牛津华为诺亚提出CenterNet，one-stage detector可达47AP，已开源！](https://zhuanlan.zhihu.com/p/62789701) && [AnchorFreeDetection](https://github.com/VCBE123/AnchorFreeDetection)
@@ -604,7 +605,7 @@
 
 ## 五. 年度总结
 * [新年大礼包：机器之心2018高分教程合集](https://zhuanlan.zhihu.com/p/53717510)   
-* [CVPR2019目标检测方法进展综述](https://zhuanlan.zhihu.com/p/59376548)
+* [收藏、退出一气呵成，2019年机器之心干货教程都在这里了](https://zhuanlan.zhihu.com/p/104022144)
 
 ## 六. 科研相关
 
