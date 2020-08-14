@@ -565,7 +565,7 @@
   * [炼丹笔记六 : 调参技巧](https://zhuanlan.zhihu.com/p/56745640)
   * [炼丹笔记七：卷积神经网络模型设计](https://zhuanlan.zhihu.com/p/57738934)
 
-### 刷排行榜的奇技淫巧
+### 刷排行榜的小技巧
 
 * [Kaggle 六大比赛最全面解析（上）](https://www.leiphone.com/news/201803/XBjvQriKTyTMPLcz.html)
 
