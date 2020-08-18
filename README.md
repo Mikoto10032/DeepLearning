@@ -304,7 +304,7 @@
 
 ##### 目标检测网络详解
 
-* [目标检测的性能评价指标](https://zhuanlan.zhihu.com/p/70306015) && [NMS和计算mAP时的置信度阈值和IoU阈值 ](https://zhuanlan.zhihu.com/p/75348108) && [白话mAP](https://zhuanlan.zhihu.com/p/60834912)
+* [目标检测的性能评价指标](https://zhuanlan.zhihu.com/p/70306015) && [NMS和计算mAP时的置信度阈值和IoU阈值 ](https://zhuanlan.zhihu.com/p/75348108) && [白话mAP](https://zhuanlan.zhihu.com/p/60834912) && [目标检测模型的评估指标mAP详解(附代码）](https://zhuanlan.zhihu.com/p/37910324)
 * [深度学习中IU、IoU(Intersection over Union)](https://blog.csdn.net/iamoldpan/article/details/78799857)
 * [Selective Search for Object Detection ](https://www.learnopencv.com/selective-search-for-object-detection-cpp-python/)[（译文）](https://blog.csdn.net/guoyunfei20/article/details/78723646)
 * [Region Proposal Network(RPN)](https://zhuanlan.zhihu.com/p/106192020)
