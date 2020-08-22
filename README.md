@@ -705,6 +705,9 @@
 * [18. CVPR 2019「准满分」论文：英伟达推出首个跨摄像头汽车跟踪数据集(汽车Re-ID)](https://zhuanlan.zhihu.com/p/60617001)
 * [19.【OCR技术】大批量生成文字训练集](https://zhuanlan.zhihu.com/p/59052013)
 * [20. 语义分析数据集-MSRA](https://github.com/msra-nlc/MSParS)
+* [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data)
+* [医疗领域图像挑战赛数据集](https://grand-challenge.org/challenges/)
+* [【医学影像系列：一】数据集合集 最新最全](https://blog.csdn.net/qq_31622015/article/details/90573874)
 
 ### 记笔记工具
 
