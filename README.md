@@ -708,6 +708,7 @@
 * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data)
 * [医疗领域图像挑战赛数据集](https://grand-challenge.org/challenges/)
 * [【医学影像系列：一】数据集合集 最新最全](https://blog.csdn.net/qq_31622015/article/details/90573874)
+* [medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets)
 
 ### 记笔记工具
 
