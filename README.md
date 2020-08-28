@@ -764,7 +764,23 @@ _____
 
 ______
 
+## 信号处理
+
+### 傅里叶变换
+
+* [傅里叶分析之掐死教程（完整版）更新于2014.06.06](https://zhuanlan.zhihu.com/p/19763358)
+* [如何简明的总结傅里叶变换？](https://www.zhihu.com/question/34899574/answer/612923473)
+* [从连续时间傅里叶级数到快速傅里叶变换](https://blog.csdn.net/clover13/article/details/79469851)
+* [十分简明易懂的FFT（快速傅里叶变换）](https://blog.csdn.net/enjoy_pascal/article/details/81478582)
+* [傅里叶级数推导过程](https://blog.csdn.net/hanxiaohu88/article/details/8245687)
+
+### 小波变换
+
+* [形象易懂讲解算法I——小波变换](https://zhuanlan.zhihu.com/p/22450818)
+* [小波变换完美通俗讲解系列之 （一）](https://zhuanlan.zhihu.com/p/44215123) && [小波变换完美通俗讲解系列之 （二）](https://zhuanlan.zhihu.com/p/44217268)
+
 ## 机器学习理论与实战
+
 * [机器学习原理](https://github.com/shunliz/Machine-Learning):star:
 
 * [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)
@@ -776,12 +792,6 @@ ______
   * [当我们在谈论GBDT：Gradient Boosting 用于分类与回归](https://zhuanlan.zhihu.com/p/25257856?refer=data-miner)
   * [当我们在谈论GBDT：其他 Ensemble Learning 算法](https://zhuanlan.zhihu.com/p/25443980)
 
-* 番外篇之傅里叶变换
-  * [傅里叶分析之掐死教程（完整版）更新于2014.06.06](https://zhuanlan.zhihu.com/p/19763358)
-  * [如何简明的总结傅里叶变换？](https://www.zhihu.com/question/34899574/answer/612923473)
-  * [从连续时间傅里叶级数到快速傅里叶变换](https://blog.csdn.net/clover13/article/details/79469851)
-  * [十分简明易懂的FFT（快速傅里叶变换）](https://blog.csdn.net/enjoy_pascal/article/details/81478582)
-  * [傅里叶级数推导过程](https://blog.csdn.net/hanxiaohu88/article/details/8245687)
 
 
 ### 机器学习理论篇之经典算法
