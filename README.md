@@ -777,7 +777,14 @@ ______
 ### 小波变换
 
 * [形象易懂讲解算法I——小波变换](https://zhuanlan.zhihu.com/p/22450818)
+
 * [小波变换完美通俗讲解系列之 （一）](https://zhuanlan.zhihu.com/p/44215123) && [小波变换完美通俗讲解系列之 （二）](https://zhuanlan.zhihu.com/p/44217268)
+
+#### 实战
+* [MWCNN中使用的haar小波变换 pytorch](https://www.cnblogs.com/wanghui-garcia/p/12524515.html)
+* [【小波变换】小波变换入门----haar小波](https://blog.csdn.net/baidu_27643275/article/details/84826773)
+* [（3）小波变换原理及应用](https://blog.csdn.net/hhaowang/article/details/82909332)
+* [图像处理-小波变换](https://blog.csdn.net/qq_30815237/article/details/89704855)
 
 ## 机器学习理论与实战
 
@@ -791,8 +798,6 @@ ______
   * [当我们在谈论GBDT：从 AdaBoost 到 Gradient Boosting](https://zhuanlan.zhihu.com/p/25096501?refer=data-miner)
   * [当我们在谈论GBDT：Gradient Boosting 用于分类与回归](https://zhuanlan.zhihu.com/p/25257856?refer=data-miner)
   * [当我们在谈论GBDT：其他 Ensemble Learning 算法](https://zhuanlan.zhihu.com/p/25443980)
-
-
 
 ### 机器学习理论篇之经典算法
 
