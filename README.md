@@ -854,11 +854,8 @@ ______
 #### 支持向量机(SVM) 
 * [【机器学习面试总结】—— SVM](https://zhuanlan.zhihu.com/p/93715996)
 * [SVM系列-从基础到掌握](https://zhuanlan.zhihu.com/p/61123737)
-* [SVM通俗导论 July](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%E9%80%9A%E4%BF%97%E5%AF%BC%E8%AE%BA%EF%BC%88%E7%90%86%E8%A7%A3SVM%E7%9A%84%E4%B8%89%E5%B1%82%E5%A2%83%E7%95%8C%EF%BC%89LaTeX%E6%9C%80%E6%96%B0%E7%89%88_2015.1.9.pdf)      
-* [Python3《机器学习实战》学习笔记（八）：支持向量机原理篇之手撕线性SVM （SMO训练过程总结得清晰易懂）](https://blog.csdn.net/c406495762/article/details/78072313)      
-* [svm核函数的理解和选择](https://blog.csdn.net/leonis_v/article/details/50688766)
-* [核函数和径向基核函数 (Radial Basis Function)--RBF](https://blog.csdn.net/huang1024rui/article/details/51510611)                        
-* [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)       
+* [SVM通俗导论 July](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA%E9%80%9A%E4%BF%97%E5%AF%BC%E8%AE%BA%EF%BC%88%E7%90%86%E8%A7%A3SVM%E7%9A%84%E4%B8%89%E5%B1%82%E5%A2%83%E7%95%8C%EF%BC%89LaTeX%E6%9C%80%E6%96%B0%E7%89%88_2015.1.9.pdf) 
+* [核函数 ](): [机器学习有很多关于核函数的说法，核函数的定义和作用是什么？](https://www.zhihu.com/question/24627666) && [SVM中，高斯核为什么会把原始维度映射到无穷多维？](https://www.zhihu.com/question/35602879) && [svm核函数的理解和选择](https://blog.csdn.net/leonis_v/article/details/50688766) && [核函数和径向基核函数 (Radial Basis Function)--RBF](https://blog.csdn.net/huang1024rui/article/details/51510611) && [SVM核函数](https://blog.csdn.net/xiaowei_cqu/article/details/35993729)
 
 #### 提升方法(Adaboost)
 
