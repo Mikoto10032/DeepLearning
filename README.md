@@ -24,7 +24,7 @@
 * [百页机器学习](http://themlbook.com/wiki/doku.php)
 
 #### 深入理解
-* [《统计学习方法》李航](https://github.com/Mikoto10032/DeepLearning/tree/master/books/%E6%9D%8E%E8%88%AA-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0) && [《统计学习方法》各章节笔记](https://www.cnblogs.com/YongSun/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/) && [《统计学习方法》各章节笔记](https://zhuanlan.zhihu.com/c_1213397558586257408) && [推荐答案：statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)  &&  [《统计学习方法》各章节代码实现与课后习题参考解答](https://blog.csdn.net/breeze_blows/article/details/85469944)
+* [《统计学习方法》李航](https://github.com/Mikoto10032/DeepLearning/tree/master/books/%E6%9D%8E%E8%88%AA-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0) && [《统计学习方法》各章节笔记](https://www.cnblogs.com/YongSun/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/) && [《统计学习方法》各章节笔记](https://zhuanlan.zhihu.com/c_1213397558586257408) && [推荐答案：statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)  [《统计学习方法》各章节笔记](https://www.cnblogs.com/liaohuiqiang/category/1039314.html) &&  [《统计学习方法》各章节代码实现与课后习题参考解答](https://blog.csdn.net/breeze_blows/article/details/85469944)
 * [《模式识别与机器学习》 Christopher Bishop](https://github.com/Mikoto10032/DeepLearning/blob/master/books/模式识别与机器学习PRML_Chinese_vision.pdf)
 * [《机器学习》 周志华](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习周志华.pdf)    && [南瓜书：pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
 * [《机器学习实战》 PelerHarrington](https://github.com/Mikoto10032/DeepLearning/blob/master/books/机器学习实战%20中文双页版.pdf)
@@ -789,11 +789,8 @@ ______
 ## 机器学习理论与实战
 
 * [机器学习原理](https://github.com/shunliz/Machine-Learning):star:
-
 * [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)
-
-* [数据挖掘十大算法简要说明](http://www.cnblogs.com/en-heng/p/5013995.html)，[机器学习十大经典算法入门](https://blog.csdn.net/qq_42379006/article/details/80741808)， [【算法模型】轻松看懂机器学习十大常用算法](https://www.cnblogs.com/ljt1412451704/p/9678248.html)
-
+* [数据挖掘十大算法简要说明](http://www.cnblogs.com/en-heng/p/5013995.html)，[机器学习十大经典算法入门](https://blog.csdn.net/qq_42379006/article/details/80741808) && [【算法模型】轻松看懂机器学习十大常用算法](https://www.cnblogs.com/ljt1412451704/p/9678248.html)
 * [AdaBoost到GBDT系列]()
   * [当我们在谈论GBDT：从 AdaBoost 到 Gradient Boosting](https://zhuanlan.zhihu.com/p/25096501?refer=data-miner)
   * [当我们在谈论GBDT：Gradient Boosting 用于分类与回归](https://zhuanlan.zhihu.com/p/25257856?refer=data-miner)
