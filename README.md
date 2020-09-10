@@ -527,7 +527,8 @@
 * **Softmax**：[详解softmax函数以及相关求导过程](https://zhuanlan.zhihu.com/p/25723112)  &&  [softmax的log似然代价函数（公式求导）](https://blog.csdn.net/u014313009/article/details/51045303) && [从最优化的角度看待Softmax损失函数](https://zhuanlan.zhihu.com/p/45014864) && [【技术综述】一文道尽softmax loss及其变种](https://zhuanlan.zhihu.com/p/34044634)
 * **权重初始化**
   * [神经网络中的权重初始化一览：从基础到Kaiming](https://zhuanlan.zhihu.com/p/62850258)
-  * [深度学习入门--权重初始值的优化](https://zhuanlan.zhihu.com/p/61641174)
+  * [深度学习中常见的权重初始化方法](https://zhuanlan.zhihu.com/p/138064188)
+  * [深度学习中神经网络的几种权重初始化方法](https://blog.csdn.net/u012328159/article/details/80025785)
   * [谈谈神经网络权重为什么不能初始化为0](https://zhuanlan.zhihu.com/p/75879624)
   * [神经网络中的偏置（bias）究竟有这么用？](https://www.zhihu.com/question/305340182)
   * [深度学习里面的偏置为什么不加正则？](https://www.zhihu.com/question/66894061)
