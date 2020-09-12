@@ -532,6 +532,7 @@
   * [谈谈神经网络权重为什么不能初始化为0](https://zhuanlan.zhihu.com/p/75879624)
   * [神经网络中的偏置（bias）究竟有这么用？](https://www.zhihu.com/question/305340182)
   * [深度学习里面的偏置为什么不加正则？](https://www.zhihu.com/question/66894061)
+* [为什么说bagging是减少variance，而boosting是减少bias?](https://www.zhihu.com/question/26760839)
 
 ## 四. 炼丹术士那些事
 
