@@ -260,6 +260,7 @@
 * [反卷积](https://buptldy.github.io/2016/10/29/2016-10-29-deconv/) 
 * [Dilated/Atrous conv 空洞卷积/多孔卷积](https://blog.csdn.net/silence2015/article/details/79748729)
 * [卷积层输出大小尺寸计算及 “SAME” 和 “VALID”](https://blog.csdn.net/weixin_37697191/article/details/89527315) && [卷积的三种模式full, same, valid以及padding的same, valid](https://zhuanlan.zhihu.com/p/62760780)
+* [正常卷积与空洞卷积输出特征图与感受野大小的计算](https://blog.csdn.net/qq_43232545/article/details/103317773)
 * [【Tensorflow】tf.nn.depthwise_conv2d如何实现深度卷积?](https://blog.csdn.net/mao_xiao_feng/article/details/78003476)	
 * [【Tensorflow】tf.nn.atrous_conv2d如何实现空洞卷积？](https://blog.csdn.net/mao_xiao_feng/article/details/78003730)
 * [【Tensorflow】tf.nn.separable_conv2d如何实现深度可分卷积?](https://blog.csdn.net/mao_xiao_feng/article/details/78002811)	
