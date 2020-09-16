@@ -580,7 +580,7 @@
 * [【技术综述】 深度学习中的数据增强（上）](https://zhuanlan.zhihu.com/p/38345420) && [【技术综述】深度学习中的数据增强（下）](https://zhuanlan.zhihu.com/p/38437739)
 * [深度学习数据增广技术一览](https://zhuanlan.zhihu.com/p/144921458)
 * [《Bag of Tricks for Image Classification with CNN》](https://zhuanlan.zhihu.com/p/53324148)&& [pdf](https://arxiv.org/pdf/1812.01187.pdf)
-* [神经网络训练trick](https://zhuanlan.zhihu.com/p/59918821)
+* [深度神经网络模型训练中的最新tricks总结【原理与代码汇总】](https://zhuanlan.zhihu.com/p/66080948) && [神经网络训练trick](https://zhuanlan.zhihu.com/p/59918821)
 * [Kaggle解决方案分享]()
   * [从0上手Kaggle图像分类挑战：冠军解决方案详解](https://www.itcodemonkey.com/article/4898.html)
   * [Kaggle 冰山图像分类大赛近日落幕，看冠军团队方案有何亮点](https://www.leiphone.com/news/201803/u40cjEZWArBfFaBm.html)
