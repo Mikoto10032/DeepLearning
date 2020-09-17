@@ -1015,6 +1015,7 @@ ______
 * [Reco-papers](https://github.com/wzhe06/Reco-papers)
 * [Ad-papers](https://github.com/wzhe06/Ad-papers)
 * [deep-recommender-system](https://github.com/chocoluffy/deep-recommender-system)
+* [CTR预估系列入门手册](https://zhuanlan.zhihu.com/p/243243145)
 
 #### 教程
 
