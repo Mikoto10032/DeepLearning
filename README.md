@@ -1028,6 +1028,7 @@ ______
 * [《深度学习推荐系统》总结系列一](https://zhuanlan.zhihu.com/p/138446984) && [《深度学习推荐系统》总结系列二](https://zhuanlan.zhihu.com/p/140894123)
 * [推荐系统--完整的架构设计和算法(协同过滤、隐语义)](https://zhuanlan.zhihu.com/p/81752025) && [从0到1打造推荐系统-架构篇](https://zhuanlan.zhihu.com/p/123951784)
 * [协同过滤和基于内容推荐有什么区别？](https://www.zhihu.com/question/19971859)
+* [CTR深度交叉特征入门总结](https://zhuanlan.zhihu.com/p/257895631)
 
 #### 实战
 
