@@ -525,7 +525,8 @@
 * [为什么weight decay能够防止过拟合](https://www.zhihu.com/question/65626362)
 * [交叉熵代价函数（作用及公式推导）](https://blog.csdn.net/u014313009/article/details/51043064) && [交叉熵损失的来源、说明、求导与pytorch实现](https://zhuanlan.zhihu.com/p/67782576) && [Softmax函数与交叉熵](https://zhuanlan.zhihu.com/p/27223959) && [极大似然估计与最小化交叉熵损失或者KL散度为什么等价](https://zhuanlan.zhihu.com/p/84764177)
 * [梯度下降优化算法纵览](http://ruder.io/optimizing-gradient-descent/), [1](https://blog.csdn.net/qq_23269761/article/details/80901411), [2](https://www.cnblogs.com/guoyaohua/p/8542554.html), [几种优化算法的比较（BGD、SGD、Adam、RMSPROP）](https://blog.csdn.net/qq_32172681/article/details/100979476)
-* **Softmax**：[详解softmax函数以及相关求导过程](https://zhuanlan.zhihu.com/p/25723112)  &&  [softmax的log似然代价函数（公式求导）](https://blog.csdn.net/u014313009/article/details/51045303) && [从最优化的角度看待Softmax损失函数](https://zhuanlan.zhihu.com/p/45014864) && [【技术综述】一文道尽softmax loss及其变种](https://zhuanlan.zhihu.com/p/34044634)
+* **Softmax**：[详解softmax函数以及相关求导过程](https://zhuanlan.zhihu.com/p/25723112)  &&  [softmax的log似然代价函数（公式求导）](https://blog.csdn.net/u014313009/article/details/51045303) && [【技术综述】一文道尽softmax loss及其变种](https://zhuanlan.zhihu.com/p/34044634)
+* [从最优化的角度看待Softmax损失函数](https://zhuanlan.zhihu.com/p/45014864)  && [Softmax理解之二分类与多分类](https://zhuanlan.zhihu.com/p/45368976) && [Softmax理解之Smooth程度控制](https://zhuanlan.zhihu.com/p/49939159) && [Softmax理解之margin](https://zhuanlan.zhihu.com/p/52108088)
 * **权重初始化**
   * [神经网络中的权重初始化一览：从基础到Kaiming](https://zhuanlan.zhihu.com/p/62850258)
   * [深度学习中常见的权重初始化方法](https://zhuanlan.zhihu.com/p/138064188)
