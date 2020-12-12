@@ -345,8 +345,9 @@
 
 * [深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
 * [Attention Model（mechanism） 的 套路](https://blog.csdn.net/bvl10101111/article/details/78470716)
-* [计算机视觉中的注意力机制（推荐）](https://zhuanlan.zhihu.com/p/146130215)
+* [计算机视觉中的注意力机制（推荐）](https://zhuanlan.zhihu.com/p/146130215) 
 * [More About Attention（推荐）](https://zhuanlan.zhihu.com/p/106662375)
+* [计算机视觉中的注意力机制](https://zhuanlan.zhihu.com/p/32928645)
 * [NLP中的Attention Mechanism](https://zhuanlan.zhihu.com/p/31547842)
 * [Transformer中的Attention](https://mp.weixin.qq.com/s/k8PdZAld2ANVoekuyQxI3w)
 * [综述：图像处理中的注意力机制](https://bbs.cvmart.net/topics/2581)
