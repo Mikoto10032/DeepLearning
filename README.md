@@ -352,6 +352,11 @@
 * [Transformer中的Attention](https://mp.weixin.qq.com/s/k8PdZAld2ANVoekuyQxI3w)
 * [综述：图像处理中的注意力机制](https://bbs.cvmart.net/topics/2581)
 
+##### 特征融合
+
+* [盘点目标检测中的特征融合技巧（根据YOLO v4总结）](https://zhuanlan.zhihu.com/p/141685352)
+* [多尺度融合介绍](https://zhuanlan.zhihu.com/p/147820687)
+
 #### Action
 
 * [PyTorch官方实现ResNet](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py) && [pytorch_resnet_cifar10](https://github.com/akamaster/pytorch_resnet_cifar10)
