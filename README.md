@@ -1030,6 +1030,8 @@ ______
 * [深度学习推荐系统笔记](https://zhuanlan.zhihu.com/p/133528693)
 * [推荐系统干货总结](https://zhuanlan.zhihu.com/p/34004488)
 * [入门推荐系统，你不应该错过的知识清单](https://zhuanlan.zhihu.com/p/54819505)
+* [从零开始了解推荐系统全貌](https://zhuanlan.zhihu.com/p/259985388)
+* [推荐系统玩家 之 推荐系统入门——推荐系统的发展历程（上）](https://zhuanlan.zhihu.com/p/148207613)
 * [推荐系统技术演进趋势：从召回到排序再到重排](https://zhuanlan.zhihu.com/p/100019681)
 * [深入理解推荐系统：召回](https://zhuanlan.zhihu.com/p/115690499) && [深入理解推荐系统：排序](https://zhuanlan.zhihu.com/p/138235048)   
 * [《深度学习推荐系统》总结系列一](https://zhuanlan.zhihu.com/p/138446984) && [《深度学习推荐系统》总结系列二](https://zhuanlan.zhihu.com/p/140894123)
