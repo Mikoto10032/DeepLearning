@@ -928,7 +928,7 @@ ______
 
 #### 集成(Ensemble)
 
-* [集成学习之bagging,stacking,boosting概念理解](https://zhuanlan.zhihu.com/p/41809927)
+* [集成学习之bagging,stacking,boosting概念理解](https://zhuanlan.zhihu.com/p/41809927) && [Bagging和Boosting的总结](https://www.zhihu.com/follow)
 
 * [集成学习法之bagging方法和boosting方法](https://blog.csdn.net/qq_30189255/article/details/51532442)
 * [Bagging,Boosting,Stacking](https://blog.csdn.net/Mr_tyting/article/details/72957853) && [常用的模型集成方法介绍：bagging、boosting 、stacking](https://zhuanlan.zhihu.com/p/65888174)
