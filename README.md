@@ -20,7 +20,7 @@
 #### 快速入门
 * [机器学习算法地图](http://www.tensorinfinity.com/paper_18.html)
 * [机器学习 吴恩达 Coursera个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-Coursera%5D%5B2014%5D%5BAndrew%20Ng%5D/%5B2014%5D%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88v5.1.pdf)  && [视频（含官方笔记）](https://www.coursera.org/learn/machine-learning)  
-* [CS229 课程讲义中文翻译](https://kivy-cn.github.io/Stanford-CS-229-CN/#/) && [机器学习 吴恩达 cs229个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-CS229%5D%5B2011%5D%5BAndrew%20NG%5D/%5B2011%5D%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94.pdf) && [官网（笔记）](http://cs229.stanford.edu/)  && [视频（中文字幕）](http://open.163.com/special/opencourse/machinelearning.html)   
+* [CS229 课程讲义中文翻译](https://kivy-cn.github.io/Stanford-CS-229-CN/#/) && [机器学习 吴恩达 cs229个人笔记](https://github.com/Mikoto10032/DeepLearning/blob/master/books/%5BML-CS229%5D%5B2011%5D%5BAndrew%20NG%5D/%5B2011%5D%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%E4%B8%AA%E4%BA%BA%E7%AC%94.pdf) && [官网（笔记）](http://cs229.stanford.edu/)  && [视频（中文字幕）](http://open.163.com/newview/movie/free?pid=M6SGF6VB4&mid=M6SGHFBMC)   
 * [百页机器学习](http://themlbook.com/wiki/doku.php)
 
 #### 深入理解
@@ -360,6 +360,7 @@
 #### Action
 
 * [PyTorch官方实现ResNet](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py) && [pytorch_resnet_cifar10](https://github.com/akamaster/pytorch_resnet_cifar10)
+* [PyTorch 63.Coding for FLOPs, Params and Latency](https://zhuanlan.zhihu.com/p/268816646)
 * [先读懂CapsNet架构然后用TensorFlow实现](https://zhuanlan.zhihu.com/p/30753326)
 * [目标检测-20种模型的原味代码汇总](https://zhuanlan.zhihu.com/p/37056927)     
 * [TensorFlow Object Detection API 教程](https://blog.csdn.net/qq_36148847/article/details/79306762)
