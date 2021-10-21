@@ -976,6 +976,7 @@ ______
 * [小样本学习（Few-shot Learning）综述](https://zhuanlan.zhihu.com/p/61215293)
 * [Few-Shot Learning in CVPR 2019](https://towardsdatascience.com/few-shot-learning-in-cvpr19-6c6892fc8c5)
 * [当小样本遇上机器学习 fewshot learning](https://blog.csdn.net/mao_feng/article/details/78939864)
+* [小样本学习理论与实战资源合集(FSL-Mate)](https://github.com/tata1661/FSL-Mate)
 
 ### 多视觉学习(Multi-View Learning)
 * [Multi-view Learning 多视角学习入门](https://blog.csdn.net/danliwoo/article/details/79278574)
