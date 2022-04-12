@@ -1024,6 +1024,13 @@ ______
 * [从强化学习到深度强化学习（下）](https://zhuanlan.zhihu.com/p/35965070)
 * [一文带你理解Q-Learning的搜索策略](https://zhuanlan.zhihu.com/p/37048004)
 
+### 对比学习(Contrastive Learning)
+
+* [论文列表](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
+* [对比学习（Contrastive Learning）:研究进展精要](https://zhuanlan.zhihu.com/p/367290573)
+* [对比学习（Contrastive Learning）综述](https://zhuanlan.zhihu.com/p/346686467)
+* [理解对比损失的性质以及温度系数的作用](https://zhuanlan.zhihu.com/p/357071960)
+
 ### 推荐系统(Recommendation System)
 
 #### 论文列表
