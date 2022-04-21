@@ -684,6 +684,7 @@
 ### 深度学习常用命令
 
 * [command_for_deeplearning](https://github.com/Stephenfang51/command_for_deeplearning/blob/master/command%20for%20deeplearning.md)
+* [Shell编程](https://zhuanlan.zhihu.com/p/102176365)
 
 ### Python可视化
 
